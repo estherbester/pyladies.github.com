@@ -17,7 +17,8 @@ git push
 &lt;h2&gt;How to submit an article or event&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Fork this project on github&lt;/li&gt;
-&lt;li&gt;In your local branch, place your article or event in the appropriate directory (&lt;tt class="docutils literal"&gt;articles&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;events&lt;/tt&gt;). The content must be formatted using RestructuredText.&lt;/li&gt;
+&lt;li&gt;In your local branch, place your article or event in the appropriate directory (&lt;tt class="docutils literal"&gt;articles&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;events&lt;/tt&gt;).&lt;/li&gt;
+&lt;li&gt;The content must be formatted using RestructuredText or MarkDown.&lt;/li&gt;
 &lt;li&gt;Submit a pull request&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
