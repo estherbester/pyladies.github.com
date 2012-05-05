@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://pydanny.pyladies.com" rel="alternate"></link><link href="http://pydanny.pyladies.com/feeds/website.atom.xml" rel="self"></link><id>http://pydanny.pyladies.com</id><updated>2012-05-04T20:38:00Z</updated><entry><title>pyladies.com</title><link href="http://pydanny.pyladies.com/pyladiescom.html" rel="alternate"></link><updated>2012-05-04T20:38:00Z</updated><author><name>Esther Nam</name></author><id>http://pydanny.pyladies.com/pyladiescom.html</id><summary type="html">&lt;p&gt;The actual pyladies.com website, redone using Github static pages so the entire world can see articles and events in progress. If something isn't listed, then submit a contribution.&lt;/p&gt;
+&lt;p&gt;How to get it running:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;pip install pelican
+git clone git://github.com/pyladies/pyladies.github.com.git
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;How to push up entries and pages and themes:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;pelican . -o . -s settings.py
+git commit -am &lt;span class="s2"&gt;&amp;quot;Adding content here&amp;quot;&lt;/span&gt;
+git push
+&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="section" id="results"&gt;
+&lt;h2&gt;Results!&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pyladies.github.com"&gt;http://pyladies.github.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="how-to-submit-an-article-or-event"&gt;
+&lt;h2&gt;How to submit an article or event&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Fork this project on github&lt;/li&gt;
+&lt;li&gt;In your local branch, place your article or event in the appropriate directory (&lt;tt class="docutils literal"&gt;articles&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;events&lt;/tt&gt;). The content must be formatted using RestructuredText.&lt;/li&gt;
+&lt;li&gt;Submit a pull request&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="why-articles-and-events-may-get-rejected"&gt;
+&lt;h2&gt;Why articles and events may get rejected&lt;/h2&gt;
+&lt;p&gt;There are a number of reasons why this may have occurred:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Inappropriate content submitted&lt;/li&gt;
+&lt;li&gt;Spelling or grammatical errors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="pyladies"></category><category term="website"></category></entry></feed>
