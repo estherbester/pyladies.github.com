@@ -3,7 +3,7 @@ May 12, 2012 SF Study Group
 ============================
 
 :date: 2012-05-05 14:07
-:tags: PyladiesSF, Studygroup
+:tags: PyladiesSF, StudyGroup
 :category: Events
 
 Hey Ladies!
