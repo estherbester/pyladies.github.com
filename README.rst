@@ -1,6 +1,6 @@
-============
-pyladies.com
-============
+========================
+pyladies.com site setup
+========================
 
 :date: 2012-05-04 20:38
 :tags: pyladies, website
@@ -34,6 +34,7 @@ How to submit an article or event
 * Fork this project on github
 * In your local branch, place your article or event in the appropriate directory (``articles`` or ``events``).
 * The content must be formatted using RestructuredText or MarkDown.
+* Don't submit the rendered HTML.
 * Submit a pull request
 
 Why articles and events may get rejected
@@ -43,3 +44,4 @@ There are a number of reasons why this may have occurred:
 
 * Inappropriate content submitted
 * Spelling or grammatical errors
+* Pull request included the rendered HTML
