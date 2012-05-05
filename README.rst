@@ -29,7 +29,7 @@ Results!
 http://pyladies.github.com
 
 How to submit an article or event
-===================================
+=====================================
 
 * Fork this project on github
 * In your local branch, place your article or event in the appropriate directory (``articles`` or ``events``).
@@ -45,3 +45,8 @@ There are a number of reasons why this may have occurred:
 * Inappropriate content submitted
 * Spelling or grammatical errors
 * Pull request included the rendered HTML
+
+How to submit a static page
+===========================
+
+Simply create a RST or MD file in the Pages directory. It's title will appear in the navigation in TitleCase.

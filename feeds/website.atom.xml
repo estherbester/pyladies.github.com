@@ -32,4 +32,8 @@ git push
 &lt;li&gt;Pull request included the rendered HTML&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="how-to-submit-a-static-page"&gt;
+&lt;h2&gt;How to submit a static page&lt;/h2&gt;
+&lt;p&gt;Simply create a RST or MD file in the Pages directory. It's title will appear in the navigation in TitleCase.&lt;/p&gt;
+&lt;/div&gt;
 </summary><category term="pyladies"></category><category term="website"></category></entry></feed>
