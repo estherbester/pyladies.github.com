@@ -5,5 +5,5 @@ SITENAME = 'pyladies'
 SOCIAL = (('twitter', 'http://twitter.com/pyladies'),
           ('github', 'https://github.com/pyladies'),)
 TAG_FEED = 'feeds/%s.atom.xml'
-THEME='Just-Read'
+THEME='waterspill'
 TWITTER_USERNAME = 'pyladies'
