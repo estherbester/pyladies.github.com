@@ -4,7 +4,7 @@ pyladies.com site setup
 
 :date: 2012-05-04 20:38
 :tags: pyladies, website
-:category: website
+:category: articles
 
 The actual pyladies.com website, redone using Github static pages so the entire world can see articles and events in progress. If something isn't listed, then submit a contribution.
 
