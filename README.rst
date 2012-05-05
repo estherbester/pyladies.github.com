@@ -31,11 +31,12 @@ http://pyladies.github.com
 How to submit an article or event
 =====================================
 
-* Fork this project on github
-* In your local branch, place your article or event in the appropriate directory (``articles`` or ``events``).
+* Fork the https://github.com/pyladies/articles or https://github.com/pyladies/events projects on github
+* In your local branch, place your article or event in the appropriate project.
 * The content must be formatted using RestructuredText or MarkDown.
 * Don't submit the rendered HTML.
 * Submit a pull request
+* The maintainers of this site will then review and either publish or reject your article submission.
 
 Why articles and events may get rejected
 ========================================

@@ -16,11 +16,12 @@ git push
 &lt;div class="section" id="how-to-submit-an-article-or-event"&gt;
 &lt;h2&gt;How to submit an article or event&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Fork this project on github&lt;/li&gt;
-&lt;li&gt;In your local branch, place your article or event in the appropriate directory (&lt;tt class="docutils literal"&gt;articles&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;events&lt;/tt&gt;).&lt;/li&gt;
+&lt;li&gt;Fork the &lt;a class="reference external" href="https://github.com/pyladies/articles"&gt;https://github.com/pyladies/articles&lt;/a&gt; or &lt;a class="reference external" href="https://github.com/pyladies/events"&gt;https://github.com/pyladies/events&lt;/a&gt; projects on github&lt;/li&gt;
+&lt;li&gt;In your local branch, place your article or event in the appropriate project.&lt;/li&gt;
 &lt;li&gt;The content must be formatted using RestructuredText or MarkDown.&lt;/li&gt;
 &lt;li&gt;Don't submit the rendered HTML.&lt;/li&gt;
 &lt;li&gt;Submit a pull request&lt;/li&gt;
+&lt;li&gt;The maintainers of this site will then review and either publish or reject your article submission.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="why-articles-and-events-may-get-rejected"&gt;
