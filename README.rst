@@ -32,7 +32,8 @@ How to submit an article or event
 ===================================
 
 * Fork this project on github
-* In your local branch, place your article or event in the appropriate directory (``articles`` or ``events``). The content must be formatted using RestructuredText.
+* In your local branch, place your article or event in the appropriate directory (``articles`` or ``events``).
+* The content must be formatted using RestructuredText or MarkDown.
 * Submit a pull request
 
 Why articles and events may get rejected
