@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://pydanny.pyladies.com" rel="alternate"></link><link href="http://pydanny.pyladies.com/feeds/all.atom.xml" rel="self"></link><id>http://pydanny.pyladies.com</id><updated>2012-05-05T14:07:00Z</updated><entry><title>May 12, 2012 SF Study Group</title><link href="http://pydanny.pyladies.com/may-12-2012-sf-study-group.html" rel="alternate"></link><updated>2012-05-05T14:07:00Z</updated><author><name>Esther Nam</name></author><id>http://pydanny.pyladies.com/may-12-2012-sf-study-group.html</id><summary type="html">&lt;p&gt;Hey Ladies!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/all.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-05T14:07:00Z</updated><entry><title>May 12, 2012 SF Study Group</title><link href="http://www.pyladies.com/may-12-2012-sf-study-group.html" rel="alternate"></link><updated>2012-05-05T14:07:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/may-12-2012-sf-study-group.html</id><summary type="html">&lt;p&gt;Hey Ladies!&lt;/p&gt;
 &lt;p&gt;Udacity is offering a free online intro to programming course starting Monday April 16th. Each week, videos will be posted online at the start of the week and homework will be due on the Tuesday of the following week.&lt;/p&gt;
 &lt;p&gt;Let's meet every Wednesday evening; exact time &amp;amp; place will be coordinated with soon, but will be in the SF city area.&lt;/p&gt;
 &lt;p&gt;Please watch the videos beforehand so we can work on homework together. There are multiple courses, no need to all do the same. We can help each other!&lt;/p&gt;
 &lt;p&gt;Also - this event is for women, those who identify as women, and their friends (of either gender). Emphatically queer &amp;amp; trans friendly.&lt;/p&gt;
 &lt;p&gt;See &lt;a class="reference external" href="http://www.meetup.com/PyLadiesSF/events/62203752/"&gt;http://www.meetup.com/PyLadiesSF/events/62203752/&lt;/a&gt;&lt;/p&gt;
-</summary><category term="PyladiesSF"></category><category term="StudyGroup"></category></entry><entry><title>pyladies.com site setup</title><link href="http://pydanny.pyladies.com/pyladiescom-site-setup.html" rel="alternate"></link><updated>2012-05-04T20:38:00Z</updated><author><name>Esther Nam</name></author><id>http://pydanny.pyladies.com/pyladiescom-site-setup.html</id><summary type="html">&lt;p&gt;The actual pyladies.com website, redone using Github static pages so the entire world can see articles and events in progress. If something isn't listed, then submit a contribution.&lt;/p&gt;
+</summary><category term="PyladiesSF"></category><category term="StudyGroup"></category></entry><entry><title>pyladies.com site setup</title><link href="http://www.pyladies.com/pyladiescom-site-setup.html" rel="alternate"></link><updated>2012-05-04T20:38:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pyladiescom-site-setup.html</id><summary type="html">&lt;p&gt;The actual pyladies.com website, redone using Github static pages so the entire world can see articles and events in progress. If something isn't listed, then submit a contribution.&lt;/p&gt;
 &lt;p&gt;How to get it running:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;pip install pelican
 git clone git://github.com/pyladies/pyladies.github.com.git
@@ -22,9 +22,9 @@ git push
 &lt;div class="section" id="how-to-submit-an-article-or-event"&gt;
 &lt;h2&gt;How to submit an article or event&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Fork the &lt;a class="reference external" href="https://github.com/pyladies/articles"&gt;https://github.com/pyladies/articles&lt;/a&gt; or &lt;a class="reference external" href="https://github.com/pyladies/events"&gt;https://github.com/pyladies/events&lt;/a&gt; projects on github&lt;/li&gt;
-&lt;li&gt;In your local branch, place your article or event in the appropriate project.&lt;/li&gt;
-&lt;li&gt;The content must be formatted using RestructuredText or MarkDown.&lt;/li&gt;
+&lt;li&gt;Fork the &lt;a class="reference external" href="https://github.com/pyladies/pyladies.com-articles"&gt;https://github.com/pyladies/pyladies.com-articles&lt;/a&gt; or &lt;a class="reference external" href="https://github.com/pyladies/pyladies.com-events"&gt;https://github.com/pyladies/pyladies.com-events&lt;/a&gt; projects on github&lt;/li&gt;
+&lt;li&gt;In your local branch, place your article or event in its respective project directory.&lt;/li&gt;
+&lt;li&gt;The content must be formatted using RestructuredText, MarkDown, or (as a last resort) plain text.&lt;/li&gt;
 &lt;li&gt;Don't submit the rendered HTML.&lt;/li&gt;
 &lt;li&gt;Submit a pull request&lt;/li&gt;
 &lt;li&gt;The maintainers of this site will then review and either publish or reject your article submission.&lt;/li&gt;
@@ -41,6 +41,6 @@ git push
 &lt;/div&gt;
 &lt;div class="section" id="how-to-submit-a-static-page"&gt;
 &lt;h2&gt;How to submit a static page&lt;/h2&gt;
-&lt;p&gt;Simply create a RST or MD file in the Pages directory. It's title will appear in the navigation in TitleCase.&lt;/p&gt;
+&lt;p&gt;Simply create a RST or MD file in the Pages directory. Its title will appear in the navigation in TitleCase.&lt;/p&gt;
 &lt;/div&gt;
 </summary><category term="Website"></category></entry></feed>
