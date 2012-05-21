@@ -1,5 +1,9 @@
 AUTHOR = 'Esther Nam'
 GITHUB_URL = 'https://github.com/pyladies'
+PAGE_DIR = 'pages'
+PATH = ""
+OUTPUT_PATH = ''
+ARTICLE_DIR = 'articles'
 SITEURL = 'http://www.pyladies.com'
 SITENAME = 'pyladies'
 SOCIAL = (('twitter', 'http://twitter.com/pyladies'),
