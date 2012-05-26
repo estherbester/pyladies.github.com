@@ -14,6 +14,8 @@ Here's what to do:
 
 1. Follow our RSS feed for events and gatherings.
 2. Join us at events and gatherings, or organize your own local Pyladies chapter!
+3. Sign up for our `Google Group discussion list <https://groups.google.com/group/pyladies>`. 
+
 
 Developers Only
 ================
@@ -22,11 +24,16 @@ Developers and aspiring developers only, please!  There are some fantastic group
 Organization of PyLadies
 ========================
 
-PyLadies is a chapter based organization, where women from each municipality around the world can begin their own group. Each group is literally a Python Users Group, and the Python Software Foundation, via the Outreach and Education Board, provides encouragement and base funding for things like web hosting.
+PyLadies is a chapter based organization, where women from each municipality around the world can begin their own group. Each group is basically a Python Users Group, and the Python Software Foundation, via the Outreach and Education Board, provides encouragement and base funding for things like web hosting.
 
 TODO: Add contact points for PSF
+
+
+Contact PyLadies Privately
+==========================
+You are pretty much guaranteed you will reach a human being at info@pyladies.com.
 
 This website
 ==============
 
-This website and the content therein is maintained by Esther Nam and Jessican Stanton. Hosting is graciously provided by Github's static pages. 
+This website and the content therein is maintained by Esther Nam and Jessica Stanton. Hosting is graciously provided by Github's static pages. 
