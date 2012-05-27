@@ -4,7 +4,7 @@ import subprocess
 from BeautifulSoup import RobustInsanelyWackAssHTMLParser
 
 
-PAGE_URLS = ['t-shirts',
+PAGE_URLS = [#'t-shirts', 
              'events',
              'events/pycon2012',
              'events/2012-pyladies-pycon-grant-program-final-results',
