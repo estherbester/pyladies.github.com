@@ -632,171 +632,6 @@ logo was designed by xtine.&lt;/p&gt;
 &lt;p&gt;Available: Womens L, Mens S/L&lt;/p&gt;
 &lt;p&gt;A pre-order form will be available for a reprint run!&lt;/p&gt;
 &lt;p&gt;&lt;img alt="image0" src="http://i.imgur.com/7epc8.png" /&gt; Model: &lt;a class="reference external" href="http://twitter.com/#!/jeffschenck"&gt;Jeff Schenck&lt;/a&gt;&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Recap: June 2011 Hollywood Hackathon at Border Stylo</title><link href="http://www.pyladies.com/recap-june-2011-hollywood-hackathon-at-border-stylo.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recap-june-2011-hollywood-hackathon-at-border-stylo.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted June 24, 2011, 3:10 a.m.&lt;/p&gt;
-&lt;p&gt;Last Saturday we held our first hackathon of the summer at the offices
-of &lt;a class="reference external" href="http://borderstylo.com"&gt;Border Stylo&lt;/a&gt; in Hollywood, in partnership
-with the &lt;a class="reference external" href="http://socal-piggies.org"&gt;SoCal Python Interest Group&lt;/a&gt;
-(“SoCal Piggies”). We invited not only newcomers to Python programming,
-like those who attended the &lt;a class="reference external" href="/blog/intro-to-python-workshop-recap/"&gt;May Beginner’s
-Workshop,&lt;/a&gt; but also seasoned
-developers who came to hack away on their own projects -- and who
-happily volunteered themselves to be mentors to those aforementioned
-n00bs.&lt;/p&gt;
-&lt;p&gt;Roughly 60% of the day’s 55 in-person participants and 90% of the 30
-remote participants were female, well beyond the PyLadies’ goal of
-having a 1:1 male-female ratio at Pythonista events.&lt;/p&gt;
-&lt;p&gt;OSS Bounty&lt;/p&gt;
-&lt;p&gt;A few days before the hackathon, Audrey &lt;a class="reference external" href="https://twitter.com/#%21/pyladies/status/81081811853258752"&gt;put out the
-call&lt;/a&gt; for
-hackers to contribute to open source projects, offering these freshly
-printed PyLadies shirts as a reward for anyone who committed code to a
-FOSS project (Audrey's wearing the new one!):&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pydanny/5851930958/"&gt;|Chris and Audrey|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Some of the PyLadies continued to work their way through Zed Shaw’s
-“&lt;a class="reference external" href="http://learnpythonthehardway.org/"&gt;Learn Python the Hard Way,&lt;/a&gt;”
-the book we used at the Beginner’s Workshop.
-&lt;a class="reference external" href="https://twitter.com/#%21/ardaniel/status/82242329506881536"&gt;&amp;#64;ardaniel&lt;/a&gt;
-was the first person to earn a PyLadies shirt, by committing to
-&lt;a class="reference external" href="http://github.com"&gt;GitHub&lt;/a&gt;&amp;nbsp;the exercises she’d done and notes she'd
-written up from LPTHW.
-A group of folks had driven down from NorCal to help the SoCal Piggies
-work on &lt;a class="reference external" href="https://github.com/lapython/pythonla"&gt;a new website&lt;/a&gt; using
-the Pyramid web framework. After traveling all that way, it’s no
-surprise that they opted for the comfy couches:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pydanny/5851379185/"&gt;|The Future of
-Python|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Even people who couldn’t attend the hackathon in person, citing lame
-excuses such as not being located in California, were nevertheless
-invited to join in the fun -- Audrey will be shipping free shirts to
-everyone who participated remotely and&amp;nbsp;contributed to open-source,
-including one PyLady who committed code from across the Atlantic:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://twitter.com/asendecka"&gt;|image2|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;What time was it in Poland???&lt;/p&gt;
-&lt;p&gt;During the hackathon we threw the #pyladies IRC chatroom up on the big
-screen so people could follow online discussions no matter where they
-were sitting -- without straining their thumbs from alt-tabbing. (PS If
-you want to join us on IRC anytime, we are in #pyladies on
-freenode.net!)&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5865614874/"&gt;|IMG_1649.JPG|&lt;/a&gt;&lt;/p&gt;
-&lt;div class="section" id="id1"&gt;
-&lt;h2&gt;The Future of Python&lt;/h2&gt;
-&lt;p&gt;After 4 hours of intensive hacking, it was time to take a break! Audrey
-herded us outside for a group photo. As PyDanny notes, it's a glimpse of
-the Python community of the future:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5851383215/"&gt;|IMG_2468a.jpg|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Pretty grand!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="after-dark"&gt;
-&lt;h2&gt;After Dark&lt;/h2&gt;
-&lt;p&gt;Though the Hollywood sky was outside was warm and bright, we soon
-drifted back indoors to chow down on Crispy Crust pizza and wings while
-listening to the end-of-day lightning talks:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Dirk gave a demo of his &lt;a class="reference external" href="http://opani.com"&gt;Opani&lt;/a&gt; platform, which
-leverages the cloud for social supercomputing.&lt;/li&gt;
-&lt;li&gt;Michael introduced the
-&lt;a class="reference external" href="http://docs.pylonsproject.org/projects/pyramid/dev/"&gt;Pyramid&lt;/a&gt; web
-framework and &lt;a class="reference external" href="http://jenkins-ci.org/"&gt;Jenkins CI&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Sandy shared some
-&lt;a class="reference external" href="http://www.youtube.com/watch?v=Kg0Rvj-Seto"&gt;amazing&lt;/a&gt;
-&lt;a class="reference external" href="http://www.youtube.com/watch?v=WDqYWsl39Ro"&gt;demos&lt;/a&gt; of
-&lt;a class="reference external" href="http://openkinect.org/wiki/Python_Wrapper"&gt;Python&lt;/a&gt;-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Kinect"&gt;Xbox
-Kinect&lt;/a&gt;&amp;nbsp;&lt;a class="reference external" href="http://www.youtube.com/watch?v=PYq9gkdpiS8"&gt;hacking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://twitter.com/jacobburch"&gt;Jacob&lt;/a&gt; gave a PEP8 talk on best
-practices&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/#%21/jeffschenck"&gt;Jeff&lt;/a&gt; admonished us to leave
-no Windows developers behind&lt;/li&gt;
-&lt;li&gt;Katharine and Danny proffered some
-&lt;a class="reference external" href="http://kjamistan.tumblr.com/post/6675268237/on-becoming-a-fabulous-pythonista"&gt;words&lt;/a&gt;
-of
-&lt;a class="reference external" href="http://www.slideshare.net/pydanny/confessions-of-a-joe-developer"&gt;encouragement&lt;/a&gt;
-for developers of all skill levels.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5851386011/"&gt;|IMG_2518a.jpg|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;After the lightning talks, it was time to clean up, load out, and head
-over to the Melgard Public House for some well-earned beer and
-socializing time! &amp;nbsp;This part was originally supposed to be Python
-Ladies’ Night 4, but once we found that the PyDudes weren’t so bad to
-hang out with, &amp;nbsp;we gladly invited them along. &amp;nbsp;Fun was had by all!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="big-thank-yous"&gt;
-&lt;h2&gt;Big Thank-Yous&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5851937660/"&gt;|IMG_2529.JPG|&lt;/a&gt;&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 2); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Duplicate explicit target name: &amp;quot;border stylo&amp;quot;.&lt;/div&gt;
-&lt;p&gt;Gabriel, who played the part of event host on behalf of &lt;a class="reference external" href="http://www.borderstylo.com"&gt;Border
-Stylo&lt;/a&gt;, said that of all the events his
-company has held (which is a lot!), ours was by far the smoothest and
-most awesome. &amp;nbsp;Hope this means you’ll have us back, Gabe!&lt;/p&gt;
-&lt;p&gt;We of course have to thank the &lt;a class="reference external" href="http://www.python.org/psf/"&gt;Python Software
-Foundation&lt;/a&gt; for giving us
-&lt;a class="reference external" href="/blog/thank-you-python-software-foundation/"&gt;two&lt;/a&gt;
-&lt;a class="reference external" href="http://pythonsprints.com"&gt;grants&lt;/a&gt; to support this hackathon. &amp;nbsp;Thanks
-to them, we were able to purchase enough tables and chairs to keep 55
-hackers coding happily away in the same room, which led to much mingling
-and mentoring. &amp;nbsp;They also helped foot the bill for drinks, snacks and
-dinner, so that we could fortify our hardworking brains with
-glucose-heavy treats and sodas all day long. And let's not forget the
-wonderful T-shirts for open source contributors!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="coming-up"&gt;
-&lt;h2&gt;Coming up....&lt;/h2&gt;
-&lt;p&gt;We really want to keep the momentum going for opening up the Python
-community to people of all stripes, and to provide a non-threatening
-environment where everyone feels welcome to work on their projects and
-learn to become a better developer without having to worry about whether
-they fit in or feeling stupid for trying.
-&lt;a class="reference external" href="https://twitter.com/#%21/bravoflix/statuses/82447967637872641"&gt;|image7|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;To that end, we’ve got at least &lt;a class="reference external" href="/events"&gt;a few more hackathons and other cool
-outings&lt;/a&gt; in the works, so don’t forget to sign up for our
-mailing list, and &lt;a class="reference external" href="http://twitter.com/pyladies"&gt;follow us on
-Twitter&lt;/a&gt;&amp;nbsp;so you'll be the first to know
-when and where and what the PyLadies will be doing next! Thanks to all
-who attended, whether virtually or in-person -- and sorry to those on
-the waitlist who couldn't: we hope you'll catch us earlier next time, or
-connect with us online!&lt;/p&gt;
-&lt;!-- |Chris and --&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 152)&lt;/p&gt;
-malformed substitution definition.&lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 153)&lt;/p&gt;
-Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;Audrey| image:: &lt;a class="reference external" href="http://farm3.static.flickr.com/2536/5851930958_1c71ea5c0f_m.jpg"&gt;http://farm3.static.flickr.com/2536/5851930958_1c71ea5c0f_m.jpg&lt;/a&gt;
-.. &lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;|The Future of
-Python|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm6.static.flickr.com/5157/5851379185_1f82df2c51_m.jpg"&gt;http://farm6.static.flickr.com/5157/5851379185_1f82df2c51_m.jpg&lt;/a&gt;
-.. &lt;a href="#id5"&gt;&lt;span class="problematic" id="id6"&gt;|image2|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://style.esthernam.com/pyladies/images/poland.png"&gt;http://style.esthernam.com/pyladies/images/poland.png&lt;/a&gt;
-.. &lt;a href="#id7"&gt;&lt;span class="problematic" id="id8"&gt;|IMG\_1649.JPG|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm3.static.flickr.com/2720/5865614874_48f47f16e8_m.jpg"&gt;http://farm3.static.flickr.com/2720/5865614874_48f47f16e8_m.jpg&lt;/a&gt;
-.. &lt;a href="#id9"&gt;&lt;span class="problematic" id="id10"&gt;|IMG\_2468a.jpg|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm6.static.flickr.com/5224/5851383215_1b5368d3a5.jpg"&gt;http://farm6.static.flickr.com/5224/5851383215_1b5368d3a5.jpg&lt;/a&gt;
-.. &lt;a href="#id11"&gt;&lt;span class="problematic" id="id12"&gt;|IMG\_2518a.jpg|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm6.static.flickr.com/5150/5851386011_d1b34c2c3e_m.jpg"&gt;http://farm6.static.flickr.com/5150/5851386011_d1b34c2c3e_m.jpg&lt;/a&gt;
-.. &lt;a href="#id13"&gt;&lt;span class="problematic" id="id14"&gt;|IMG\_2529.JPG|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm6.static.flickr.com/5144/5851937660_1acdbb5648_m.jpg"&gt;http://farm6.static.flickr.com/5144/5851937660_1acdbb5648_m.jpg&lt;/a&gt;
-.. &lt;a href="#id15"&gt;&lt;span class="problematic" id="id16"&gt;|image7|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://style.esthernam.com/pyladies/images/bravoflix.png"&gt;http://style.esthernam.com/pyladies/images/bravoflix.png&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="system-messages section"&gt;
-&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id3"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 153); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;The Future of Python&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id5"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 153); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;image2&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id7"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 153); &lt;em&gt;&lt;a href="#id8"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;IMG_1649.JPG&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id9"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 153); &lt;em&gt;&lt;a href="#id10"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;IMG_2468a.jpg&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id11"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 153); &lt;em&gt;&lt;a href="#id12"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;IMG_2518a.jpg&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id13"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 153); &lt;em&gt;&lt;a href="#id14"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;IMG_2529.JPG&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id15"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 153); &lt;em&gt;&lt;a href="#id16"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;image7&amp;quot;.&lt;/div&gt;
-&lt;/div&gt;
 </summary><category term="Archive"></category></entry><entry><title>Recap: PyLadies at DjangoCon 2011</title><link href="http://www.pyladies.com/recap-pyladies-at-djangocon-2011.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recap-pyladies-at-djangocon-2011.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted Sept. 14, 2011, 6 a.m.&lt;/p&gt;
 &lt;p&gt;Last week the PyLadies took Portland, Oregon by storm: after months of
 planning, brainstorming, planning, rehearsing, and even a bit of
@@ -1083,7 +918,112 @@ git push
 &lt;h2&gt;How to submit a static page&lt;/h2&gt;
 &lt;p&gt;Simply create a RST or MD file in the Pages directory. Its title will appear in the navigation in TitleCase.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Website"></category></entry><entry><title>Thank You, Python Software Foundation!</title><link href="http://www.pyladies.com/thank-you-python-software-foundation.html" rel="alternate"></link><updated>2011-06-07T07:12:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/thank-you-python-software-foundation.html</id><summary type="html">&lt;p&gt;It's true:&lt;/p&gt;
+</summary><category term="Website"></category></entry><entry><title>Recap: June 2011 Hollywood Hackathon at Border Stylo</title><link href="http://www.pyladies.com/recap-june-2011-hollywood-hackathon-at-border-stylo.html" rel="alternate"></link><updated>2011-06-24T03:10:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recap-june-2011-hollywood-hackathon-at-border-stylo.html</id><summary type="html">&lt;p&gt;Last Saturday we held our first hackathon of the summer at the offices of &lt;a class="reference external" href="http://borderstylo.com"&gt;Border Stylo&lt;/a&gt; in Hollywood, in partnership with the &lt;a class="reference external" href="http://socal-piggies.org"&gt;SoCal Python Interest Group&lt;/a&gt; (“SoCal Piggies”). We invited not only newcomers to Python programming, like those who attended the &lt;a class="reference external" href="/blog/intro-to-python-workshop-recap/"&gt;May Beginner’s Workshop,&lt;/a&gt; but also seasoned developers who came to hack away on their own projects -- and who happily volunteered themselves to be mentors to those aforementioned n00bs.&lt;/p&gt;
+&lt;p&gt;Roughly 60% of the day’s 55 in-person participants and 90% of the 30 remote participants were female, well beyond the PyLadies’ goal of having a 1:1 male-female ratio at Pythonista events.&lt;/p&gt;
+&lt;p&gt;OSS Bounty&lt;/p&gt;
+&lt;p&gt;A few days before the hackathon, Audrey &lt;a class="reference external" href="https://twitter.com/#%21/pyladies/status/81081811853258752"&gt;put out the call&lt;/a&gt; for hackers to contribute to open source projects, offering these freshly printed PyLadies shirts as a reward for anyone who committed code to a FOSS project (Audrey's wearing the new one!):&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO `|Chris and Audrey| &lt;http://www.flickr.com/photos/pydanny/5851930958/&gt;`_ --&gt;
+&lt;p&gt;Some of the PyLadies continued to work their way through Zed Shaw’s “&lt;a class="reference external" href="http://learnpythonthehardway.org/"&gt;Learn Python the Hard Way,&lt;/a&gt;” the book we used at the Beginner’s Workshop. &lt;a class="reference external" href="https://twitter.com/#%21/ardaniel/status/82242329506881536"&gt;&amp;#64;ardaniel&lt;/a&gt; was the first person to earn a PyLadies shirt, by committing to &lt;a class="reference external" href="http://github.com"&gt;GitHub&lt;/a&gt; the exercises she’d done and notes she'd written up from LPTHW. A group of folks had driven down from NorCal to help the SoCal Piggies work on &lt;a class="reference external" href="https://github.com/lapython/pythonla"&gt;a new website&lt;/a&gt; using the Pyramid web framework. After traveling all that way, it’s no surprise that they opted for the comfy couches:&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO `|The Future of Python| &lt;http://www.flickr.com/photos/pydanny/5851379185/&gt;`_ --&gt;
+&lt;p&gt;Even people who couldn’t attend the hackathon in person, citing lame excuses such as not being located in California, were nevertheless invited to join in the fun -- Audrey will be shipping free shirts to everyone who participated remotely and contributed to open-source, including one PyLady who committed code from across the Atlantic:&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO `|image2| &lt;http://twitter.com/asendecka&gt;`_ --&gt;
+&lt;p&gt;What time was it in Poland???&lt;/p&gt;
+&lt;p&gt;During the hackathon we threw the #pyladies IRC chatroom up on the big screen so people could follow online discussions no matter where they were sitting -- without straining their thumbs from alt-tabbing. (PS If you want to join us on IRC anytime, we are in #pyladies on freenode.net!)&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO `|IMG\_1649.JPG| &lt;http://www.flickr.com/photos/pyladies/5865614874/&gt;`_ --&gt;
+&lt;div class="section" id="the-future-of-python"&gt;
+&lt;h2&gt;The Future of Python&lt;/h2&gt;
+&lt;p&gt;After 4 hours of intensive hacking, it was time to take a break! Audrey herded us outside for a group photo. As PyDanny notes, it's a glimpse of the Python community of the future:&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO `|IMG\_2468a.jpg| &lt;http://www.flickr.com/photos/pyladies/5851383215/&gt;`_ --&gt;
+&lt;p&gt;Pretty grand!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="after-dark"&gt;
+&lt;h2&gt;After Dark&lt;/h2&gt;
+&lt;p&gt;Though the Hollywood sky was outside was warm and bright, we soon drifted back indoors to chow down on Crispy Crust pizza and wings while listening to the end-of-day lightning talks:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Dirk gave a demo of his &lt;a class="reference external" href="http://opani.com"&gt;Opani&lt;/a&gt; platform, which leverages the cloud for social supercomputing.&lt;/li&gt;
+&lt;li&gt;Michael introduced the &lt;a class="reference external" href="http://docs.pylonsproject.org/projects/pyramid/dev/"&gt;Pyramid&lt;/a&gt; web framework and &lt;a class="reference external" href="http://jenkins-ci.org/"&gt;Jenkins CI&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sandy shared some &lt;a class="reference external" href="http://www.youtube.com/watch?v=Kg0Rvj-Seto"&gt;amazing&lt;/a&gt; demos &amp;lt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=WDqYWsl39Ro"&gt;http://www.youtube.com/watch?v=WDqYWsl39Ro&lt;/a&gt;&amp;gt;`_ of &lt;a class="reference external" href="http://openkinect.org/wiki/Python_Wrapper"&gt;Python&lt;/a&gt;-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Kinect"&gt;Xbox Kinect&lt;/a&gt; &lt;a class="reference external" href="http://www.youtube.com/watch?v=PYq9gkdpiS8"&gt;hacking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://twitter.com/jacobburch"&gt;Jacob&lt;/a&gt; gave a PEP8 talk on best practices&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/#%21/jeffschenck"&gt;Jeff&lt;/a&gt; admonished us to leave no Windows developers behind&lt;/li&gt;
+&lt;li&gt;Katharine and Danny proffered some &lt;a class="reference external" href="http://kjamistan.tumblr.com/post/6675268237/on-becoming-a-fabulous-pythonista"&gt;words&lt;/a&gt; of &lt;a class="reference external" href="http://www.slideshare.net/pydanny/confessions-of-a-joe-developer"&gt;encouragement&lt;/a&gt; for developers of all skill levels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw: html
+
+TODO `|IMG\_2518a.jpg| &lt;http://www.flickr.com/photos/pyladies/5851386011/&gt;`_ --&gt;
+&lt;p&gt;After the lightning talks, it was time to clean up, load out, and head over to the Melgard Public House for some well-earned beer and socializing time!  This part was originally supposed to be Python Ladies’ Night 4, but once we found that the PyDudes weren’t so bad to hang out with,  we gladly invited them along.  Fun was had by all!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="big-thank-yous"&gt;
+&lt;h2&gt;Big Thank-Yous&lt;/h2&gt;
+&lt;!-- raw: html
+
+TODO `|IMG\_2529.JPG| &lt;http://www.flickr.com/photos/pyladies/5851937660/&gt;`_ --&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 2); &lt;em&gt;&lt;a href="#id1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: &amp;quot;border stylo&amp;quot;.&lt;/div&gt;
+&lt;p&gt;Gabriel, who played the part of event host on behalf of &lt;a class="reference external" href="http://www.borderstylo.com"&gt;Border Stylo&lt;/a&gt;, said that of all the events his company has held (which is a lot!), ours was by far the smoothest and most awesome.  Hope this means you’ll have us back, Gabe!&lt;/p&gt;
+&lt;p&gt;We of course have to thank the &lt;a class="reference external" href="http://www.python.org/psf/"&gt;Python Software Foundation&lt;/a&gt; for giving us &lt;a class="reference external" href="/blog/thank-you-python-software-foundation/"&gt;two&lt;/a&gt; &lt;a class="reference external" href="http://pythonsprints.com"&gt;grants&lt;/a&gt; to support this hackathon.  Thanks to them, we were able to purchase enough tables and chairs to keep 55 hackers coding happily away in the same room, which led to much mingling and mentoring.  They also helped foot the bill for drinks, snacks and dinner, so that we could fortify our hardworking brains with glucose-heavy treats and sodas all day long. And let's not forget the wonderful T-shirts for open source contributors!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="coming-up"&gt;
+&lt;h2&gt;Coming up....&lt;/h2&gt;
+&lt;p&gt;We really want to keep the momentum going for opening up the Python community to people of all stripes, and to provide a non-threatening environment where everyone feels welcome to work on their projects and learn to become a better developer without having to worry about whether they fit in or feeling stupid for trying.&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO
+
+`|image7| &lt;https://twitter.com/#%21/bravoflix/statuses/82447967637872641&gt;`_ --&gt;
+&lt;p&gt;To that end, we’ve got at least &lt;a class="reference external" href="/events"&gt;a few more hackathons and other cool outings&lt;/a&gt; in the works, so don’t forget to sign up for our mailing list, and &lt;a class="reference external" href="http://twitter.com/pyladies"&gt;follow us on Twitter&lt;/a&gt; so you'll be the first to know when and where and what the PyLadies will be doing next! Thanks to all who attended, whether virtually or in-person -- and sorry to those on the waitlist who couldn't: we hope you'll catch us earlier next time, or connect with us online!&lt;/p&gt;
+&lt;!-- |Chris and --&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 95)&lt;/p&gt;
+malformed substitution definition.&lt;/div&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 96)&lt;/p&gt;
+Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
+&lt;p&gt;Audrey| image:: &lt;a class="reference external" href="http://farm3.static.flickr.com/2536/5851930958_1c71ea5c0f_m.jpg"&gt;http://farm3.static.flickr.com/2536/5851930958_1c71ea5c0f_m.jpg&lt;/a&gt;
+.. &lt;a href="#id2"&gt;&lt;span class="problematic" id="id3"&gt;|The Future of
+Python|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm6.static.flickr.com/5157/5851379185_1f82df2c51_m.jpg"&gt;http://farm6.static.flickr.com/5157/5851379185_1f82df2c51_m.jpg&lt;/a&gt;
+.. &lt;a href="#id4"&gt;&lt;span class="problematic" id="id5"&gt;|image2|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://style.esthernam.com/pyladies/images/poland.png"&gt;http://style.esthernam.com/pyladies/images/poland.png&lt;/a&gt;
+.. &lt;a href="#id6"&gt;&lt;span class="problematic" id="id7"&gt;|IMG\_1649.JPG|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm3.static.flickr.com/2720/5865614874_48f47f16e8_m.jpg"&gt;http://farm3.static.flickr.com/2720/5865614874_48f47f16e8_m.jpg&lt;/a&gt;
+.. &lt;a href="#id8"&gt;&lt;span class="problematic" id="id9"&gt;|IMG\_2468a.jpg|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm6.static.flickr.com/5224/5851383215_1b5368d3a5.jpg"&gt;http://farm6.static.flickr.com/5224/5851383215_1b5368d3a5.jpg&lt;/a&gt;
+.. &lt;a href="#id10"&gt;&lt;span class="problematic" id="id11"&gt;|IMG\_2518a.jpg|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm6.static.flickr.com/5150/5851386011_d1b34c2c3e_m.jpg"&gt;http://farm6.static.flickr.com/5150/5851386011_d1b34c2c3e_m.jpg&lt;/a&gt;
+.. &lt;a href="#id12"&gt;&lt;span class="problematic" id="id13"&gt;|IMG\_2529.JPG|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://farm6.static.flickr.com/5144/5851937660_1acdbb5648_m.jpg"&gt;http://farm6.static.flickr.com/5144/5851937660_1acdbb5648_m.jpg&lt;/a&gt;
+.. &lt;a href="#id14"&gt;&lt;span class="problematic" id="id15"&gt;|image7|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://style.esthernam.com/pyladies/images/bravoflix.png"&gt;http://style.esthernam.com/pyladies/images/bravoflix.png&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="system-messages section"&gt;
+&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
+&lt;div class="system-message" id="id2"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 96); &lt;em&gt;&lt;a href="#id3"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;The Future of Python&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id4"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 96); &lt;em&gt;&lt;a href="#id5"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;image2&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id6"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 96); &lt;em&gt;&lt;a href="#id7"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;IMG_1649.JPG&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id8"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 96); &lt;em&gt;&lt;a href="#id9"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;IMG_2468a.jpg&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id10"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 96); &lt;em&gt;&lt;a href="#id11"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;IMG_2518a.jpg&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id12"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 96); &lt;em&gt;&lt;a href="#id13"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;IMG_2529.JPG&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id14"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 96); &lt;em&gt;&lt;a href="#id15"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;image7&amp;quot;.&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Archive"></category></entry><entry><title>Thank You, Python Software Foundation!</title><link href="http://www.pyladies.com/thank-you-python-software-foundation.html" rel="alternate"></link><updated>2011-06-07T07:12:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/thank-you-python-software-foundation.html</id><summary type="html">&lt;p&gt;It's true:&lt;/p&gt;
 &lt;!-- raw: html
 
 TODO `|Thank you, Python Software Foundation. This means so much to us.| &lt;http://www.flickr.com/photos/pyladies/5807668432/&gt;`_ --&gt;
