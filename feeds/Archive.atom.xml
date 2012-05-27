@@ -750,94 +750,6 @@ repo&lt;/a&gt; for people to fork
 blog, or for building a simple app using Django’s class views, so
 hopefully this will grow to something useful in the Django community.
 Til next time!&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>May 2011 PyLadies' Intro to Python Workshop Recap</title><link href="http://www.pyladies.com/may-2011-pyladies-intro-to-python-workshop-recap.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/may-2011-pyladies-intro-to-python-workshop-recap.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted May 22, 2011, 8:53 p.m.&lt;/p&gt;
-&lt;p&gt;On Sunday, May 15, 2011, the PyLadies held an Intro to Python workshop
-at KPCC's Crawford Family Forum in Pasadena.&lt;/p&gt;
-&lt;p&gt;The goal was to create a safe, comfortable space for women to learn
-Python programming and be able to ask questions openly. &amp;nbsp;Men were
-welcome as volunteers or as the +1 guests of women.&lt;/p&gt;
-&lt;p&gt;It was clear that this was a gathering of educated, sharp, successful
-women. &amp;nbsp;Our &lt;strong&gt;female&lt;/strong&gt; attendees included:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Grad students from UCLA and CalTech, and over-educated women with
-multiple degrees and Ph.Ds.&lt;/li&gt;
-&lt;li&gt;Senior marketers and community managers with over 10,000 Twitter
-followers, working on prominent tech projects&lt;/li&gt;
-&lt;li&gt;UX (user experience) professionals working for top companies&lt;/li&gt;
-&lt;li&gt;Research scientists currently using other languages in their labs for
-numerical analysis&lt;/li&gt;
-&lt;li&gt;Co-founders of startups, with 1 or more funded and/or successful
-companies under their belt&lt;/li&gt;
-&lt;li&gt;Experienced software engineers with Java, C++, .NET, PHP backgrounds&lt;/li&gt;
-&lt;li&gt;Product managers at top companies&lt;/li&gt;
-&lt;li&gt;Talented Linux sysadmins&lt;/li&gt;
-&lt;li&gt;Hardware hackers involved with the various LA area hackerspaces&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I could go on and on. &amp;nbsp;Many were happily employed, but some were looking
-for technical jobs. &amp;nbsp;I'm hoping some of the job seekers apply to work at
-KPCC, our venue sponsor!&lt;/p&gt;
-&lt;p&gt;In the morning, Katharine and I did a walkthrough of the popular &lt;a class="reference external" href="http://learnpythonthehardway.org"&gt;Learn
-Python the Hard Way&lt;/a&gt; tutorial by Zed
-Shaw. &amp;nbsp;Attendees typed along with each exercise. &amp;nbsp;At the end of each
-exercise, we reviewed the new concepts covered.&lt;/p&gt;
-&lt;p&gt;During lunch, KPCC's senior web producer Jason Georges took everyone on
-a tour behind the scenes of the radio station. &amp;nbsp;KPCC is full of cool
-things like soundproof glass cube recording rooms.&lt;/p&gt;
-&lt;p&gt;Then we were greeted by former NFL player and pastry chef George
-Wrighster with a surprise tray of cupcakes from his bakery, &lt;a class="reference external" href="http://www.violetscakes.com/"&gt;Violet's
-Cakes&lt;/a&gt;. &amp;nbsp;Yummy!&lt;/p&gt;
-&lt;p&gt;In the afternoon, we split up into smaller breakout sessions:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;ďťżScraping the Web with Python, or How I Automatically Get Happy
-Hour Specials Delivered to my Inbox&lt;/li&gt;
-&lt;li&gt;Intro to Django with the Django Poll Tutorial&lt;/li&gt;
-&lt;li&gt;Learn Python The Hard Way, Part 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then the PyLadies volunteer organizers gave lightning talks:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;Equality: Equivalence in Python by &lt;a class="reference external" href="http://twitter.com/#!/tiny_mouse"&gt;Jess
-Stanton&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Project Euler Demo by &lt;a class="reference external" href="http://www.xtine.net/"&gt;Christine Cheung&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Python Web Frameworks by &lt;a class="reference external" href="http://twitter.com/#!/kjam"&gt;Katharine
-Jarmul&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Generators by &lt;a class="reference external" href="http://twitter.com/#!/sandymahalo"&gt;Sandy Strong&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Ergonomics by &lt;a class="reference external" href="http://twitter.com/#!/estherbester"&gt;Esther Nam&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;div class="first system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/3_intro-to-python-workshop-recap.rst&lt;/tt&gt;, line 2); &lt;em&gt;&lt;a href="#id1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Duplicate explicit target name: &amp;quot;audrey roy&amp;quot;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;The Code Behind PyLadies.com by &lt;a class="reference external" href="http://twitter.com/#!/audreyr"&gt;Audrey
-Roy&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Inequality: Stories from the Python &amp;amp; Developer Communities by &lt;a class="reference external" href="http://twitter.com/#!/tiny_mouse"&gt;Jess
-Stanton&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;At the end, we celebrated over root beer floats. &amp;nbsp;It was interesting and
-exciting to see that no one wanted to leave at the end! &amp;nbsp;I was thrilled
-and floating on a cloud, and so were all the other organizers and
-volunteers.&lt;/p&gt;
-&lt;p&gt;Thank you to our special out-of-town guests! &amp;nbsp;If there's anything we can
-do to help you in any way with your local women's developer communities,
-let us know.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://twitter.com/#!/thisgirlangie"&gt;Angie Chang&lt;/a&gt;,&amp;nbsp;co-founder
-of&amp;nbsp;&lt;a class="reference external" href="http://www.women2.org/"&gt;Women 2.0&lt;/a&gt;&amp;nbsp;/&amp;nbsp;&lt;a class="reference external" href="http://www.bayareagirlgeekdinners.com/"&gt;Bay Area Girl Geek
-dinners&lt;/a&gt;&amp;nbsp;&amp;amp; product manager
-at Zinch from SF, who flew into LA just for our event&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://twitter.com/#!/heatherpayne"&gt;Heather Payne&lt;/a&gt;,&amp;nbsp;senior
-marketing coordinator for a global staffing/HR firm from Toronto, who
-flew home&amp;nbsp;&lt;a class="reference external" href="http://heatherpayne.ca/review-of-pyladies-intro-to-python-workshop"&gt;eager to start a local women's Python coding
-group&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Congratulations to all 25 ladies and 2 men who completed our intro
-workshop, and special thanks to all the men who attended and volunteered
-for braving the crowd of ladies.&lt;/p&gt;
 </summary><category term="Archive"></category></entry><entry><title>Python Ladies' Night 3 on June 2, 2011</title><link href="http://www.pyladies.com/python-ladies-night-3-on-june-2-2011.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/python-ladies-night-3-on-june-2-2011.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted June 2, 2011, 10:42 p.m.&lt;/p&gt;
 &lt;p&gt;We're looking forward to the upcoming Python Ladies' Night 3 tomorrow,
 starting at 9pm.&lt;/p&gt;
@@ -1091,6 +1003,71 @@ malformed substitution definition.&lt;/div&gt;
 Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
 &lt;p&gt;DjangoCon?| image:: &lt;a class="reference external" href="http://farm7.static.flickr.com/6055/5888664375_d84b17a4d9.jpg"&gt;http://farm7.static.flickr.com/6055/5888664375_d84b17a4d9.jpg&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
+</summary><category term="Archive"></category></entry><entry><title>May 2011 PyLadies' Intro to Python Workshop Recap</title><link href="http://www.pyladies.com/may-2011-pyladies-intro-to-python-workshop-recap.html" rel="alternate"></link><updated>2011-05-22T20:53:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/may-2011-pyladies-intro-to-python-workshop-recap.html</id><summary type="html">&lt;p&gt;On Sunday, May 15, 2011, the PyLadies held an Intro to Python workshop
+at KPCC's Crawford Family Forum in Pasadena.&lt;/p&gt;
+&lt;p&gt;The goal was to create a safe, comfortable space for women to learn
+Python programming and be able to ask questions openly.  Men were
+welcome as volunteers or as the +1 guests of women.&lt;/p&gt;
+&lt;p&gt;It was clear that this was a gathering of educated, sharp, successful
+women.  Our &lt;strong&gt;female&lt;/strong&gt; attendees included:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Grad students from UCLA and CalTech, and over-educated women with
+multiple degrees and Ph.Ds.&lt;/li&gt;
+&lt;li&gt;Senior marketers and community managers with over 10,000 Twitter
+followers, working on prominent tech projects&lt;/li&gt;
+&lt;li&gt;UX (user experience) professionals working for top companies&lt;/li&gt;
+&lt;li&gt;Research scientists currently using other languages in their labs for
+numerical analysis&lt;/li&gt;
+&lt;li&gt;Co-founders of startups, with 1 or more funded and/or successful
+companies under their belt&lt;/li&gt;
+&lt;li&gt;Experienced software engineers with Java, C++, .NET, PHP backgrounds&lt;/li&gt;
+&lt;li&gt;Product managers at top companies&lt;/li&gt;
+&lt;li&gt;Talented Linux sysadmins&lt;/li&gt;
+&lt;li&gt;Hardware hackers involved with the various LA area hackerspaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I could go on and on.  Many were happily employed, but some were looking
+for technical jobs.  I'm hoping some of the job seekers apply to work at
+KPCC, our venue sponsor!&lt;/p&gt;
+&lt;p&gt;In the morning, Katharine and I did a walkthrough of the popular &lt;a class="reference external" href="http://learnpythonthehardway.org"&gt;Learn
+Python the Hard Way&lt;/a&gt; tutorial by Zed
+Shaw.  Attendees typed along with each exercise.  At the end of each
+exercise, we reviewed the new concepts covered.&lt;/p&gt;
+&lt;p&gt;During lunch, KPCC's senior web producer Jason Georges took everyone on
+a tour behind the scenes of the radio station.  KPCC is full of cool
+things like soundproof glass cube recording rooms.&lt;/p&gt;
+&lt;p&gt;Then we were greeted by former NFL player and pastry chef George
+Wrighster with a surprise tray of cupcakes from his bakery, &lt;a class="reference external" href="http://www.violetscakes.com/"&gt;Violet's
+Cakes&lt;/a&gt;.  Yummy!&lt;/p&gt;
+&lt;p&gt;In the afternoon, we split up into smaller breakout sessions:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;craping the Web with Python, or How I Automatically Get Happy Hour Specials Delivered to my Inbox&lt;/li&gt;
+&lt;li&gt;Intro to Django with the Django Poll Tutorial&lt;/li&gt;
+&lt;li&gt;Learn Python The Hard Way, Part 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then the PyLadies volunteer organizers gave lightning talks:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Equality: Equivalence in Python by &lt;a class="reference external" href="http://twitter.com/#!/tiny_mouse"&gt;Jess Stanton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Project Euler Demo by &lt;a class="reference external" href="http://www.xtine.net/"&gt;Christine Cheung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Python Web Frameworks by &lt;a class="reference external" href="http://twitter.com/#!/kjam"&gt;Katharine Jarmul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Generators by &lt;a class="reference external" href="http://twitter.com/#!/sandymahalo"&gt;Sandy Strong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ergonomics by &lt;a class="reference external" href="http://twitter.com/#!/estherbester"&gt;Esther Nam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Code Behind PyLadies.com by &lt;a class="reference external" href="http://twitter.com/#!/audreyr"&gt;Audrey Roy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Inequality: Stories from the Python &amp;amp; Developer Communities by &lt;a class="reference external" href="http://twitter.com/#!/tiny_mouse"&gt;Jess Stanton&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At the end, we celebrated over root beer floats.  It was interesting and
+exciting to see that no one wanted to leave at the end!  I was thrilled
+and floating on a cloud, and so were all the other organizers and
+volunteers.&lt;/p&gt;
+&lt;p&gt;Thank you to our special out-of-town guests!  If there's anything we can
+do to help you in any way with your local women's developer communities,
+let us know.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://twitter.com/#!/thisgirlangie"&gt;Angie Chang&lt;/a&gt;, co-founder of &lt;a class="reference external" href="http://www.women2.org/"&gt;Women 2.0&lt;/a&gt; &lt;a class="reference external" href="http://www.bayareagirlgeekdinners.com/"&gt;Bay Area Girl Geek dinners&lt;/a&gt; &amp;amp; product manager at Zinch from SF, who flew into LA just for our event&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://twitter.com/#!/heatherpayne"&gt;Heather Payne&lt;/a&gt;, senior marketing coordinator for a global staffing/HR firm from Toronto, who flew home &lt;a class="reference external" href="http://heatherpayne.ca/review-of-pyladies-intro-to-python-workshop"&gt;eager to start a local women's Python coding group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Congratulations to all 25 ladies and 2 men who completed our intro
+workshop, and special thanks to all the men who attended and volunteered
+for braving the crowd of ladies.&lt;/p&gt;
 </summary><category term="Archive"></category></entry><entry><title>Workshop Planning Session / Python Ladies' Night 2 Recap</title><link href="http://www.pyladies.com/workshop-planning-session-python-ladies-night-2-recap.html" rel="alternate"></link><updated>2011-05-10T17:47:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/workshop-planning-session-python-ladies-night-2-recap.html</id><summary type="html">&lt;p&gt;On May 8, 2011, six of the PyLadies got together at Intelligentsia
 Coffee in Pasadena. &amp;nbsp;It was really great to see everyone! &amp;nbsp;Sadly Jess
 was out of town attending Google I/O, otherwise we would have had seven
@@ -1152,7 +1129,7 @@ stopping by for 30 min) - Sophia, Sandy&lt;/li&gt;
 &lt;p&gt;Wow, that's a lot of tasks! &amp;nbsp;If you're reading this and want to help,
 email me at &lt;a class="reference external" href="mailto:audreyr&amp;#64;cartwheelweb.com"&gt;audreyr&amp;#64;cartwheelweb.com&lt;/a&gt; and let me know what you can help
 with, whether it's on this list or not. &amp;nbsp;We can always use more help.&lt;/p&gt;
-`|Katharine and Sandy at PyLadies
+TODO `|Katharine and Sandy at PyLadies
 meetup| &lt;http://www.flickr.com/photos/orangepulp/5707551585/&gt;`_&lt;p&gt;Also, we talked about some of the fun things we want to do together in
 the future:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -1171,13 +1148,13 @@ all the Django ladies will submit talks!&lt;/li&gt;
 with wifi, snacks,
 drinks&amp;nbsp;&lt;a class="reference external" href="http://us.pycon.org/2012/"&gt;http://us.pycon.org/2012/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-`|Katharine and Sandy at PyLadies
+TODO `|Katharine and Sandy at PyLadies
 meetup| &lt;http://www.flickr.com/photos/orangepulp/5707551585/&gt;`_
 
- .. |Esther, Sophia, and Christine at PyLadies
- meetup| image:: http://farm3.static.flickr.com/2735/5707622417_9f7cacaa25.jpg
- .. |Katharine and Sandy at PyLadies
- meetup| image:: http://farm4.static.flickr.com/3320/5707551585_8fda850878.jpg</summary><category term="Archive"></category></entry><entry><title>First Python Ladies' Night Recap</title><link href="http://www.pyladies.com/first-python-ladies-night-recap.html" rel="alternate"></link><updated>2011-04-19T13:46:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/first-python-ladies-night-recap.html</id><summary type="html">&lt;p&gt;On April 16, 2011, a group of 5 local female Python developers got
+.. |Esther, Sophia, and Christine at PyLadies
+meetup| image:: http://farm3.static.flickr.com/2735/5707622417_9f7cacaa25.jpg
+.. |Katharine and Sandy at PyLadies
+meetup| image:: http://farm4.static.flickr.com/3320/5707551585_8fda850878.jpg</summary><category term="Archive"></category></entry><entry><title>First Python Ladies' Night Recap</title><link href="http://www.pyladies.com/first-python-ladies-night-recap.html" rel="alternate"></link><updated>2011-04-19T13:46:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/first-python-ladies-night-recap.html</id><summary type="html">&lt;p&gt;On April 16, 2011, a group of 5 local female Python developers got
 together for the first ever Python ladies' night.&lt;/p&gt;
 &lt;p&gt;We had wine, sparkling elderflower and ginger waters,&amp;nbsp;vegetable
 spaghetti, savory meat pies from Porto's bakery, Caesar salad, homemade
