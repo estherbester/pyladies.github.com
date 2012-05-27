@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/all.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-26T23:42:09Z</updated><entry><title>Great turnout at Python Ladies Night 3</title><link href="http://www.pyladies.com/great-turnout-at-python-ladies-night-3.html" rel="alternate"></link><updated>2012-05-26T23:42:09Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/great-turnout-at-python-ladies-night-3.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted June 7, 2011, 4:45 a.m.&lt;/p&gt;
-&lt;p&gt;We had around 14 people come and go throughout the night. It was a
-blast! &amp;nbsp;We talked Python but also other things. &amp;nbsp;Did you know that there
-are enough of us who ride scooters/motorcycles that we could have our
-very own PyLadies rally club?&lt;/p&gt;
-&lt;p&gt;Attendees were mostly Python developer ladies, but also a few gentlemen
-of the Python community and possibly one guy who doesn't know Python
-(yet ;) &amp;nbsp;Here are some of us:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5806807107/"&gt;|Python Ladies' Night
-3|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sad that you missed it? Come for the next one! It'll be right after the
-PyLadies Hack Session. Even if you can't make it to the event, you can
-still join us for drinks afterward.&lt;/p&gt;
-&lt;p&gt;**SAVE THE DATE** Python Ladies' Night 4 will be on Saturday, June
-18 from 8pm onward, at Hollywood Canteen, 1006 Seward St, Los Angeles,
-CA 90038.&lt;/p&gt;
-&lt;!-- |Python Ladies' Night --&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/5_great-turnout-at-python-ladies-night-3.rst&lt;/tt&gt;, line 29)&lt;/p&gt;
-malformed substitution definition.&lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/5_great-turnout-at-python-ladies-night-3.rst&lt;/tt&gt;, line 30)&lt;/p&gt;
-Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;3| image:: &lt;a class="reference external" href="http://farm4.static.flickr.com/3589/5806807107_2efd305529.jpg"&gt;http://farm4.static.flickr.com/3589/5806807107_2efd305529.jpg&lt;/a&gt;&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Jessica McKellar to be Keynote speaker at DjangoCon Europe!</title><link href="http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html" rel="alternate"></link><updated>2012-05-26T23:42:09Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted May 17, 2012, 6 a.m.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/all.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-26T23:42:09Z</updated><entry><title>Jessica McKellar to be Keynote speaker at DjangoCon Europe!</title><link href="http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html" rel="alternate"></link><updated>2012-05-26T23:42:09Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted May 17, 2012, 6 a.m.&lt;/p&gt;
 &lt;p&gt;:note:[Originally posted on the &lt;a class="reference external" href="http://2012.djangocon.eu/blog/announcing-our-second-keynote-speaker-jessica-mcke/"&gt;DjangoCon Europe
 blog&lt;/a&gt;.
 Thanks Jonas for letting us repost here! &lt;a class="reference external" href="http://2012.djangocon.eu/"&gt;DjangoCon Europe
@@ -662,21 +638,6 @@ Unexpected indentation.&lt;/div&gt;
 Portland, OR 97205
 (503) 384-2700&lt;/blockquote&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.mcmenamins.com/250-ringlers-annex-home"&gt;http://www.mcmenamins.com/250-ringlers-annex-home&lt;/a&gt;&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Python Ladies' Night 3 on June 2, 2011</title><link href="http://www.pyladies.com/python-ladies-night-3-on-june-2-2011.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/python-ladies-night-3-on-june-2-2011.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted June 2, 2011, 10:42 p.m.&lt;/p&gt;
-&lt;p&gt;We're looking forward to the upcoming Python Ladies' Night 3 tomorrow,
-starting at 9pm.&lt;/p&gt;
-&lt;p&gt;All female Python developers are invited to meet up for a night of fun
-in downtown LA. &amp;nbsp;Significant others and friends are welcome, so don't
-leave them at home!&lt;/p&gt;
-&lt;p&gt;Find us at Seven Grand bar in downtown LA:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.sevengrand.la/"&gt;http://www.sevengrand.la&lt;/a&gt;
-515 W 7th St, 2nd floor, Los Angeles, CA 90014&lt;/p&gt;
-&lt;p&gt;Meet us there at 9pm. &amp;nbsp;We may move the group to other nearby bars as the
-night goes on.&lt;/p&gt;
-&lt;p&gt;If you think you'll be late, email &lt;a class="reference external" href="mailto:audreyr&amp;#64;pyladies.com"&gt;audreyr&amp;#64;pyladies.com&lt;/a&gt; with your cell
-phone number, so she can text/call you if the group moves.&lt;/p&gt;
-&lt;p&gt;How will you find us? &amp;nbsp;Some of us will be wearing PyLadies t-shirts.
-&amp;nbsp;See you soon!&lt;/p&gt;
 </summary><category term="Archive"></category></entry><entry><title>&amp;quot;Djangsta&amp;quot; shirts on sale at DjangoCon!</title><link href="http://www.pyladies.com/quotdjangstaquot-shirts-on-sale-at-djangocon.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/quotdjangstaquot-shirts-on-sale-at-djangocon.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/xtine/"&gt;Christine Cheung&lt;/a&gt; posted Sept. 6, 2011, 12:26
 a.m.&lt;/p&gt;
 &lt;p&gt;These &amp;quot;Djangsta&amp;quot; shirts premiered at DjangoCon to a rousing success and
@@ -1137,7 +1098,27 @@ git push
 &lt;h2&gt;How to submit a static page&lt;/h2&gt;
 &lt;p&gt;Simply create a RST or MD file in the Pages directory. Its title will appear in the navigation in TitleCase.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Website"></category></entry><entry><title>May 2011 PyLadies' Intro to Python Workshop Recap</title><link href="http://www.pyladies.com/may-2011-pyladies-intro-to-python-workshop-recap.html" rel="alternate"></link><updated>2011-05-22T20:53:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/may-2011-pyladies-intro-to-python-workshop-recap.html</id><summary type="html">&lt;p&gt;On Sunday, May 15, 2011, the PyLadies held an Intro to Python workshop
+</summary><category term="Website"></category></entry><entry><title>Great turnout at Python Ladies Night 3</title><link href="http://www.pyladies.com/great-turnout-at-python-ladies-night-3.html" rel="alternate"></link><updated>2011-06-07T04:45:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/great-turnout-at-python-ladies-night-3.html</id><summary type="html">&lt;p&gt;We had around 14 people come and go throughout the night. It was a blast!  We talked Python but also other things.  Did you know that there are enough of us who ride scooters/motorcycles that we could have our very own PyLadies rally club?&lt;/p&gt;
+&lt;p&gt;Attendees were mostly Python developer ladies, but also a few gentlemen of the Python community and possibly one guy who doesn't know Python (yet ;)  Here are some of us:&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO `|Python Ladies' Night 3| &lt;http://www.flickr.com/photos/pyladies/5806807107/&gt;`_ --&gt;
+&lt;p&gt;Sad that you missed it? Come for the next one! It'll be right after the PyLadies Hack Session. Even if you can't make it to the event, you can still join us for drinks afterward.&lt;/p&gt;
+&lt;div class="section" id="save-the-date"&gt;
+&lt;h2&gt;SAVE THE DATE&lt;/h2&gt;
+&lt;p&gt;Python Ladies' Night 4 will be on Saturday, June 18 from 8pm onward, at Hollywood Canteen, 1006 Seward St, Los Angeles, CA 90038.&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO.. |Python Ladies' Night 3| image:: http://farm4.static.flickr.com/3589/5806807107_2efd305529.jpg --&gt;
+&lt;/div&gt;
+</summary><category term="Archive"></category></entry><entry><title>Python Ladies' Night 3 on June 2, 2011</title><link href="http://www.pyladies.com/python-ladies-night-3-on-june-2-2011.html" rel="alternate"></link><updated>2011-06-02T22:42:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/python-ladies-night-3-on-june-2-2011.html</id><summary type="html">&lt;p&gt;We're looking forward to the upcoming Python Ladies' Night 3 tomorrow, starting at 9pm.&lt;/p&gt;
+&lt;p&gt;All female Python developers are invited to meet up for a night of fun in downtown LA.  Significant others and friends are welcome, so don't leave them at home!&lt;/p&gt;
+&lt;p&gt;Find us at Seven Grand bar in downtown LA:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.sevengrand.la/"&gt;http://www.sevengrand.la&lt;/a&gt; 515 W 7th St, 2nd floor, Los Angeles, CA 90014&lt;/p&gt;
+&lt;p&gt;Meet us there at 9pm.  We may move the group to other nearby bars as the night goes on.&lt;/p&gt;
+&lt;p&gt;If you think you'll be late, email &lt;a class="reference external" href="mailto:audreyr&amp;#64;pyladies.com"&gt;audreyr&amp;#64;pyladies.com&lt;/a&gt; with your cell phone number, so she can text/call you if the group moves.&lt;/p&gt;
+&lt;p&gt;How will you find us?  Some of us will be wearing PyLadies t-shirts. See you soon!&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>May 2011 PyLadies' Intro to Python Workshop Recap</title><link href="http://www.pyladies.com/may-2011-pyladies-intro-to-python-workshop-recap.html" rel="alternate"></link><updated>2011-05-22T20:53:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/may-2011-pyladies-intro-to-python-workshop-recap.html</id><summary type="html">&lt;p&gt;On Sunday, May 15, 2011, the PyLadies held an Intro to Python workshop
 at KPCC's Crawford Family Forum in Pasadena.&lt;/p&gt;
 &lt;p&gt;The goal was to create a safe, comfortable space for women to learn
 Python programming and be able to ask questions openly.  Men were
