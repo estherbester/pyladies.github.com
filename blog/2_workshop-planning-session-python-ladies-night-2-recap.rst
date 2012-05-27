@@ -3,16 +3,18 @@ Workshop Planning Session / Python Ladies' Night 2 Recap
 
 :tags: Archive
 :category: Blog
-
-By `Audrey Roy </blog/author/audreyr/>`_ posted May 10, 2011, 5:47 p.m.
+:author: Audrey Roy
+:date: 2011-05-10 17:47
 
 On May 8, 2011, six of the PyLadies got together at Intelligentsia
 Coffee in Pasadena.  It was really great to see everyone!  Sadly Jess
 was out of town attending Google I/O, otherwise we would have had seven
 of us.
 
-`|Esther, Sophia, and Christine at PyLadies
-meetup| <http://www.flickr.com/photos/orangepulp/5707622417/>`_
+.. image:: http://farm3.staticflickr.com/2735/5707622417_9f7cacaa25.jpg
+   :name: Esther, Sophia, and Christine at PyLadies
+   :align: center
+   :target: http://www.flickr.com/photos/orangepulp/5707622417/
 
 This was mostly a planning session for the workshop, where we divided up
 the remaining tasks among us:
@@ -71,8 +73,10 @@ Wow, that's a lot of tasks!  If you're reading this and want to help,
 email me at audreyr@cartwheelweb.com and let me know what you can help
 with, whether it's on this list or not.  We can always use more help.
 
-`|Katharine and Sandy at PyLadies
-meetup| <http://www.flickr.com/photos/orangepulp/5707551585/>`_
+.. raw:: html
+
+    TODO `|Katharine and Sandy at PyLadies
+    meetup| <http://www.flickr.com/photos/orangepulp/5707551585/>`_
 
 Also, we talked about some of the fun things we want to do together in
 the future:
@@ -92,7 +96,12 @@ the future:
    with wifi, snacks,
    drinks \ `http://us.pycon.org/2012/ <http://us.pycon.org/2012/>`_
 
-.. |Esther, Sophia, and Christine at PyLadies
-meetup| image:: http://farm3.static.flickr.com/2735/5707622417_9f7cacaa25.jpg
-.. |Katharine and Sandy at PyLadies
-meetup| image:: http://farm4.static.flickr.com/3320/5707551585_8fda850878.jpg
+.. raw:: html
+
+    TODO `|Katharine and Sandy at PyLadies
+    meetup| <http://www.flickr.com/photos/orangepulp/5707551585/>`_
+
+    .. |Esther, Sophia, and Christine at PyLadies
+    meetup| image:: http://farm3.static.flickr.com/2735/5707622417_9f7cacaa25.jpg
+    .. |Katharine and Sandy at PyLadies
+    meetup| image:: http://farm4.static.flickr.com/3320/5707551585_8fda850878.jpg

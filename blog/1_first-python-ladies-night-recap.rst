@@ -3,8 +3,8 @@ First Python Ladies' Night Recap
 
 :tags: Archive
 :category: Blog
-
-By `admin </blog/author/admin/>`_ posted April 19, 2011, 1:46 p.m.
+:author: Audrey Roy
+:date: 2011-04-19 13:46
 
 On April 16, 2011, a group of 5 local female Python developers got
 together for the first ever Python ladies' night.  
