@@ -18,21 +18,6 @@ Group, the largest Python user group in the world. With that group she
 runs the Boston Python Workshop, an introductory programming pipeline
 that has brought hundreds of women into the local Python community and
 is being replicated in cities across the US.&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Thank You, Python Software Foundation!</title><link href="http://www.pyladies.com/thank-you-python-software-foundation.html" rel="alternate"></link><updated>2012-05-26T23:42:09Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/thank-you-python-software-foundation.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted June 7, 2011, 7:12 a.m.&lt;/p&gt;
-&lt;p&gt;It's true:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5807668432/"&gt;|Thank you, Python Software Foundation. This means so much to
-us.|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We are so incredibly grateful to the PSF for taking a chance and
-stepping up to help us in a big way. &amp;nbsp;We have more to say about this and
-how it has impacted us, so stay tuned.&lt;/p&gt;
-&lt;!-- |Thank you, Python Software Foundation. This means so much to --&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/6_thank-you-python-software-foundation.rst&lt;/tt&gt;, line 18)&lt;/p&gt;
-malformed substitution definition.&lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/6_thank-you-python-software-foundation.rst&lt;/tt&gt;, line 19)&lt;/p&gt;
-Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;us.| image:: &lt;a class="reference external" href="http://farm3.static.flickr.com/2150/5807668432_89bbc150e7.jpg"&gt;http://farm3.static.flickr.com/2150/5807668432_89bbc150e7.jpg&lt;/a&gt;&lt;/p&gt;
 </summary><category term="Archive"></category></entry><entry><title>Bay Area Girl Geek Dinner at Yelp</title><link href="http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html" rel="alternate"></link><updated>2012-05-26T23:40:18Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted March 29, 2012, 5:49 a.m.&lt;/p&gt;
 &lt;p&gt;:note:The most recent &lt;a class="reference external" href="http://bayareagirlgeekdinners.com"&gt;Bay Area Girl Geek
 Dinner&lt;/a&gt; was Python-themed, and
@@ -1098,7 +1083,15 @@ git push
 &lt;h2&gt;How to submit a static page&lt;/h2&gt;
 &lt;p&gt;Simply create a RST or MD file in the Pages directory. Its title will appear in the navigation in TitleCase.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Website"></category></entry><entry><title>Great turnout at Python Ladies Night 3</title><link href="http://www.pyladies.com/great-turnout-at-python-ladies-night-3.html" rel="alternate"></link><updated>2011-06-07T04:45:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/great-turnout-at-python-ladies-night-3.html</id><summary type="html">&lt;p&gt;We had around 14 people come and go throughout the night. It was a blast!  We talked Python but also other things.  Did you know that there are enough of us who ride scooters/motorcycles that we could have our very own PyLadies rally club?&lt;/p&gt;
+</summary><category term="Website"></category></entry><entry><title>Thank You, Python Software Foundation!</title><link href="http://www.pyladies.com/thank-you-python-software-foundation.html" rel="alternate"></link><updated>2011-06-07T07:12:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/thank-you-python-software-foundation.html</id><summary type="html">&lt;p&gt;It's true:&lt;/p&gt;
+&lt;!-- raw: html
+
+TODO `|Thank you, Python Software Foundation. This means so much to us.| &lt;http://www.flickr.com/photos/pyladies/5807668432/&gt;`_ --&gt;
+&lt;p&gt;We are so incredibly grateful to the PSF for taking a chance and stepping up to help us in a big way. We have more to say about this and how it has impacted us, so stay tuned.&lt;/p&gt;
+&lt;!-- raw: html
+
+.. |Thank you, Python Software Foundation. This means so much to us.| image:: http://farm3.static.flickr.com/2150/5807668432_89bbc150e7.jpg --&gt;
+</summary><category term="Archive"></category></entry><entry><title>Great turnout at Python Ladies Night 3</title><link href="http://www.pyladies.com/great-turnout-at-python-ladies-night-3.html" rel="alternate"></link><updated>2011-06-07T04:45:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/great-turnout-at-python-ladies-night-3.html</id><summary type="html">&lt;p&gt;We had around 14 people come and go throughout the night. It was a blast!  We talked Python but also other things.  Did you know that there are enough of us who ride scooters/motorcycles that we could have our very own PyLadies rally club?&lt;/p&gt;
 &lt;p&gt;Attendees were mostly Python developer ladies, but also a few gentlemen of the Python community and possibly one guy who doesn't know Python (yet ;)  Here are some of us:&lt;/p&gt;
 &lt;!-- raw: html
 
