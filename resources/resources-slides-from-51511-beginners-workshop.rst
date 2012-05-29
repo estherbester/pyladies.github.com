@@ -2,6 +2,9 @@
 Slides from 5/15/11 Beginner's Workshop
 =======================================
 
+:date: 2012-05-05 13:55
+:category: Resources
+
 Here are links to the slides prepared by the presenters at the first
 PyLadies Beginner's Workshop on May 15th, 2011 at KPCC's Crawford Family
 Forum in Pasadena.

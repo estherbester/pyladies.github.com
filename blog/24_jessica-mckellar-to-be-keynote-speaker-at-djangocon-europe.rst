@@ -3,10 +3,10 @@ Jessica McKellar to be Keynote speaker at DjangoCon Europe!
 
 :tags: Archive
 :category: Blog
+:author: Esther Nam
+:date: 2011-05-17 06:00
 
-By `Esther Nam </blog/author/esther/>`_ posted May 17, 2012, 6 a.m.
-
-:note:[Originally posted on the `DjangoCon Europe
+:emphasis:[Originally posted on the `DjangoCon Europe
 blog <http://2012.djangocon.eu/blog/announcing-our-second-keynote-speaker-jessica-mcke/>`_.
 Thanks Jonas for letting us repost here! `DjangoCon Europe
 2012 <http://2012.djangocon.eu/>`_ will go from June 4-June 8 in Zurich,

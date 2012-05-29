@@ -1,19 +1,18 @@
+----------------------------------------------------------------
 Building A Great Work Culture (Inspire, Empower And Collaborate)
 ----------------------------------------------------------------
 
 :tags: Archive
 :category: Blog
+:author: Pam Selle
+:date: 2011-05-16 06:00
 
-By `Esther Nam </blog/author/esther/>`_ posted May 16, 2012, 6 a.m.
-
-:note:[Ed. note: Thanks to Pam and Angie for letting us repost this from `the
+:emphasis:[Ed. note: Thanks to Pam and Angie for letting us repost this from `the
 Women 2.0
 blog <http://www.women2.com/building-a-great-work-culture-inspire-empower-and-collaborate/>`_!]
 
 **There are three key ingredients to a great culture boosting
 activity.**
-
-By Pam Selle (Developer, Paperless Post)
 
 |image0|\ One of the things I like most about `**my current
 workplace** <http://www.paperlesspost.com/>`_ is the culture. In an

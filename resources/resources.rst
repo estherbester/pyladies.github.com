@@ -2,6 +2,9 @@
 Resources
 =========
 
+:date: 2012-05-05 13:55
+:category: Resources
+
 Here's a list of useful resources for learning and using Python.  If you
 have further questions, please come to the next PyLadies event and ask
 any of the organizers for advice or help.  

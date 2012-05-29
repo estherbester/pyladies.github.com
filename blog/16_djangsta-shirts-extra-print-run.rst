@@ -3,8 +3,8 @@ Djangsta Shirts - Extra Print Run!
 
 :tags: Archive
 :category: Blog
-
-By `Esther Nam </blog/author/esther/>`_ posted Sept. 19, 2011, 2:11 a.m.
+:author: Esther Nam
+:date: 2011-09-19 2:11
 
 If you were at DjangoCon you probably saw people wearing these, standing
 out magnificently amongst the sea of bright green. They were the cool

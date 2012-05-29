@@ -3,10 +3,10 @@ Bay Area Girl Geek Dinner at Yelp
 
 :tags: Archive
 :category: Blog
+:author: Lynn Root
+:date: 2011-03-29 06:00
 
-By `Esther Nam </blog/author/esther/>`_ posted March 29, 2012, 5:49 a.m.
-
-:note:The most recent `Bay Area Girl Geek
+:emphasis:[Ed. note] The most recent `Bay Area Girl Geek
 Dinner <http://bayareagirlgeekdinners.com>`_ was Python-themed, and
 hosted by Yelp. Many thanks to `Lynn <http://twitter.com/roguelynn>`_
 for letting us repost this article from `her

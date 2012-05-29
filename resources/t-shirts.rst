@@ -2,6 +2,10 @@
 T-Shirts
 ========
 
+
+:date: 2012-05-05 13:55
+:category: Resources
+
 A lot of the Intro to Python workshop attendees were asking about our
 PyLadies t-shirts.  We ordered them from our Spreadshirt shop:
 `http://pyladies.spreadshirt.com/ <http://pyladies.spreadshirt.com/>`_  

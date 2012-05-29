@@ -3,8 +3,9 @@ PyLadies in the News
 
 :tags: Archive
 :category: Blog
+:author: Esther Nam
+:date: 2012-02-24 06:43
 
-By `Esther Nam </blog/author/esther/>`_ posted Feb. 24, 2012, 6:43 a.m.
 
 The LA Weekly blog featured a few of the LA PyLadies in a `recent
 post. <http://blogs.laweekly.com/arts/2012/02/pyladies_django_python.php>`_

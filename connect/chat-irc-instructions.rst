@@ -2,6 +2,9 @@
 IRC Instructions
 ================
 
+:date: 2012-05-05 13:55
+:category: Connect
+
 How to connect to the PyLadies IRC channel:
 -------------------------------------------
 

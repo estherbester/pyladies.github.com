@@ -3,8 +3,8 @@ Introduction to Django at Mahalo - July 23rd PyLadies Workshop
 
 :tags: Archive
 :category: Blog
-
-By `Esther Nam </blog/author/esther/>`_ posted July 25, 2011, 8:54 p.m.
+:author: Esther Nam
+:date: 2011-07-25 20:54
 
 Last Saturday the PyLadies and the LA Django meetup group held an
 introductory Django Workshop, with generous amounts of support by
@@ -67,7 +67,7 @@ The hackday finished with another fine set of lightning talks:
    |image4|
 -  The indomitable `Sandy <http://twitter.com/sandymahalo>`_ found it in
    her to give another talk, this time on `Django
-   testing  <https://docs.google.com/present/edit?id=0AVthC0Z3iw8DZGRrdnFzeGdfMmNxd2d3emd2&hl=en_US>`_\ ****
+   testing  <https://docs.google.com/present/edit?id=0AVthC0Z3iw8DZGRrdnFzeGdfMmNxd2d3emd2&hl=en_US>`_\
 
 Since no PyLadies event is complete without a social hour, we walked
 over to Warszawa for a round of drinking and relaxation (i.e., we began

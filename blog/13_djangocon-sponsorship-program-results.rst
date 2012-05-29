@@ -3,9 +3,9 @@ DjangoCon Sponsorship Program: Results
 
 :tags: Archive
 :category: Blog
+:author: Audrey Roy
+:date: 2011-09-05 22:11
 
-By `Audrey Roy </blog/author/audreyr/>`_ posted Sept. 5, 2011, 10:51
-p.m.
 
 Announcing the results of the PyLadies' DjangoCon Sponsorship Program.
 
@@ -18,7 +18,7 @@ download <http://dl.dropbox.com/u/768016/pyladies/financial-reports/PyLadies-Dja
 
 .. figure:: https://docs.google.com/a/pyladies.com/spreadsheet/oimg?key=0AmeI6choQL4JdGpkaGJseGVaNWFBUmNWSUNLM3RRS1E&oid=4&zx=a3qc48tfkn72
    :align: center
-   :alt: 
+   :alt:
 
 Thank you to the individuals and companies who sponsored the program:
 
@@ -36,13 +36,13 @@ Cars.com
 
 .. figure:: http://dl.dropbox.com/u/768016/pyladies/sponsors/cars.com/cars-dot-com.jpg
    :align: center
-   :alt: 
+   :alt:
 
 Steve Holden / The Open Bastion
 
 .. figure:: http://dl.dropbox.com/u/768016/pyladies/sponsors/the-open-bastion/tob-226x128.png
    :align: center
-   :alt: 
+   :alt:
 
 Bronze ($150+)
 ~~~~~~~~~~~~~~

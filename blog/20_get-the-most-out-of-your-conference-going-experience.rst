@@ -3,8 +3,8 @@ Get the Most out of Your Conference-going Experience
 
 :tags: Archive
 :category: Blog
-
-By `Esther Nam </blog/author/esther/>`_ posted Jan. 21, 2012, 4:50 a.m.
+:author: Esther Nam
+:date: 2012-01-22 05:50
 
 As seen in our last newsletter: @\ `kjam <http://twitter.com/kjam>`_
 and @\ `sandymahalo <http://twitter.com/sandymahalo>`_ are pro

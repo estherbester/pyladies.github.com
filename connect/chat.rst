@@ -2,6 +2,9 @@
 Chat
 ====
 
+:date: 2012-05-05 13:55
+:category: Connect
+
 #pyladies on FreeNode
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -32,10 +35,6 @@ You can subscribe here:
    :alt: Google Groups
 
    Google Groups
-
-**Subscribe to PyLadies**
-
-Email:
 
 `Visit this group <http://groups.google.com/group/pyladies>`_
 

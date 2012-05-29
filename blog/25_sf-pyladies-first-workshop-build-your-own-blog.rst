@@ -3,10 +3,10 @@ SF PyLadies First Workshop: Build your own Blog
 
 :tags: Archive
 :category: Blog
+:author: Lynn Root
+:date: 2012-05-21 06:00
 
-By `Esther Nam </blog/author/esther/>`_ posted May 21, 2012, 6 a.m.
-
-:note:[This post about the first San Francisco PyLadies chapter's workshop is
+:emphasis:[Ed. note: This post about the first San Francisco PyLadies chapter's workshop is
 copied straight from `Lynn's personal
 blog <http://www.roguelynn.com/2012/05/16/pyladies-first-workshop-build-your-own-blog/>`_
 (with Lynn's generous permission -- thanks!)]

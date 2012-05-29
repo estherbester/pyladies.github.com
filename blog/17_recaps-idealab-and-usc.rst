@@ -3,8 +3,9 @@ Recaps: October Hackathon at Idealab, November Beginner's Workshop at USC
 
 :tags: Archive
 :category: Blog
+:author: Esther Nam
+:date: 2011-11-29 22:33
 
-By `Esther Nam </blog/author/esther/>`_ posted Nov. 29, 2011, 10:33 p.m.
 
 Hackety Hack!
 ~~~~~~~~~~~~~

@@ -3,9 +3,8 @@ PyLadies at PyCon 2012!
 
 :tags: Archive
 :category: Blog
-
-By `Christine Cheung </blog/author/xtine/>`_ posted Dec. 12, 2011, 7:12
-a.m.
+:author: C Cheung
+:date: 2011-12-12 07:12
 
 We're happy to announce that with the help of the Python Software
 Foundation, PyLadies will be making an appearance at

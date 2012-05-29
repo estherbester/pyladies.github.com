@@ -3,8 +3,9 @@ Call for Applications and Sponsors for PyLadies @ PyCon US 2012
 
 :tags: Archive
 :category: Blog
+:author: Esther Nam
+:date: 2011-12-15 06:43
 
-By `Esther Nam </blog/author/esther/>`_ posted Dec. 15, 2011, 6 a.m.
 
 `As previously mentioned </blog/pyladies-at-pycon-2012/>`_, the PyLadies
 are working with the PSF to ensure that PyLadies who want to attend
@@ -60,5 +61,3 @@ Sponsors will receive:
    person you sponsored.  We will help them through their Python career
    and put friendly pressure on them to contribute to open-source =)
 
-**
-**

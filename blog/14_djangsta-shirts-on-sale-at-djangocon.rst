@@ -3,9 +3,9 @@
 
 :tags: Archive
 :category: Blog
+:author: C Cheung
+:date: 2011-09-06 12:26
 
-By `Christine Cheung </blog/author/xtine/>`_ posted Sept. 6, 2011, 12:26
-a.m.
 
 These "Djangsta" shirts premiered at DjangoCon to a rousing success and
 are selling out quickly! If you are coming to DjangoCon this year, find

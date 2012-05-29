@@ -3,8 +3,8 @@ Recap: PyLadies at DjangoCon 2011
 
 :tags: Archive
 :category: Blog
-
-By `Esther Nam </blog/author/esther/>`_ posted Sept. 14, 2011, 6 a.m.
+:author: Esther Nam
+:date: 2011-09-14 06:00
 
 Last week the PyLadies took Portland, Oregon by storm: after months of
 planning, brainstorming, planning, rehearsing, and even a bit of
@@ -36,27 +36,10 @@ Grant <http://twitter.com/#%21/gabrielmgrant>`_ of
 
 |image1|
 
-The conference began in earnest on Tuesday, with
-`Tracy <http://twitter.com/limedaring>`_ delivering an inspiring
-`talk <http://www.slideshare.net/limedaring/from-designer-to-djangoer-in-six-weeks-a-story-from-solo-founder>`_ 
-about launching her own `startup <http://www.weddinginvitelove.com/>`_
-in six weeks by teaching herself Django. That afternoon,
-`Sandy <http://twitter.com/sandymahalo>`_ wowed even the most
-experienced developers in the room with her excellent talk on `best
-practices in
-testing <https://docs.google.com/a/pyladies.com/present/view?id=0AVthC0Z3iw8DZGRrdnFzeGdfN2c5bWJ6d2Y1&hl=en_US>`_.
- `Audrey <http://twitter.com/audreyr>`_  and
-`Christine <http://twitter.com/webdevgirl>`_ picked up the PyLadies
-baton the following day, with talks about `Django
-packages <http://www.slideshare.net/audreyr/django-package-thunderdome-by-audrey-roy-daniel-greenfeld>`_
-and `Django for the
-Front-End <http://www.slideshare.net/cosecant/best-practices-for-frontend-django-developers>`_,
-respectively. `Katharine <http://twitter.com/kjam>`_ spoke on Wednesday
-afternoon about `web-scraping
-methods <http://dl.dropbox.com/u/19508576/djangocon_slides/src/scraper_talk.html>`_.
+The conference began in earnest on Tuesday, with `Tracy <http://twitter.com/limedaring>`_ delivering an inspiring `talk <http://www.slideshare.net/limedaring/from-designer-to-djangoer-in-six-weeks-a-story-from-solo-founder>`_ about launching her own `startup <http://www.weddinginvitelove.com/>`_ in six weeks by teaching herself Django. That afternoon, `Sandy <http://twitter.com/sandymahalo>`_ wowed even the most experienced developers in the room with her excellent talk on `best practices in testing <https://docs.google.com/a/pyladies.com/present/view?id=0AVthC0Z3iw8DZGRrdnFzeGdfN2c5bWJ6d2Y1&hl=en_US>`_.  `Audrey <http://twitter.com/audreyr>`_  and `Christine <http://twitter.com/webdevgirl>`_ picked up the PyLadies baton the following day, with talks about `Django packages <http://www.slideshare.net/audreyr/django-package-thunderdome-by-audrey-roy-daniel-greenfeld>`_ and `Django for the Front-End <http://www.slideshare.net/cosecant/best-practices-for-frontend-django-developers>`_, respectively. `Katharine <http://twitter.com/kjam>`_ spoke on Wednesday afternoon about `web-scraping methods <http://dl.dropbox.com/u/19508576/djangocon_slides/src/scraper_talk.html>`_.
 
 |image2|
-========
+
 
 I'm singling out the PyLadies-driven sessions specially here, but of
 course there were numerous other great technical talks on topics ranging
@@ -120,7 +103,7 @@ introduce myself to others whom I'd recognized in the same manner!
 
 .. figure:: https://dl.dropbox.com/u/39730/pyladiesblog/djangocon/jeffreco.png
    :align: center
-   :alt: 
+   :alt:
 
 Speaking of which: the background tweet-chatter and retweeting of points
 from sessions we were missing out on was great to follow, sure, but

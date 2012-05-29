@@ -1,244 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/all.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-26T23:42:09Z</updated><entry><title>Jessica McKellar to be Keynote speaker at DjangoCon Europe!</title><link href="http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html" rel="alternate"></link><updated>2012-05-26T23:42:09Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted May 17, 2012, 6 a.m.&lt;/p&gt;
-&lt;p&gt;:note:[Originally posted on the &lt;a class="reference external" href="http://2012.djangocon.eu/blog/announcing-our-second-keynote-speaker-jessica-mcke/"&gt;DjangoCon Europe
-blog&lt;/a&gt;.
-Thanks Jonas for letting us repost here! &lt;a class="reference external" href="http://2012.djangocon.eu/"&gt;DjangoCon Europe
-2012&lt;/a&gt; will go from June 4-June 8 in Zurich,
-Switzerland.]&lt;/p&gt;
-&lt;p&gt;By Jonas Obrist&lt;/p&gt;
-&lt;p&gt;I am really excited to announce our second keynote speaker for DjangoCon
-Europe 2012 - Jessica McKellar.&lt;/p&gt;
-&lt;p&gt;Jessica is a kernel engineer from Cambridge, Massachusetts. She's a
-maintainer of several open source Python projects, most notably Twisted
-and OpenHatch. She's also working on a new edition of Twisted Networking
-Essentials for O'Reilly.&lt;/p&gt;
-&lt;p&gt;On top of her open source contributions, she is also a Python Software
-Foundation board member and a crucial part in the Boston Python User
-Group, the largest Python user group in the world. With that group she
-runs the Boston Python Workshop, an introductory programming pipeline
-that has brought hundreds of women into the local Python community and
-is being replicated in cities across the US.&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Bay Area Girl Geek Dinner at Yelp</title><link href="http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html" rel="alternate"></link><updated>2012-05-26T23:40:18Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted March 29, 2012, 5:49 a.m.&lt;/p&gt;
-&lt;p&gt;:note:The most recent &lt;a class="reference external" href="http://bayareagirlgeekdinners.com"&gt;Bay Area Girl Geek
-Dinner&lt;/a&gt; was Python-themed, and
-hosted by Yelp. Many thanks to &lt;a class="reference external" href="http://twitter.com/roguelynn"&gt;Lynn&lt;/a&gt;
-for letting us repost this article from &lt;a class="reference external" href="http://www.roguelynn.com/2012/03/28/girl-geek-dinner/"&gt;her
-blog&lt;/a&gt;! Lynn is
-starting up the &lt;a class="reference external" href="http://twitter.com/pyladiessf"&gt;SF Chapter of
-PyLadies&lt;/a&gt;, so drop her a line if you're
-interested in joining!&lt;/p&gt;
-&lt;p&gt;I had the pleasure of attending last night’s Girl Geek dinner at Yelp’s
-headquarters. The event was about empowering women by hearing their
-success stories.&lt;/p&gt;
-&lt;p&gt;Three of the speakers were not strangers to me, odd enough! Christine
-from PyLadies in LA spoke about increasing involvement of women in the
-Python community. And of course, spreading the Pyladies ingenuity to San
-Francisco with the help of yours truly!&lt;/p&gt;
-&lt;p&gt;Kaitlyn Trigger of lovestagram.com, a valentine overlay to instagram
-photos, spoke as well. I had the fortunate opportunity to invite her to
-one of my Women Who Code python workshop nights. I loved her message
-that one can not learn how to code by herself; it takes a village!&lt;/p&gt;
-&lt;p&gt;Lastly, Sasha of Women Who Code gave a great talk on how she starting
-the group, and her motivation behind it. Too bad she’s now in NYC :-/&lt;/p&gt;
-&lt;p&gt;I would highly recommend attending a Girl Geek dinner in the future!&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Django Workshop and Hackathon July 23rd</title><link href="http://www.pyladies.com/django-workshop-and-hackathon-july-23rd.html" rel="alternate"></link><updated>2012-05-26T23:37:54Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/django-workshop-and-hackathon-july-23rd.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted July 12, 2011, 6 a.m.&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
-&lt;colgroup&gt;
-&lt;col width="41%" /&gt;
-&lt;col width="59%" /&gt;
-&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;The PyLadies are continuing their summer series of hackathons with a Django-themed day on July 23rd, hosted by venue sponsor&amp;nbsp;&lt;a class="reference external" href="http://mahalo.com"&gt;Mahalo&lt;/a&gt;&amp;nbsp;in Santa Monica. This time, we're teaming up with the awesome&amp;nbsp;&lt;a class="reference external" href="http://www.meetup.com/ladjango/"&gt;LA Django Meetup Group&lt;/a&gt;,&amp;nbsp;who have valiantly supported our efforts to increase diversity by providing mentors like&amp;nbsp;&lt;a class="reference external" href="http://twitter.com/jacobburch"&gt;Jacob&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://twitter.com/jeffschenck"&gt;Jeff&lt;/a&gt;.&lt;/td&gt;
-&lt;td&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;|image2|&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a class="reference external" href="http://djangopony.com/"&gt;|image3|&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The&amp;nbsp;&lt;a class="reference external" href="/admin/blog/blogpost/add/www.djangoproject.com"&gt;Django web framework&amp;nbsp;&lt;/a&gt;is a great way to dive into Python while quickly building and deploying a simple and useful web application (like this blog, or even&amp;nbsp;&lt;a class="reference external" href="http://www.women2.org/from-web-designer-to-django-webapp-developer-tracy-osborn-launches-weddinginvitelove/"&gt;a whole startup&lt;/a&gt;!), which is why beginners are highly encouraged to attend. Participants will begin by going through the&amp;nbsp;&lt;a class="reference external" href="https://docs.djangoproject.com/en/1.3/intro/tutorial01/"&gt;Django Tutorial&lt;/a&gt;&amp;nbsp;under the expert tutelage of PyLadies developers. In the afternoon, attendees are encouraged to hack away on their own projects.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;As at the previous &lt;a class="reference external" href="/blog/recap-june-2011-hollywood-hackathon-at-border-stylo/"&gt;hackathon in
-Hollywood&lt;/a&gt;,
-mentors will be available throughout the day to help people on their
-individual projects and to answer any questions or resolve issues.&lt;/p&gt;
-&lt;p&gt;Like always, there will be a final hour of lightning talks (if you've
-attended our previous events, now might be a good time to consider
-presenting something yourself!). And of course there will a social hour
-following the event which is open to the whole Python community and its
-extended circles. You know how we love to party!&lt;/p&gt;
-&lt;p&gt;To register for this low-cost workshop (which includes breakfast, lunch
-and dinner), visit
-&lt;a class="reference external" href="http://pyladies-django-july.eventbrite.com"&gt;http://pyladies-django-july.eventbrite.com&lt;/a&gt;.
-For more information, email esther &amp;#64; pyladies dot com.&lt;/p&gt;
-&lt;p&gt;P.S. Many thanks to the &lt;a class="reference external" href="http://python.org/psf"&gt;Python Software
-Foundation&lt;/a&gt; for their generous support!&lt;/p&gt;
-&lt;!-- |pony --&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 35)&lt;/p&gt;
-malformed substitution definition.&lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 36)&lt;/p&gt;
-Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;powered| image:: &lt;a class="reference external" href="http://media.djangopony.com/img/small/badge.png"&gt;http://media.djangopony.com/img/small/badge.png&lt;/a&gt;
-.. &lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;|image2|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://media.mahalo.com/content/assets/bundles/images/mahalo/logo_mahalo.png"&gt;http://media.mahalo.com/content/assets/bundles/images/mahalo/logo_mahalo.png&lt;/a&gt;
-.. &lt;a href="#id5"&gt;&lt;span class="problematic" id="id6"&gt;|image3|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://media.djangopony.com/img/small/badge.png"&gt;http://media.djangopony.com/img/small/badge.png&lt;/a&gt;&lt;/p&gt;
-&lt;div class="system-messages section"&gt;
-&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 10); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;image2&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id3"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 36); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;image2&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id5"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 36); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;image3&amp;quot;.&lt;/div&gt;
-&lt;/div&gt;
-</summary><category term="Archive"></category></entry><entry><title></title><link href="http://www.pyladies.com/.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/.html</id><summary type="html">&lt;div class="section" id="building-a-great-work-culture-inspire-empower-and-collaborate"&gt;
-&lt;h2&gt;Building A Great Work Culture (Inspire, Empower And Collaborate)&lt;/h2&gt;
-&lt;table class="docutils field-list" frame="void" rules="none"&gt;
-&lt;col class="field-name" /&gt;
-&lt;col class="field-body" /&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr class="field"&gt;&lt;th class="field-name"&gt;tags:&lt;/th&gt;&lt;td class="field-body"&gt;Archive&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="field"&gt;&lt;th class="field-name"&gt;category:&lt;/th&gt;&lt;td class="field-body"&gt;Blog&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted May 16, 2012, 6 a.m.&lt;/p&gt;
-&lt;p&gt;:note:[Ed. note: Thanks to Pam and Angie for letting us repost this from &lt;a class="reference external" href="http://www.women2.com/building-a-great-work-culture-inspire-empower-and-collaborate/"&gt;the
-Women 2.0
-blog&lt;/a&gt;!]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;There are three key ingredients to a great culture boosting
-activity.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;By Pam Selle (Developer, Paperless Post)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image0" src="http://www.women2.com/wp-content/uploads/pam_selle.jpg" /&gt;One of the things I like most about &lt;a class="reference external" href="http://www.paperlesspost.com/"&gt;**my current
-workplace**&lt;/a&gt; is the culture. In an
-aggressive tech hiring environment, buffing up on how to build a great
-culture is definitely worth the time. At Paperless Post, we recently had
-a Hack Day (or, per the company mascot, &amp;quot;Stampy Day&amp;quot;). Here's what it
-was, why it was fun, and why you should probably bring it to your
-company too - but more than that, how the underlying culture and ethic
-is great for any company.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="planning-for-greatness-encouraging-creativity"&gt;
-&lt;h2&gt;Planning For Greatness: Encouraging Creativity&lt;/h2&gt;
-&lt;p&gt;There are three key ingredients to a great culture boosting activity -
-that the activity inspires employees concerning their work, empowers
-them to take ownership and control of part of the product, and that the
-activity allows company members to collaborate, communicate, and
-otherwise work together toward a goal.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="encourage-and-empower-hack-day"&gt;
-&lt;h2&gt;Encourage And Empower: Hack Day&lt;/h2&gt;
-&lt;p&gt;Hack Day is an example of a culture boosting activity - a day taken off
-from the regular run of the business to focus on other &amp;quot;hacks&amp;quot; or
-projects brought by the team. These can be dreamed up features, new
-design items, brainstorming new approaches... a company Hack Day is
-related to the company, but that can include writing a company chatbot
-or designing costumes for the company mascot. It can be adding a new
-feature that saves 10 people 5 hours a week... each. The project can be
-as big, small, ambitious, or fun as team members want it to be. The very
-nature of Hack Day encourages creativity and ownership of a project,
-both inspiring employees to dream up something for the business and
-empowering them to be in control of the outcome.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="empower-and-collaborate-who-should-participate-in-your-hack-day"&gt;
-&lt;h2&gt;Empower And Collaborate: Who should participate in your Hack Day&lt;/h2&gt;
-&lt;p&gt;Everyone. One of the best, most fun features of our company Hack Day was
-that it included everyone. Now, not all companies are small enough to be
-able to do this. But think about spreading Hack Day beyond the scope of
-your dev team. Can you involve Product? The Designers? Support? More
-ideas makes it more fun. Encourage project members to take ownership of
-their project, give them free reign to do what they like, and see who
-matches up across teams.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="put-it-together-how-does-hack-day-work"&gt;
-&lt;h2&gt;Put It Together: How does Hack Day work?&lt;/h2&gt;
-&lt;p&gt;Show up. Let people find people to work with. Work on things. Repeat.
-This is the fun part, and there's not really a wrong way to do it,
-except by being too uptight about it.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="afterburn-what-do-you-do-afterwards"&gt;
-&lt;h2&gt;Afterburn: What do you do afterwards?&lt;/h2&gt;
-&lt;p&gt;Have a celebration the next work day to talk about each other's projects
-over lunch. Another great thing about Hack Day is that it doesn't matter
-if you don't finish. Remember, it's Hack Day! Low stress. It's all about
-fun and creativity. Eeveryone talks about what they worked on, shows off
-what they did do, talks about the hurdles and what they learned. And
-everyone listening gets to see the smart, talented people they work with
-show off their stuff.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="roi-how-does-it-help"&gt;
-&lt;h2&gt;ROI: How does it help?&lt;/h2&gt;
-&lt;p&gt;The three key components of Hack Day, or any company culture booster,
-are that it is inspiring, empowering, and encourages collaboration. When
-these three ingredients come together, it results in something that at
-the end of the day will make your employees say “I’m glad I work here.”&lt;/p&gt;
-&lt;p&gt;** &lt;img alt="image1" src="http://www.women2.com/wp-content/uploads/125x125_Pam_Selle.jpg" /&gt;&lt;em&gt;About the guest blogger: Pam Selle is a developer at
-`Paperless Post &amp;lt;http://www.paperlesspost.com/&amp;gt;`_, bringing beautiful
-online stationery to users. She is involved in the Ruby, Python, and
-open source communities. A teacher at GirlDevelopIt and PyStarPhilly,
-she is passionate about opening web technologies to all and generally
-making the world a more fun place to live and work. Follow her on
-Twitter at `&amp;#64;pamasaur &amp;lt;https://twitter.com/#%21/pamasaur&amp;gt;`_.&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Call for Applications and Sponsors for PyLadies &amp;#64; PyCon US 2012</title><link href="http://www.pyladies.com/call-for-applications-and-sponsors-for-pyladies-64-pycon-us-2012.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/call-for-applications-and-sponsors-for-pyladies-64-pycon-us-2012.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted Dec. 15, 2011, 6 a.m.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/blog/pyladies-at-pycon-2012/"&gt;As previously mentioned&lt;/a&gt;, the PyLadies
-are working with the PSF to ensure that PyLadies who want to attend
-&lt;a class="reference external" href="http://us.pycon.org/2012"&gt;PyCon 2012&lt;/a&gt; can do so.&amp;nbsp; To that end, we are
-accepting &lt;a class="reference external" href="https://docs.google.com/spreadsheet/viewform?formkey=dEtUbUZxZWN6V3FGdkVydEtvU2ZwMUE6MQ"&gt;applications for grants to attend
-PyCon&lt;/a&gt;
-in Santa Clara, CA from March 7-15.&lt;/p&gt;
-&lt;p&gt;Let's make PyCon as diverse as the Python Community as a whole -- if not
-more! Many thanks to the PSF for partnering with us on this initiative.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Attendees&lt;/strong&gt;: If you are a female Python developer who wants to attend
-but needs financial assistance in order to do so, please &lt;a class="reference external" href="https://docs.google.com/spreadsheet/viewform?formkey=dEtUbUZxZWN6V3FGdkVydEtvU2ZwMUE6MQ"&gt;fill out this
-form&lt;/a&gt;
-as soon as possible.&lt;/p&gt;
-&lt;p&gt;The application period for this year has ended. If you have not received
-a reply from us about the status of your application, please email
-esther &amp;#64; pyladies com immediately.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sponsors&lt;/strong&gt;: If you are interested in providing financial assistance to
-a budding Python developer in need, please contact esther &amp;#64; pyladies.com&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/blog/djangocon-sponsorship-program-results/"&gt;We did something similar this past year for
-DjangoCon&lt;/a&gt;, and plan to
-continue this program for as long as we can sustain it. If you can help
-us, you will helping to change the community, and maybe even a couple of
-lives!&lt;/p&gt;
-&lt;div class="section" id="how-grant-recipients-will-be-chosen"&gt;
-&lt;h2&gt;How grant recipients will be chosen&lt;/h2&gt;
-&lt;p&gt;Priority will be based on the following factors:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Genuine financial need&lt;/li&gt;
-&lt;li&gt;Talk proposal acceptance (those invited to speak at PyCon will have
-higher priority)&lt;/li&gt;
-&lt;li&gt;Level of experience in programming&lt;/li&gt;
-&lt;li&gt;Contributions to open-source&lt;/li&gt;
-&lt;li&gt;Contributions to Python diversity advocacy efforts&lt;/li&gt;
-&lt;li&gt;Desire to attend&lt;/li&gt;
-&lt;li&gt;Impact that attendance will have on her life, especially for
-first-time attendees&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Sponsors will receive:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;an email report from us about the person you're sponsoring, and why
-you made the right decision&lt;/li&gt;
-&lt;li&gt;your link listed on a page that we'll be putting up for sponsors&lt;/li&gt;
-&lt;li&gt;your logo displayed on that page, if you donate substantially more
-than others (amount TBD) and/or better placement&lt;/li&gt;
-&lt;li&gt;a personal guarantee from me that the PyLadies and I will mentor the
-person you sponsored. &amp;nbsp;We will help them through their Python career
-and put friendly pressure on them to contribute to open-source =)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="section" id="id3"&gt;
-&lt;h3&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;**&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/19_call-for-applications-and-sponsors-for-pyladies-pycon-us-2012.rst&lt;/tt&gt;, line 63); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Inline strong start-string without end-string.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</summary><category term="Archive"></category></entry><entry><title>Call for Sponsorship</title><link href="http://www.pyladies.com/call-for-sponsorship.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/call-for-sponsorship.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted June 30, 2011, 10:14
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/all.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-24T22:52:39Z</updated><entry><title>Call for Sponsorship</title><link href="http://www.pyladies.com/call-for-sponsorship.html" rel="alternate"></link><updated>2012-05-24T22:52:39Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/call-for-sponsorship.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted June 30, 2011, 10:14
 p.m.&lt;/p&gt;
 &lt;p&gt;PyLadies needs your help getting women to DjangoCon. &amp;nbsp;There are women
 who could really benefit from the experience.&lt;/p&gt;
@@ -311,65 +72,696 @@ malformed substitution definition.&lt;/div&gt;
 Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
 &lt;p&gt;DjangoCon?| image:: &lt;a class="reference external" href="http://farm7.static.flickr.com/6055/5888664375_d84b17a4d9.jpg"&gt;http://farm7.static.flickr.com/6055/5888664375_d84b17a4d9.jpg&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Archive"></category></entry><entry><title>DjangoCon Sponsorship Program: Results</title><link href="http://www.pyladies.com/djangocon-sponsorship-program-results.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/djangocon-sponsorship-program-results.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted Sept. 5, 2011, 10:51
-p.m.&lt;/p&gt;
-&lt;p&gt;Announcing the results of the PyLadies' DjangoCon Sponsorship Program.&lt;/p&gt;
-&lt;p&gt;$4250 was raised, with 100% of it going to making it possible for female Django developers to attend DjangoCon. &amp;nbsp;Specifically, excited and passionate developers who would not otherwise have attended (who happen to be women).&lt;/p&gt;
-&lt;p&gt;Here is a breakdown of how the money was used. &amp;nbsp;For more details about
-this, see our PyLadies / DjangoCon US 2011 Sponsorship Program financial
-report (&lt;a class="reference external" href="http://dl.dropbox.com/u/768016/pyladies/financial-reports/PyLadies-DjangoConUS2011-Financial-Report.pdf"&gt;PDF
-download&lt;/a&gt;).&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Django Workshop and Hackathon July 23rd</title><link href="http://www.pyladies.com/django-workshop-and-hackathon-july-23rd.html" rel="alternate"></link><updated>2012-05-24T22:52:39Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/django-workshop-and-hackathon-july-23rd.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted July 12, 2011, 6 a.m.&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="41%" /&gt;
+&lt;col width="59%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;The PyLadies are continuing their summer series of hackathons with a Django-themed day on July 23rd, hosted by venue sponsor&amp;nbsp;&lt;a class="reference external" href="http://mahalo.com"&gt;Mahalo&lt;/a&gt;&amp;nbsp;in Santa Monica. This time, we're teaming up with the awesome&amp;nbsp;&lt;a class="reference external" href="http://www.meetup.com/ladjango/"&gt;LA Django Meetup Group&lt;/a&gt;,&amp;nbsp;who have valiantly supported our efforts to increase diversity by providing mentors like&amp;nbsp;&lt;a class="reference external" href="http://twitter.com/jacobburch"&gt;Jacob&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://twitter.com/jeffschenck"&gt;Jeff&lt;/a&gt;.&lt;/td&gt;
+&lt;td&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;|image2|&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a class="reference external" href="http://djangopony.com/"&gt;|image3|&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The&amp;nbsp;&lt;a class="reference external" href="/admin/blog/blogpost/add/www.djangoproject.com"&gt;Django web framework&amp;nbsp;&lt;/a&gt;is a great way to dive into Python while quickly building and deploying a simple and useful web application (like this blog, or even&amp;nbsp;&lt;a class="reference external" href="http://www.women2.org/from-web-designer-to-django-webapp-developer-tracy-osborn-launches-weddinginvitelove/"&gt;a whole startup&lt;/a&gt;!), which is why beginners are highly encouraged to attend. Participants will begin by going through the&amp;nbsp;&lt;a class="reference external" href="https://docs.djangoproject.com/en/1.3/intro/tutorial01/"&gt;Django Tutorial&lt;/a&gt;&amp;nbsp;under the expert tutelage of PyLadies developers. In the afternoon, attendees are encouraged to hack away on their own projects.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As at the previous &lt;a class="reference external" href="/blog/recap-june-2011-hollywood-hackathon-at-border-stylo/"&gt;hackathon in
+Hollywood&lt;/a&gt;,
+mentors will be available throughout the day to help people on their
+individual projects and to answer any questions or resolve issues.&lt;/p&gt;
+&lt;p&gt;Like always, there will be a final hour of lightning talks (if you've
+attended our previous events, now might be a good time to consider
+presenting something yourself!). And of course there will a social hour
+following the event which is open to the whole Python community and its
+extended circles. You know how we love to party!&lt;/p&gt;
+&lt;p&gt;To register for this low-cost workshop (which includes breakfast, lunch
+and dinner), visit
+&lt;a class="reference external" href="http://pyladies-django-july.eventbrite.com"&gt;http://pyladies-django-july.eventbrite.com&lt;/a&gt;.
+For more information, email esther &amp;#64; pyladies dot com.&lt;/p&gt;
+&lt;p&gt;P.S. Many thanks to the &lt;a class="reference external" href="http://python.org/psf"&gt;Python Software
+Foundation&lt;/a&gt; for their generous support!&lt;/p&gt;
+&lt;!-- |pony --&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 35)&lt;/p&gt;
+malformed substitution definition.&lt;/div&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 36)&lt;/p&gt;
+Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
+&lt;p&gt;powered| image:: &lt;a class="reference external" href="http://media.djangopony.com/img/small/badge.png"&gt;http://media.djangopony.com/img/small/badge.png&lt;/a&gt;
+.. &lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;|image2|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://media.mahalo.com/content/assets/bundles/images/mahalo/logo_mahalo.png"&gt;http://media.mahalo.com/content/assets/bundles/images/mahalo/logo_mahalo.png&lt;/a&gt;
+.. &lt;a href="#id5"&gt;&lt;span class="problematic" id="id6"&gt;|image3|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://media.djangopony.com/img/small/badge.png"&gt;http://media.djangopony.com/img/small/badge.png&lt;/a&gt;&lt;/p&gt;
+&lt;div class="system-messages section"&gt;
+&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
+&lt;div class="system-message" id="id1"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 10); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;image2&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id3"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 36); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;image2&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id5"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/9_django-workshop-and-hackathon-july-23rd.rst&lt;/tt&gt;, line 36); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Undefined substitution referenced: &amp;quot;image3&amp;quot;.&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Archive"></category></entry><entry><title>SF PyLadies First Workshop: Build your own Blog</title><link href="http://www.pyladies.com/sf-pyladies-first-workshop-build-your-own-blog.html" rel="alternate"></link><updated>2012-05-21T06:00:00Z</updated><author><name>Lynn Root</name></author><id>http://www.pyladies.com/sf-pyladies-first-workshop-build-your-own-blog.html</id><summary type="html">&lt;p&gt;:emphasis:[Ed. note: This post about the first San Francisco PyLadies chapter's workshop is
+copied straight from &lt;a class="reference external" href="http://www.roguelynn.com/2012/05/16/pyladies-first-workshop-build-your-own-blog/"&gt;Lynn's personal
+blog&lt;/a&gt;
+(with Lynn's generous permission -- thanks!)]&lt;/p&gt;
+&lt;p&gt;What a blast I had on Saturday! It was a great learning experience for
+both the attendees and for us PyLadies org board! Good lessons learned,
+such as virtualenv is a beast to install depending on one’s operating
+system. Next time, we’ll have a pre-workshop session for installation of
+dependencies and such.&lt;/p&gt;
+&lt;p&gt;We went through how to build a blog using Django and its class-based
+views. We also went over Model-View-Controller concepts, and how they
+apply to Django. We wrapped up with a quick overview of how easy it is
+to deploy an application on Heroku (way too easy!).&lt;/p&gt;
+&lt;p&gt;I’ve made a &lt;a class="reference external" href="https://github.com/econchick/PyLadiesBYOBlog"&gt;GitHub
+repo&lt;/a&gt; for people to fork
+&amp;amp; contribute. I didn’t find an easily accessible tutorial for building a
+blog, or for building a simple app using Django’s class views, so
+hopefully this will grow to something useful in the Django community.
+Til next time!&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>May 12, 2012 SF Study Group</title><link href="http://www.pyladies.com/may-12-2012-sf-study-group.html" rel="alternate"></link><updated>2012-05-05T14:07:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/may-12-2012-sf-study-group.html</id><summary type="html">&lt;p&gt;Hey Ladies!&lt;/p&gt;
+&lt;p&gt;Udacity is offering a free online intro to programming course starting Monday April 16th. Each week, videos will be posted online at the start of the week and homework will be due on the Tuesday of the following week.&lt;/p&gt;
+&lt;p&gt;Let's meet every Wednesday evening; exact time &amp;amp; place will be coordinated with soon, but will be in the SF city area.&lt;/p&gt;
+&lt;p&gt;Please watch the videos beforehand so we can work on homework together. There are multiple courses, no need to all do the same. We can help each other!&lt;/p&gt;
+&lt;p&gt;Also - this event is for women, those who identify as women, and their friends (of either gender). Emphatically queer &amp;amp; trans friendly.&lt;/p&gt;
+&lt;p&gt;See &lt;a class="reference external" href="http://www.meetup.com/PyLadiesSF/events/62203752/"&gt;http://www.meetup.com/PyLadiesSF/events/62203752/&lt;/a&gt;&lt;/p&gt;
+</summary><category term="PyladiesSF"></category><category term="StudyGroup"></category></entry><entry><title>2012 PyLadies PyCon grant program - final results</title><link href="http://www.pyladies.com/2012-pyladies-pycon-grant-program-final-results.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/2012-pyladies-pycon-grant-program-final-results.html</id><summary type="html">&lt;p&gt;PyLadies supported 29 developers, with tickets and funds allocated as
+follows:&lt;/p&gt;
+&lt;p&gt;We would especially like to thank the &lt;a class="reference external" href="http://python.org/psf"&gt;Python Software
+Foundation&lt;/a&gt;, who worked with us to coordinate
+our financial program with theirs to maximize the amount of funding that
+would go toward increasing the diversity of PyCon attendance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Distribution of resources&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+11 tickets (Complimentary registrations)
+$2900.00 Purchased registrations
+$ 900.00 Reimbursement for tutorials
+$2444.40 Travel funding
+--
+$6244.40 Total funds disbursed
+&lt;/pre&gt;
+&lt;p&gt;100% of the monetary amount was offered to the 32 applicants who were
+eligible to receive funding, 97% of which was accepted by 29 of the 32
+applicants.&lt;/p&gt;
+&lt;p&gt;$206.60 remains of out of the money that was offered but not accepted,
+and will be set aside as seed funding to be put toward next yearâ€™s
+financial aid program.&lt;/p&gt;
+&lt;p&gt;Next year we hope to set aside more money to support at least one
+international PyLady.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="91%" /&gt;
+&lt;col width="9%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;STATISTICS&lt;/th&gt;
+&lt;th class="head"&gt;&amp;nbsp;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;In-state attendees&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Out-of-state&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;International&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;PyCon Speakers&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Poster Presenters&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Students&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;First-time attendees: 23&lt;/strong&gt;
+(I totally wanted to apply the &amp;lt;blink&amp;gt; tag on this one)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EVALUATION CRITERIA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Applicants were given priority according to the following weighted
+scale, based on information they provided on their applications,
+submitted bio, email correspondence, and any other material available
+(Github/Bitbucket/other online VCS accounts, blog posts, other
+references).&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="4%" /&gt;
+&lt;col width="96%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;%&lt;/th&gt;
+&lt;th class="head"&gt;Weight/Criterion&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;Speaking at PyCon - Speakers get top priority&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;20%&lt;/td&gt;
+&lt;td&gt;Open source/advocacy - Contributions to open source or diversity-advocacy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;15%&lt;/td&gt;
+&lt;td&gt;Financial need - Evidence of financial need&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;Potential life impact - Impact of attendance on career/academic/life goals&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5%&lt;/td&gt;
+&lt;td&gt;Prior experience/ability - Technical background/skills&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;ONGOING MENTORSHIP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All women who receive a grant also receive a lifetime of peer mentorship
+through the PyLadies community.&lt;/p&gt;
+&lt;p&gt;PyLadies encourages women to grow as leaders in the Python open-source
+community, with mentoring for interested conference speakers and
+opportunities for teaching and active discussion of Python programming
+issues, in addition to contributing to open-source projects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Disclosure&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Last September, a secret Python angel paid my entire way to DjangoCon,
+making it the first tech conference I ever attended. It was an amazing
+experience, one that led me to make a huge career switch, from
+programming hobbyist to full-time web developer. I know firsthand the
+impact that this kind of program can have, which is why it means so much
+to me personally to see it succeed. Best of all, my own trip to PyCon
+this year was fully paid for by my new employer =D&amp;nbsp; Cheers! - Esther N.
+Questions, comments, suggestions? Email: &lt;a class="reference external" href="mailto:sponsors&amp;#64;pyladies.com"&gt;sponsors&amp;#64;pyladies.com&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Pycon"></category></entry><entry><title>Chat</title><link href="http://www.pyladies.com/chat.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/chat.html</id><summary type="html">&lt;div class="section" id="pyladies-on-freenode"&gt;
+&lt;h2&gt;#pyladies on FreeNode&lt;/h2&gt;
+&lt;p&gt;Our IRC channel, #pyladies on FreeNode, is open to all women of the
+Python community of every experience level. &amp;nbsp;Men who are interested in
+helping women get into Python development are also welcome.&lt;/p&gt;
+&lt;p&gt;Whether you have Python-related questions or just want to hang out and
+meet others, drop in and say hi! &amp;nbsp;If no one answers, say the name of
+someone in the channel or try back later.&lt;/p&gt;
+&lt;p&gt;New to IRC? &amp;nbsp;&lt;a class="reference external" href="/chat/irc-instructions/"&gt;Click here for instructions&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="discussion-list-google-group"&gt;
+&lt;h2&gt;Discussion List (Google Group)&lt;/h2&gt;
+&lt;p&gt;We also have a Google Group discussion list, open to all women of any
+experience level with Python. &amp;nbsp;As with IRC channel #pyladies, men are
+welcome too. &amp;nbsp;The only rule is that you try extra-hard to be positive
+and encouraging.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://groups.google.com/group/pyladies/"&gt;https://groups.google.com/group/pyladies/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can subscribe here:&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
-&lt;img alt="" src="https://docs.google.com/a/pyladies.com/spreadsheet/oimg?key=0AmeI6choQL4JdGpkaGJseGVaNWFBUmNWSUNLM3RRS1E&amp;amp;oid=4&amp;amp;zx=a3qc48tfkn72" /&gt;
+&lt;img alt="Google Groups" src="http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif" /&gt;
+&lt;p class="caption"&gt;Google Groups&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;Thank you to the individuals and companies who sponsored the program:&lt;/p&gt;
-&lt;div class="section" id="gold-3000"&gt;
-&lt;h2&gt;Gold ($3000+)&lt;/h2&gt;
-&lt;p&gt;Mozilla&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image0" src="http://dl.dropbox.com/u/768016/pyladies/sponsors/mozilla/logo-wordmark-mozilla-300x105.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://groups.google.com/group/pyladies"&gt;Visit this group&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is not to be confused with our low-volume PyLadies newsletter (the
+mailing list for announcements). &amp;nbsp;Use the box on the right sidebar to
+subscribe to that one.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="silver-500"&gt;
-&lt;h2&gt;Silver ($500+)&lt;/h2&gt;
-&lt;p&gt;Cars.com&lt;/p&gt;
-&lt;div class="figure align-center"&gt;
-&lt;img alt="" src="http://dl.dropbox.com/u/768016/pyladies/sponsors/cars.com/cars-dot-com.jpg" /&gt;
+</summary></entry><entry><title>IRC Instructions</title><link href="http://www.pyladies.com/irc-instructions.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/irc-instructions.html</id><summary type="html">&lt;div class="section" id="how-to-connect-to-the-pyladies-irc-channel"&gt;
+&lt;h2&gt;How to connect to the PyLadies IRC channel:&lt;/h2&gt;
+&lt;div class="section" id="to-join-us-you-will-need-the-following"&gt;
+&lt;h3&gt;To join us, you will need the following:&lt;/h3&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;an IRC client (see Part B below) and;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2. the server/channel/port information for our channel (see Part A
+below)&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;Steve Holden / The Open Bastion&lt;/p&gt;
-&lt;div class="figure align-center"&gt;
-&lt;img alt="" src="http://dl.dropbox.com/u/768016/pyladies/sponsors/the-open-bastion/tob-226x128.png" /&gt;
+&lt;div class="section" id="part-a-server-settings"&gt;
+&lt;h3&gt;Part A: Server Settings&lt;/h3&gt;
+&lt;p&gt;Server: &lt;a class="reference external" href="http://asimov.freenode.net/"&gt;asimov.freenode.net&lt;/a&gt; (obviously,
+this is on the FreeNode network):&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Channel: #pyladies
+Port: 6667
+&lt;/pre&gt;
+&lt;p&gt;Note: If for some reason you cannot connect to
+&lt;a class="reference external" href="http://asimov.freenode.net/"&gt;asimov.freenode.net&lt;/a&gt;, here is a page
+that lists the other FreeNode servers you can connect to:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://freenode.net/irc_servers.shtml"&gt;http://freenode.net/irc_servers.shtml&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="part-b-setting-up-an-irc-client"&gt;
+&lt;h3&gt;Part B: Setting up an IRC Client:&lt;/h3&gt;
+&lt;div class="section" id="linux-and-windows-xchat-installation"&gt;
+&lt;h4&gt;Linux and Windows - XChat Installation:&lt;/h4&gt;
+&lt;p&gt;sudo apt-get install xchat (Ubuntu and Debian Linux)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;or -&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.silverex.org/download/"&gt;http://www.silverex.org/download/&lt;/a&gt;
+(Windows)&lt;/p&gt;
+&lt;div class="section" id="configure"&gt;
+&lt;h5&gt;Configure:&lt;/h5&gt;
+&lt;p&gt;When you launch XChat, a “Network List” box will appear. Perform the
+following configuration:&lt;/p&gt;
+&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;p class="first"&gt;Choose a nick name (and alternates in case yours is taken)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;From the “Networks” box select “FreeNode” (XChat will select a FreeNode server to place you onto)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Click “Connect”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;A box that says “Connection Complete” will appear. Select the radio button labeled “Join this channel” and change the content of the box to read::&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;#pyladies&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Click “OK”.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You should now be in the #pyladies FreeNode channel&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="section" id="bronze-150"&gt;
-&lt;h2&gt;Bronze ($150+)&lt;/h2&gt;
-&lt;p&gt;Douglas Philips&lt;/p&gt;
+&lt;div class="section" id="mac-os-limechat"&gt;
+&lt;h4&gt;Mac OS - LimeChat&lt;/h4&gt;
+&lt;p&gt;Installation:&lt;/p&gt;
+&lt;p&gt;Download LimeChat here:
+&lt;a class="reference external" href="http://limechat.net/mac/"&gt;http://limechat.net/mac/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Configure:
+1. Right-click on the lower right-hand panel of the LimeChat interface
+2. Select “Add Server”
+3. Enter the following configuration settings:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Server: &lt;a class="reference external" href="http://asimov.freenode.net/"&gt;asimov.freenode.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Port: 6667&lt;/li&gt;
+&lt;li&gt;Password: &amp;lt;leave blank&amp;gt;&lt;/li&gt;
+&lt;li&gt;Nickname: select a nickname for yourself&lt;/li&gt;
+&lt;li&gt;Click “Connect”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You should now be in the #pyladies FreeNode channel.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="supporter-50"&gt;
-&lt;h2&gt;Supporter ($50+)&lt;/h2&gt;
-&lt;p&gt;Justin and Kristy Fields&lt;/p&gt;
-&lt;p&gt;Shawn Milochik&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Archive"></category></entry><entry><title>Djangsta Shirts - Extra Print Run!</title><link href="http://www.pyladies.com/djangsta-shirts-extra-print-run.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/djangsta-shirts-extra-print-run.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted Sept. 19, 2011, 2:11 a.m.&lt;/p&gt;
-&lt;p&gt;If you were at DjangoCon you probably saw people wearing these, standing
-out magnificently amongst the sea of bright green. They were the cool
-people -- the Djangstas, if you will.&lt;/p&gt;
-&lt;p&gt;We were originally going to sell these only at DjangoCon, but demand was
-so high we've decided to do one more print run. If you&amp;nbsp; hesitated the
-first time around (and are now full of regret), or were shortsighted
-enough to give DjangoCon a miss altogether this year (and are now SO
-full of regret), here's your chance to redeem yourself and join the
-ranks of the Djangstas!&lt;/p&gt;
-&lt;p&gt;Shirts will now cost $25, to cover shipping and/or PayPal fees.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Please pre-order by October 1,&lt;/strong&gt; by filling out the form below. We'll
-email you to confirm so you can pay us (via check or Paypal)&amp;nbsp; before we
-print and mail you your shirt.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Past Events</title><link href="http://www.pyladies.com/past-events.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/past-events.html</id><summary type="html">&lt;div class="section" id="pyladies-djangocon-2011-pycon-2012-talk-proposal-brainstorming-session"&gt;
+&lt;h2&gt;PyLadies' DjangoCon 2011 / PyCon 2012 Talk Proposal Brainstorming Session&lt;/h2&gt;
+&lt;p&gt;Brunch at Corner Bakery (345 S Lake Ave Ste 107, Pasadena, CA 91101)
+followed by collaboration time at the Loud3r office
+June 25, 2011
+11am until...whenever we've got a set of solid talk proposals&lt;/p&gt;
+&lt;p&gt;Prerequisite: enough familiarity with Django to actively participate in
+brainstorming/constructing DjangoCon talk proposals. Absolute beginners
+and non-developers beware!&lt;/p&gt;
+&lt;p&gt;Bring index cards with as many DjangoCon talk ideas as you can think of,
+both for yourself and for others to consider using. At least 3 cards is
+a good start. &amp;nbsp;Bonus points if you come up with 5 or more ideas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-ladies-night-4"&gt;
+&lt;h2&gt;Python Ladies' Night 4&lt;/h2&gt;
+&lt;p&gt;Immediately following the PyLadies Hack Session. &amp;nbsp;You're encouraged to
+attend both events, but if you can't make it during the day, come for
+Python Ladies' Night at least.&lt;/p&gt;
+&lt;p&gt;June 18, 2011 from 8pm onward
+The Hollywood Canteen
+1006 Seward St,&amp;nbsp;Los Angeles,&amp;nbsp;CA&amp;nbsp;90038&lt;/p&gt;
+&lt;p&gt;All ladies of the Python community are invited to hang out with us for a
+night of fun in Hollywood.&amp;nbsp;We'll meet up at&amp;nbsp;&lt;a class="reference external" href="http://www.hollywoodcanteenla.com/"&gt;The Hollywood
+Canteen&lt;/a&gt;&amp;nbsp;at 8pm, then possibly
+visit other nearby bars afterward. &amp;nbsp;Significant others and friends
+(including mentors from the earlier sprint) are welcome.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pyladies-hackathon"&gt;
+&lt;h2&gt;PyLadies Hackathon&lt;/h2&gt;
+&lt;p&gt;Saturday June 18, 2011 from 2-8pm&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pyladies-hackathon.eventbrite.com?ref=ebtn"&gt;|Register for PyLadies Hackathon in Los Angeles, CA on
+Eventbrite|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bring a laptop and code on your own projects. &amp;nbsp;If you need advice on how
+to get started with a project idea, we'll help you get started and then
+let you work independently.&lt;/p&gt;
+&lt;p&gt;You can work on absolutely anything you want, private or open-source, as
+long as it involves some Python code. &amp;nbsp;But thanks to a grant from the
+PSF, we'll be giving you an extra incentive to get into open-source. &amp;nbsp;If
+you contribute to an open-source project or even open-source some code
+that you've written, you'll receive a free PyLadies t-shirt.&lt;/p&gt;
+&lt;p&gt;We're planning to have 1 mentor available for every 1-3 attendees. &amp;nbsp;If
+you need Python help, consider this a session with your personal Python
+trainer who's going to help you get coding!&lt;/p&gt;
+&lt;p&gt;The last hour will be for lightning talks. &amp;nbsp;Sign up to present on
+something Python- or developer-related by emailing &lt;a class="reference external" href="mailto:audreyr&amp;#64;pyladies.com"&gt;audreyr&amp;#64;pyladies.com&lt;/a&gt;
+or any of the other organizers.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pyladies-hackathon.eventbrite.com?ref=ebtn"&gt;|image1|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more info,
+see&amp;nbsp;&lt;a class="reference external" href="http://pyladies-hackathon.eventbrite.com/"&gt;http://pyladies-hackathon.eventbrite.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-ladies-night-3"&gt;
+&lt;h2&gt;Python Ladies' Night 3&lt;/h2&gt;
+&lt;p&gt;June 3, 2011 from 9pm-2am&lt;/p&gt;
+&lt;p&gt;* NOTE: Due to unexpected demand, the details have changed to
+accommodate a larger group. *&lt;/p&gt;
+&lt;p&gt;All Python ladies are invited to hang out with us for a night of fun in
+downtown LA.&amp;nbsp;We'll meet up at&amp;nbsp;&lt;a class="reference external" href="http://www.sevengrand.la/"&gt;Seven
+Grand&lt;/a&gt;&amp;nbsp;at 9pm, then possibly visit other
+nearby bars afterward. &amp;nbsp;Significant others are welcome.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="intro-to-python-workshop"&gt;
+&lt;h2&gt;Intro to Python Workshop&lt;/h2&gt;
+&lt;p&gt;May 15, 2011, 9:30am-4:30pm followed by an optional social hour.&lt;/p&gt;
+&lt;p&gt;Pasadena, CA&lt;/p&gt;
+&lt;div class="section" id="schedule"&gt;
+&lt;h3&gt;SCHEDULE&lt;/h3&gt;
+&lt;p&gt;9:00-9:30am -&amp;nbsp;Check-in and meet other attendees. &amp;nbsp;Coffee and bagels
+provided.&lt;/p&gt;
+&lt;p&gt;9:30am-12:30pm - Intro to Python tutorial, using the popular&amp;nbsp;&lt;a class="reference external" href="http://learnpythonthehardway.org/"&gt;Learn
+Python the Hard Way book by Zed
+Shaw&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;12:30-1:30pm - Lunch break&lt;/p&gt;
+&lt;p&gt;1:30-3:30pm - Workshop breakout sessions, with separate stations for 2-3
+Python programming topics&lt;/p&gt;
+&lt;p&gt;3:30-4:30pm - Lightning talks&lt;/p&gt;
+&lt;p&gt;4:30-5:30pm - Ice cream float social hour&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="registration"&gt;
+&lt;h3&gt;REGISTRATION&lt;/h3&gt;
+&lt;p&gt;Tickets are available on Eventbrite for a $25 fee that covers costs for
+breakfast/lunch. &amp;nbsp;This event is entirely volunteer-run.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="need-based-grants-available"&gt;
+&lt;h3&gt;NEED-BASED GRANTS AVAILABLE&lt;/h3&gt;
+&lt;p&gt;If you are struggling financially and can't afford the ticket price,
+don't let it be a barrier to attending. &amp;nbsp;Email &lt;a class="reference external" href="mailto:audreyr&amp;#64;cartwheelweb.com"&gt;audreyr&amp;#64;cartwheelweb.com&lt;/a&gt;
+with the following info (maximum of 1 page, can be informal) :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;How much can you afford to pay?&lt;/li&gt;
+&lt;li&gt;Why would you like to attend this workshop?&lt;/li&gt;
+&lt;li&gt;How might this workshop affect you in the future?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We're here to help. &amp;nbsp;Don't be afraid to ask.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-ladies-night-2-workshop-planning-session"&gt;
+&lt;h2&gt;Python Ladies' Night 2 + workshop planning session&lt;/h2&gt;
+&lt;p&gt;May 8, 2011 at 4pm in Pasadena, CA. &amp;nbsp;We'll be getting together for
+tea/coffee and to meet each other. &amp;nbsp;Then we'll do some planning for the
+May 15 workshop.
+Prerequisite for this event: Python programming experience and a desire
+to assist during the May 15 women's Python workshop. &amp;nbsp;If you missed the
+first ladies' night but want to get involved, please email
+&lt;a class="reference external" href="mailto:audreyr&amp;#64;cartwheelweb.com"&gt;audreyr&amp;#64;cartwheelweb.com&lt;/a&gt; for details.
+Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Tea/coffee&lt;/li&gt;
+&lt;li&gt;Introductions: What do you do, where do you work/live?&lt;/li&gt;
+&lt;li&gt;Any Python tips/tricks to share? (I just started working with Celery
+and think it's cool)&lt;/li&gt;
+&lt;li&gt;Workshop planning:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Go over Learn Python the Hard Way&lt;/li&gt;
+&lt;li&gt;Go over material for afternoon breakout sessions: How to Think Like a
+Computer Scientist, official Django poll tutorial, possibly 3rd
+station tbd&lt;/li&gt;
+&lt;li&gt;Go over the logistics in the Google doc&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-ladies-night-1"&gt;
+&lt;h2&gt;Python Ladies' Night 1&lt;/h2&gt;
+&lt;p&gt;April 16, 2011 in downtown LA.&lt;/p&gt;
+&lt;p&gt;We had wine, sparkling elderflower and ginger waters,&amp;nbsp;vegetable
+spaghetti, savory meat pies from Porto's bakery, Caesar salad, homemade
+garlic bread, tea, and tiramisu.&lt;/p&gt;
+&lt;p&gt;We talked about:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Python women's advocacy (mostly!)&lt;/li&gt;
+&lt;li&gt;virtualenv&lt;/li&gt;
+&lt;li&gt;the mod_wsgi documentation&lt;/li&gt;
+&lt;li&gt;Django-based content management systems&lt;/li&gt;
+&lt;li&gt;how we each got into Python development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details on the blog
+at&amp;nbsp;&lt;a class="reference external" href="/blog/first-python-ladies-night-recap/"&gt;http://www.pyladies.com/blog/first-python-ladies-night-recap/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>PyCon 2012</title><link href="http://www.pyladies.com/pycon-2012.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pycon-2012.html</id><summary type="html">&lt;div class="section" id="pyladies-pycon-2012"&gt;
+&lt;h2&gt;PyLadies &amp;#64; PyCon 2012&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="image0" src="https://dl.dropbox.com/u/39730/pyladiesblog/pycon/pix.png" /&gt;&lt;/p&gt;
+&lt;p&gt;March 7-15&lt;/p&gt;
+&lt;p&gt;Santa Clara, CA&lt;/p&gt;
+&lt;p&gt;We have big plans for PyCon this March!&lt;/p&gt;
+&lt;p&gt;Join us &lt;strong&gt;Saturday night&lt;/strong&gt; at David's Restaurant, near the conference
+venue, for an awesome party hosted by
+&lt;a class="reference external" href="http://surveymonkey.com"&gt;SurveyMonkey&lt;/a&gt;! There will be food, drinks,
+and socializing with top people in the Python community. The carousing
+begins at 7PM. Follow our &lt;a class="reference external" href="http://twitter.com/pyladies"&gt;Twitter feed&lt;/a&gt;
+for the latest updates.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
-&lt;p&gt;&lt;strong&gt;ďťż&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[The pre-order period has ended: Thanks to everyone who placed their
-orders! We will be contacting you shortly to collect payments and
-mailing addresses, so dig up that checkbook or dust off your Paypal
-account! :)]&lt;/strong&gt;&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Get the Most out of Your Conference-going Experience</title><link href="http://www.pyladies.com/get-the-most-out-of-your-conference-going-experience.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/get-the-most-out-of-your-conference-going-experience.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted Jan. 21, 2012, 4:50 a.m.&lt;/p&gt;
-&lt;p&gt;As seen in our last newsletter: &amp;#64;&lt;a class="reference external" href="http://twitter.com/kjam"&gt;kjam&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://us.pycon.org/2012"&gt;|image0|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://surveymonkey.com"&gt;|SurveyMonkey|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://bitbucket.org"&gt;|image2|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://wingware.com"&gt;|Wingware|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://newrelic.com"&gt;|image4|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://python.org/psf"&gt;|Python Software Foundation|&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="grant-program"&gt;
+&lt;h3&gt;Grant Program&lt;/h3&gt;
+&lt;p&gt;The PyLadies have teamed up with the PSF to help increase diversity at
+PyCon US 2012!&amp;nbsp; Read more about &lt;a class="reference external" href="/blog/call-for-applications-and-sponsors-for-pyladies-pycon-us-2012/"&gt;our grant
+program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NEW: `a final report of our grant program is now
+available! &amp;lt;/admin/pages/contentpage/17/events/2012-pyladies-pycon-grant-program-final-results&amp;gt;`_&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attendees&lt;/strong&gt;: If you are a female Python developer who wants to attend
+but needs financial assistance in order to do so, please&amp;nbsp;&lt;a class="reference external" href="https://docs.google.com/spreadsheet/viewform?formkey=dEtUbUZxZWN6V3FGdkVydEtvU2ZwMUE6MQ"&gt;fill out
+this
+form&lt;/a&gt;
+to apply for a PyLadies grant to attend PyCon 2012. &lt;strong&gt;The application
+period has ended&lt;/strong&gt;; if you applied and have not received an update on
+your application status, please email esther &amp;#64; pyladies.com immediately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sponsors&lt;/strong&gt;: please contact esther &amp;#64; pyladies.com to discuss possible
+sponsorship opportunities for the PyLadies &amp;#64; PyCon 2012 Grant Program.
+Here's your chance to join the illustrious group of diversity-loving
+Python shops shown on this page.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Pycon"></category></entry><entry><title>Resources</title><link href="http://www.pyladies.com/resources.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/resources.html</id><summary type="html">&lt;p&gt;Here's a list of useful resources for learning and using Python. &amp;nbsp;If you
+have further questions, please come to the next PyLadies event and ask
+any of the organizers for advice or help.&lt;/p&gt;
+&lt;p&gt;We also go to all the Python user group meetups in the area (see below).
+&amp;nbsp;You should come too -- it's a fun community! &amp;nbsp;Don't be shy about
+bothering any of us for Python help at user groups.&lt;/p&gt;
+&lt;div class="section" id="learning-python"&gt;
+&lt;h2&gt;Learning Python&lt;/h2&gt;
+&lt;div class="section" id="intro-to-python-tutorials"&gt;
+&lt;h3&gt;Intro to Python tutorials&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Learn Python The Hard Way
+&lt;a class="reference external" href="http://learnpythonthehardway.org/"&gt;http://learnpythonthehardway.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How to Think Like a Computer Scientist
+&lt;a class="reference external" href="http://greenteapress.com/thinkpython/html/"&gt;http://greenteapress.com/thinkpython/html/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="user-groups"&gt;
+&lt;h3&gt;User Groups&lt;/h3&gt;
+&lt;p&gt;A great way to continue learning Python is to work on your own, then
+attend presentations and ask questions at local user groups. &amp;nbsp;Attend as
+many as you can!&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;PyLadies &lt;a class="reference external" href="http://pyladies.com/"&gt;http://pyladies.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SoCal Piggies
+&lt;a class="reference external" href="http://socal-piggies.org/scp"&gt;http://socal-piggies.org/scp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LA Python
+&lt;a class="reference external" href="http://www.meetup.com/lapython/"&gt;http://www.meetup.com/lapython/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LA Django (see below)
+&lt;a class="reference external" href="http://www.meetup.com/ladjango/"&gt;http://www.meetup.com/ladjango/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="newsletters"&gt;
+&lt;h3&gt;Newsletters&lt;/h3&gt;
+&lt;p&gt;Python Weekly is a free weekly newsletter all about Python (articles,
+news, jobs, etc)
+&lt;a class="reference external" href="http://www.pythonweekly.com"&gt;http://www.pythonweekly.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tools"&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;div class="section" id="text-editors"&gt;
+&lt;h3&gt;Text editors&lt;/h3&gt;
+&lt;p&gt;gEdit, Notepad++, Sublime.
+More “advanced” editors are emacs, vim (although &amp;#64;audreyr knows how to
+use both of those pretty well and still swears by gEdit for everything)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ides"&gt;
+&lt;h3&gt;IDEs&lt;/h3&gt;
+&lt;p&gt;PyCharm, Eclipse with PyDev plugin, Wingware&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="highly-recommended-python-package-tools"&gt;
+&lt;h3&gt;Highly recommended Python package tools&lt;/h3&gt;
+&lt;p&gt;pip: better installation of packages
+&lt;a class="reference external" href="http://www.pip-installer.org/"&gt;http://www.pip-installer.org/&lt;/a&gt;
+virtualenv: create isolated Python environments
+&lt;a class="reference external" href="http://www.virtualenv.org/"&gt;http://www.virtualenv.org&lt;/a&gt;
+virtualenvwrapper: make virtualenv easier to use
+&lt;a class="reference external" href="http://www.doughellmann.com/projects/virtualenvwrapper/"&gt;http://www.doughellmann.com/projects/virtualenvwrapper/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="using-python-to-build-web-apps"&gt;
+&lt;h2&gt;Using Python to build web apps&lt;/h2&gt;
+&lt;div class="section" id="django"&gt;
+&lt;h3&gt;Django&lt;/h3&gt;
+&lt;p&gt;One of the most popular web frameworks.
+&amp;nbsp;&lt;a class="reference external" href="http://www.djangoproject.com/"&gt;http://www.djangoproject.com/&lt;/a&gt;
+Official Django poll app tutorial: recommended if you don’t know where
+to start with using Python for web programming.
+&lt;a class="reference external" href="https://docs.djangoproject.com/en/1.3/intro/tutorial01/"&gt;https://docs.djangoproject.com/en/1.3/intro/tutorial01/&lt;/a&gt;
+Develop your web app locally and then deploy it onto a web server. &amp;nbsp;We
+recommend one of the following Django hosting options:
+DjangoZoom &lt;a class="reference external" href="http://djangozoom.com/"&gt;http://djangozoom.com/&lt;/a&gt;
+Webfaction &lt;a class="reference external" href="http://www.webfaction.com/"&gt;http://www.webfaction.com/&lt;/a&gt;
+Gondor.io &lt;a class="reference external" href="https://gondor.io/"&gt;https://gondor.io/&lt;/a&gt;
+ep.io &lt;a class="reference external" href="http://www.ep.io/"&gt;http://www.ep.io/&lt;/a&gt;
+Several of the PyLadies organizers use Django regularly and are members
+of LA Django. Come to this meetup every month to learn more:
+&lt;a class="reference external" href="http://www.meetup.com/ladjango/"&gt;http://www.meetup.com/ladjango/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="other-web-frameworks"&gt;
+&lt;h3&gt;Other web frameworks&lt;/h3&gt;
+&lt;p&gt;These have smaller communities but can also be interesting, depending on
+your needs:
+Pyramid (merger of Pylons and repoze.bfg)
+&lt;a class="reference external" href="http://docs.pylonsproject.org/projects/pyramid/dev/"&gt;http://docs.pylonsproject.org/projects/pyramid/dev/&lt;/a&gt;
+Flask &lt;a class="reference external" href="http://flask.pocoo.org/"&gt;http://flask.pocoo.org/&lt;/a&gt;
+GAE
+&lt;a class="reference external" href="http://code.google.com/appengine/"&gt;http://code.google.com/appengine/&lt;/a&gt;
+Lots more options to choose from. &amp;nbsp;We’ll post a link to Katharine’s web
+frameworks lightning talk here shortly.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="organizing-your-own-women-s-python-workshops"&gt;
+&lt;h2&gt;Organizing your own women's Python workshops&lt;/h2&gt;
+&lt;p&gt;Are you&amp;nbsp;interested in doing a women's Python workshop of your own in
+your city? &amp;nbsp;Email any of the organizers and we'll help you get the word
+out. &amp;nbsp;We'll tweet, post blog entries, and do whatever we can to help.&lt;/p&gt;
+&lt;p&gt;We don't care what you call it, how you structure it, or whether you're
+male or female. &amp;nbsp;Any effort you put into encouraging women to join the
+Python community is something that we support.&lt;/p&gt;
+&lt;div class="section" id="our-own-materials"&gt;
+&lt;h3&gt;Our own materials&lt;/h3&gt;
+&lt;p&gt;The slides from our talks are all available from:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/resources/slides-from-51511-beginners-workshop/"&gt;http://www.pyladies.com/resources/slides-from-51511-beginners-workshop/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="other-workshop-materials"&gt;
+&lt;h3&gt;Other workshop materials&lt;/h3&gt;
+&lt;p&gt;Here are links to other women's Python workshops. &amp;nbsp;If you don't reach
+out to us, reach out to them.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pystar.org/"&gt;http://pystar.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://wiki.montrealpython.org/wiki/PythonIntroduction-2011-05-03"&gt;http://wiki.montrealpython.org/wiki/PythonIntroduction-2011-05-03&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="community-building"&gt;
+&lt;h2&gt;Community-building&lt;/h2&gt;
+&lt;p&gt;Workshops are just one part of PyLadies' effort to increase the female
+count in the Python world. &amp;nbsp;PyLadies is a community of female developers
+who care about helping other women get into Python.&lt;/p&gt;
+&lt;p&gt;We plan to put together a package of materials to help you build your
+own local women's Python community. &amp;nbsp;We'll be posting a &amp;quot;PyLadies Kit&amp;quot;
+here soon.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Slides from 5/15/11 Beginner's Workshop</title><link href="http://www.pyladies.com/slides-from-51511-beginners-workshop.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/slides-from-51511-beginners-workshop.html</id><summary type="html">&lt;p&gt;Here are links to the slides prepared by the presenters at the first
+PyLadies Beginner's Workshop on May 15th, 2011 at KPCC's Crawford Family
+Forum in Pasadena.&lt;/p&gt;
+&lt;div class="section" id="why-python"&gt;
+&lt;h2&gt;Why Python?&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.google.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoYWFhOWJiNWItYTdiMi00Yjc2LWJmM2ItNjE0Njk1NWQ4ODlj&amp;amp;hl=en_US&amp;amp;authkey=CIXS2d0L"&gt;Introduction&lt;/a&gt; by Christine Cheung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="intro-to-python-lpthw"&gt;
+&lt;h2&gt;Intro to Python: LPTHW&lt;/h2&gt;
+&lt;p&gt;-&amp;nbsp;&lt;a class="reference external" href="http://learnpythonthehardway.org/"&gt;Learn Python the Hard Way&lt;/a&gt; by Zed Shaw (we went through the PDF tutorial as-is, unmodified)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="breakout-sessions"&gt;
+&lt;h2&gt;Breakout Sessions&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://dl.dropbox.com/u/19508576/signals/pyladies-workshop.html"&gt;Scraping the web with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docs.djangoproject.com"&gt;Introduction to Django&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="lightning-talks"&gt;
+&lt;h2&gt;Lightning Talks&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Equality by Jess Stanton&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://projecteuler.net"&gt;Project Euler&lt;/a&gt; (live demo) by Christine Cheung&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://dl.dropbox.com/u/19508576/signals/web-frameworks.html"&gt;Python Web Frameworks&lt;/a&gt; by Katharine Jarmul&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.google.com/a/pyladies.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoMTI0MGJhNGMtYjgyMi00NGYzLWFiYjEtNDc3OWNkYzkxYzkx&amp;amp;hl=en&amp;amp;authkey=CNm5je4J"&gt;Generators&lt;/a&gt; by Sandy Strong&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.google.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoNmI0MjE5MzgtMjA4MS00MmJkLTkxYzYtNDU4ZDBmZTYwOTI4&amp;amp;hl=en&amp;amp;authkey=CI_BgLQL"&gt;Ergonomics&lt;/a&gt; by Esther Nam&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.google.com/a/pyladies.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoYWI1NTg0YjAtMTkxNi00ZTA3LWFmMDUtMmQ0ODczYTBkMGJl&amp;amp;hl=en&amp;amp;authkey=CMf_k9QH"&gt;The code behind Pyladies.com&lt;/a&gt; by Audrey Roy&lt;/li&gt;
+&lt;li&gt;Inequality by Jess Stanton&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>T-Shirts</title><link href="http://www.pyladies.com/t-shirts.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/t-shirts.html</id><summary type="html">&lt;p&gt;A lot of the Intro to Python workshop attendees were asking about our
+PyLadies t-shirts. &amp;nbsp;We ordered them from our Spreadshirt shop:
+&lt;a class="reference external" href="http://pyladies.spreadshirt.com/"&gt;http://pyladies.spreadshirt.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here are some photos of how the shirts look. &amp;nbsp;(We think they look even
+better in person)&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719496119/"&gt;|Black/white on gray PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719496719/"&gt;|Red/black on light gray PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719495787/"&gt;|Teal/white on black PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719496423/"&gt;|Magenta/black on dark gray PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5720059026/"&gt;|Red/black on dark gray PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719497023/"&gt;|Red/black on magenta PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5720058700/"&gt;|Maroon/white on black PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>pyladies.com site setup</title><link href="http://www.pyladies.com/pyladiescom-site-setup.html" rel="alternate"></link><updated>2012-05-04T20:38:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pyladiescom-site-setup.html</id><summary type="html">&lt;p&gt;The actual pyladies.com website, redone using Github static pages so the entire world can see articles and events in progress. If something isn't listed, then submit a contribution.&lt;/p&gt;
+&lt;p&gt;How to get it running:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;pip install pelican
+git clone git://github.com/pyladies/pyladies.github.com.git
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;How to push up entries and pages and themes:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;pelican . -o . -s settings.py
+git commit -am &lt;span class="s2"&gt;&amp;quot;Adding content here&amp;quot;&lt;/span&gt;
+git push
+&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="section" id="results"&gt;
+&lt;h2&gt;Results!&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pyladies.github.com"&gt;http://pyladies.github.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="how-to-submit-an-article-or-event"&gt;
+&lt;h2&gt;How to submit an article or event&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Fork the &lt;a class="reference external" href="https://github.com/pyladies/pyladies.com-articles"&gt;https://github.com/pyladies/pyladies.com-articles&lt;/a&gt; or &lt;a class="reference external" href="https://github.com/pyladies/pyladies.com-events"&gt;https://github.com/pyladies/pyladies.com-events&lt;/a&gt; projects on github&lt;/li&gt;
+&lt;li&gt;In your local branch, place your article or event in its respective project directory.&lt;/li&gt;
+&lt;li&gt;The content must be formatted using RestructuredText, MarkDown, or (as a last resort) plain text.&lt;/li&gt;
+&lt;li&gt;Don't submit the rendered HTML.&lt;/li&gt;
+&lt;li&gt;Submit a pull request&lt;/li&gt;
+&lt;li&gt;The maintainers of this site will then review and either publish or reject your article submission.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="why-articles-and-events-may-get-rejected"&gt;
+&lt;h2&gt;Why articles and events may get rejected&lt;/h2&gt;
+&lt;p&gt;There are a number of reasons why this may have occurred:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Inappropriate content submitted&lt;/li&gt;
+&lt;li&gt;Spelling or grammatical errors&lt;/li&gt;
+&lt;li&gt;Pull request included the rendered HTML&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="how-to-submit-a-static-page"&gt;
+&lt;h2&gt;How to submit a static page&lt;/h2&gt;
+&lt;p&gt;Simply create a RST or MD file in the Pages directory. Its title will appear in the navigation in TitleCase.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="Website"></category></entry><entry><title>PyLadies in the News</title><link href="http://www.pyladies.com/pyladies-in-the-news.html" rel="alternate"></link><updated>2012-02-24T06:43:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pyladies-in-the-news.html</id><summary type="html">&lt;p&gt;The LA Weekly blog featured a few of the LA PyLadies in a &lt;a class="reference external" href="http://blogs.laweekly.com/arts/2012/02/pyladies_django_python.php"&gt;recent
+post.&lt;/a&gt;
+The Open Hatchery highlights a nice example of the &lt;a class="reference external" href="https://openhatch.org/blog/2012/diversifying-pycon-the-power-of-cooperative-outreach/"&gt;power of community
+collaboration&lt;/a&gt;
+and outreach (we can't wait to meet Pam at PyCon!)&lt;/p&gt;
+&lt;p&gt;We've even stirred a bit of discussion on
+&lt;a class="reference external" href="http://www.reddit.com/r/programming/comments/psnr6/geek_chicks_pyladies_a_gang_of_female_computer/"&gt;Reddit&lt;/a&gt;
+-- care to join the fray? =)&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Events</title><link href="http://www.pyladies.com/events.html" rel="alternate"></link><updated>2012-02-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/events.html</id><summary type="html">&lt;div class="section" id="work-on-intermediate-python-skills"&gt;
+&lt;h2&gt;&lt;strong&gt;Work on Intermediate Python Skills&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Saturday, February 25, 2012&lt;/p&gt;
+&lt;p&gt;7257 Beverly BLVD Suite 210&lt;/p&gt;
+&lt;p&gt;Los Angeles,&amp;nbsp;CA&amp;nbsp;90036&lt;/p&gt;
+&lt;p&gt;Join your fellow Python developers for an all day event hosted
+by&amp;nbsp;&lt;a class="reference external" href="http://www.spire.io/"&gt;Spire.io&lt;/a&gt;&amp;nbsp;(formerly known as
+BorderStylo).&amp;nbsp;We'll be going through an introduction of classes,
+iterators, control statements and&amp;nbsp;python data structures (dictionaries
+and lists and tuples). This is a great workshop for folks who have been
+to one of our beginner workshops and is ready to take the next steps!&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Get the Most out of Your Conference-going Experience</title><link href="http://www.pyladies.com/get-the-most-out-of-your-conference-going-experience.html" rel="alternate"></link><updated>2012-01-22T05:50:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/get-the-most-out-of-your-conference-going-experience.html</id><summary type="html">&lt;p&gt;As seen in our last newsletter: &amp;#64;&lt;a class="reference external" href="http://twitter.com/kjam"&gt;kjam&lt;/a&gt;
 and &amp;#64;&lt;a class="reference external" href="http://twitter.com/sandymahalo"&gt;sandymahalo&lt;/a&gt; are pro
 conference attendees (and speakers!). Here they present advice for those
 who may be new to the world of tech conferences and other
@@ -388,252 +780,145 @@ helpful to you.&lt;/p&gt;
 meeting folks you enjoy or who challenge and inspire you. Don't fill
 your entire calendar with talks, spend some of the time just chatting
 with folks who are there and making new friends.&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Introduction to Django at Mahalo - July 23rd PyLadies Workshop</title><link href="http://www.pyladies.com/introduction-to-django-at-mahalo-july-23rd-pyladies-workshop.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/introduction-to-django-at-mahalo-july-23rd-pyladies-workshop.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted July 25, 2011, 8:54 p.m.&lt;/p&gt;
-&lt;p&gt;Last Saturday the PyLadies and the LA Django meetup group held an
-introductory Django Workshop, with generous amounts of support by
-&lt;a class="reference external" href="http://mahalo.com"&gt;Mahalo&lt;/a&gt; and &lt;a class="reference external" href="http://cars.com"&gt;Cars.com&lt;/a&gt;
-Guided by Sandy and Katharine, two of the PyLadies' Djangologists
-extraordinaires, the &lt;a class="reference external" href="http://bit.ly/qMcEAT"&gt;morning tutorial&lt;/a&gt; covered
-the basics of setting up a Django web application, from database
-configuration to navigating the built-in admin interface.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image0" src="https://lh5.googleusercontent.com/-jwfDhFCirdw/Tix8O3YN4bI/AAAAAAAAAJc/x-BaLQXdDW0/s400/IMG_1722.JPG" /&gt;&lt;/p&gt;
-&lt;p&gt;As you can see, mentors circulated the room throughout the workshop;
-Michael of Cars.com brought party hats for us to wear so that people
-knew who to ask for help as they set up their first Django web app. To
-maintain the party-like atmosphere we also had slides of Python-trivia
-questions, and threw candy at participants who got answered them
-correctly! Do YOU know what BDFL stands for?&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image1" src="https://lh4.googleusercontent.com/-Wl5FHhRp2oQ/Tix8dxlglOI/AAAAAAAAAJc/ZiprFKY2Kl0/s400/IMG_2599.JPG" /&gt;&lt;/p&gt;
-&lt;p&gt;For lunch we dined on pizza donated by Cars.com, while soaking in some
-much-needed vitamin D, and spent some time getting to know our fellow
-hackers a bit better.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image2" src="https://lh3.googleusercontent.com/-nLB8fJkkAZs/Tix8e8CfjTI/AAAAAAAAAJc/fEK_Uri-75A/s400/IMG_2600.JPG" /&gt;&lt;/p&gt;
-&lt;p&gt;Introducing ourselves, we discovered that we came from a wide range of
-backgrounds, from meditation experts to bioengineers, united by our
-eagerness to learn this awesome Python-based framework, and our
-willingness to spend a whole Saturday doing so!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image3" src="https://lh4.googleusercontent.com/-iwv_8Lg5IpY/Tix8XemK_KI/AAAAAAAAAJc/bD_XsnAWiVk/s400/IMG_2580.JPG" /&gt;&lt;/p&gt;
-&lt;p&gt;These folks came all the way from Texas!!!&lt;/p&gt;
-&lt;p&gt;In the afternoon, most attendees chose to push on through the Django
-tutorial with Sandy, where they delved deeper into Django views and
-templating. Others hacked away happily on their own Python projects, and
-later we all learned how to set &amp;nbsp;deploy our apps on
-&lt;a class="reference external" href="http://djangozoom.com"&gt;DjangoZoom&lt;/a&gt;, for which the DjangoZoom folks
-were generous enough to give us trial accounts.
-There was, of course, time for a short outdoor break (PyLadies are all
-about promoting well-rounded, healthy hacking habits!), led by Python
-dev/capoeira enthusiast PyDanny.&lt;/p&gt;
-&lt;p&gt;The hackday finished with another fine set of lightning talks:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;&lt;a class="reference external" href="http://twitter.com/kjam"&gt;Katharine&lt;/a&gt; gave an awesome talk on &lt;a class="reference external" href="http://kjamistan.tumblr.com/post/7985900943/how-to-keep-up-with-the-pyladies"&gt;how
-to keep up with the
-PyLadies&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;&lt;a class="reference external" href="http://twitter.com/rdegges"&gt;Randall&lt;/a&gt; gave a presentation on &lt;a class="reference external" href="http://www.slideshare.net/rdegges/intro-to-telephony-in-django"&gt;the
-awesome Django-Twilio
-API&lt;/a&gt;,
-for adding telephony features to web apps&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Michael gave &lt;a class="reference external" href="http://prezi.com/s82pxzuuvpsa/how-to-get-hired-as-a-new-developer/"&gt;tips on applying for programming
-jobs&lt;/a&gt;,
-aimed at n00bs but containing good advice for any job-seeker.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Laura showed us how to use the &lt;a class="reference external" href="http://www.slideshare.net/rogueveda/whats-in-a-tweet?from=share_email_login3"&gt;Python wrapper for the Twitter
-API&lt;/a&gt;
-&lt;img alt="image4" src="https://lh6.googleusercontent.com/-n4l5e6yMgk0/Tix8k5zilkI/AAAAAAAAAJk/c7gdwQzkKzc/s400/IMG_2612.JPG" /&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;The indomitable &lt;a class="reference external" href="http://twitter.com/sandymahalo"&gt;Sandy&lt;/a&gt; found it in
-her to give another talk, this time on &lt;a class="reference external" href="https://docs.google.com/present/edit?id=0AVthC0Z3iw8DZGRrdnFzeGdfMmNxd2d3emd2&amp;amp;hl=en_US"&gt;Django
-testing&amp;nbsp;&lt;/a&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;**&lt;/span&gt;&lt;/a&gt;&lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;**&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/10_introduction-to-django-at-mahalo-july-23rd-pyladies-workshop.rst&lt;/tt&gt;, line 68); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Inline strong start-string without end-string.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="system-message" id="id3"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/10_introduction-to-django-at-mahalo-july-23rd-pyladies-workshop.rst&lt;/tt&gt;, line 68); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Inline strong start-string without end-string.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Since no PyLadies event is complete without a social hour, we walked
-over to Warszawa for a round of drinking and relaxation (i.e., we began
-formulating plans for tattoos, future PyLadies events, continued world
-domination, etc).&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image5" src="https://lh6.googleusercontent.com/-FzxISA0yGeM/Tix8nwLWQ2I/AAAAAAAAAJc/ENfJxdr4Bqk/s400/IMG_2622.JPG" /&gt;&lt;/p&gt;
-&lt;p&gt;Thanks again to our wonderful hosts at Mahalo, particularly CTO Jeff;
-and also to the crew of Cars.com, most notably Michael, who helped out
-enormously with every aspect of the event, from tweaking the tutorial to
-handing out candy for trivia. Also, the hats!&lt;/p&gt;
-&lt;p&gt;Finally, and as always, thanks to the &lt;a class="reference external" href="http://python.org/psf"&gt;PSF&lt;/a&gt; for
-their continued support. We were able to fit twice as many people into
-our hack space using the tables and chairs they paid for. We'll also be
-thanking them in the near future when we announce a few other exciting
-new developments...&lt;/p&gt;
-&lt;p&gt;Stay on our mailing list to hear more! Or, if that's not enough PyLadies
-for you, &lt;a class="reference external" href="http://kjamistan.tumblr.com/post/7985900943/how-to-keep-up-with-the-pyladies"&gt;you know where else to find
-us&lt;/a&gt;!&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Mid-August News Bites</title><link href="http://www.pyladies.com/mid-august-news-bites.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/mid-august-news-bites.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted Aug. 16, 2011, 6 a.m.&lt;/p&gt;
-&lt;p&gt;Mid-August -- in France we'd be halfway through our nationally
-recognized four weeks of vacation, but here in Los Angeles we PyLadies
-have been as busy as ever, working hard to plan some big, big things!&lt;/p&gt;
-&lt;p&gt;Also:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;Sophia and I wrote up &lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;`&lt;/span&gt;&lt;/a&gt;a short&lt;/p&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 15); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Inline interpreted text or phrase reference start-string without end-string.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 16)&lt;/p&gt;
-Bullet list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;narrative &amp;lt;&lt;a class="reference external" href="http://www.women2.org/pyladies-events-workshops-hackathons-and-startup-kits/"&gt;http://www.women2.org/pyladies-events-workshops-hackathons-and-startup-kits/&lt;/a&gt;&amp;gt;`_
-about our little group for Women 2.0&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;Katharine submitted a &lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;`&lt;/span&gt;&lt;/a&gt;panel&lt;/p&gt;
-&lt;div class="system-message" id="id3"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 19); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Inline interpreted text or phrase reference start-string without end-string.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 20)&lt;/p&gt;
-Bullet list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;proposal &amp;lt;&lt;a class="reference external" href="http://panelpicker.sxsw.com/ideas/view/11850"&gt;http://panelpicker.sxsw.com/ideas/view/11850&lt;/a&gt;&amp;gt;`_ for SXSW
-Interactive next March -- please vote it up on the SXSW Panel Picker!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;Audrey is delivering keynote speeches at &lt;a href="#id5"&gt;&lt;span class="problematic" id="id6"&gt;`&lt;/span&gt;&lt;/a&gt;PyCon&lt;/p&gt;
-&lt;div class="system-message" id="id5"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 23); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Inline interpreted text or phrase reference start-string without end-string.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 24)&lt;/p&gt;
-Bullet list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;Australia &amp;lt;&lt;a class="reference external" href="http://pycon-au.org/2011/conference/schedule/"&gt;http://pycon-au.org/2011/conference/schedule/&lt;/a&gt;&amp;gt;`_ AND &lt;a class="reference external" href="http://nz.pycon.org/2011/talks/talk/142/"&gt;Kiwi
-PyCon&lt;/a&gt; in Wellington, New
-Zealand! There will also be a &lt;a class="reference external" href="http://pycon-au.org/2011/conference/schedule/event/47/"&gt;women in Python
-breakfast&lt;/a&gt; at
-PyCon Australia before the keynote, so if you're in that other
-hemisphere and would like to attend, shoot Audrey an email.&lt;/p&gt;
-&lt;p&gt;And we do it all for YOU =)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;UPCOMING EVENTS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Those who subscribe to the PyLadies newsletter should already know about
-the following events, but if you've been dilly-dallying about signing up
-for any, get thee quickly to those registration pages so we can be ready
-for you!&lt;/p&gt;
-&lt;p&gt;(If you *don't* subscribe to our newsletter -- why not?? There's a
-handly little form for you on our sidebar RIGHT THERE --&amp;gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;The LA PyLadies have created a &lt;a href="#id7"&gt;&lt;span class="problematic" id="id8"&gt;`&lt;/span&gt;&lt;/a&gt;Meetup&lt;/p&gt;
-&lt;div class="system-message" id="id7"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 43); &lt;em&gt;&lt;a href="#id8"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Inline interpreted text or phrase reference start-string without end-string.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 44)&lt;/p&gt;
-Bullet list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;Group &amp;lt;&lt;a class="reference external" href="http://www.meetup.com/la-pyladies/"&gt;http://www.meetup.com/la-pyladies/&lt;/a&gt;&amp;gt;`_ where we will post all our
-events -- join us!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;It's not too late to register for this weekend's &lt;a href="#id9"&gt;&lt;span class="problematic" id="id10"&gt;`&lt;/span&gt;&lt;/a&gt;Hacks/Hackers&lt;/p&gt;
-&lt;div class="system-message" id="id9"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 47); &lt;em&gt;&lt;a href="#id10"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Inline interpreted text or phrase reference start-string without end-string.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 48)&lt;/p&gt;
-Bullet list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;hackathon &amp;lt;&lt;a class="reference external" href="http://meetupla.hackshackers.com/events/28337101/"&gt;http://meetupla.hackshackers.com/events/28337101/&lt;/a&gt;&amp;gt;`_, held
-under the auspices of
-#&lt;a class="reference external" href="http://www.scpr.org/events/2011/08/19/pubcamp/"&gt;PubCampWest&lt;/a&gt; at
-KPCC in Pasadena. The theme is &amp;quot;Hacking online audio&amp;quot;&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Call for Applications and Sponsors for PyLadies &amp;#64; PyCon US 2012</title><link href="http://www.pyladies.com/call-for-applications-and-sponsors-for-pyladies-64-pycon-us-2012.html" rel="alternate"></link><updated>2011-12-15T06:43:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/call-for-applications-and-sponsors-for-pyladies-64-pycon-us-2012.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="/blog/pyladies-at-pycon-2012/"&gt;As previously mentioned&lt;/a&gt;, the PyLadies
+are working with the PSF to ensure that PyLadies who want to attend
+&lt;a class="reference external" href="http://us.pycon.org/2012"&gt;PyCon 2012&lt;/a&gt; can do so.&amp;nbsp; To that end, we are
+accepting &lt;a class="reference external" href="https://docs.google.com/spreadsheet/viewform?formkey=dEtUbUZxZWN6V3FGdkVydEtvU2ZwMUE6MQ"&gt;applications for grants to attend
+PyCon&lt;/a&gt;
+in Santa Clara, CA from March 7-15.&lt;/p&gt;
+&lt;p&gt;Let's make PyCon as diverse as the Python Community as a whole -- if not
+more! Many thanks to the PSF for partnering with us on this initiative.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attendees&lt;/strong&gt;: If you are a female Python developer who wants to attend
+but needs financial assistance in order to do so, please &lt;a class="reference external" href="https://docs.google.com/spreadsheet/viewform?formkey=dEtUbUZxZWN6V3FGdkVydEtvU2ZwMUE6MQ"&gt;fill out this
+form&lt;/a&gt;
+as soon as possible.&lt;/p&gt;
+&lt;p&gt;The application period for this year has ended. If you have not received
+a reply from us about the status of your application, please email
+esther &amp;#64; pyladies com immediately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sponsors&lt;/strong&gt;: If you are interested in providing financial assistance to
+a budding Python developer in need, please contact esther &amp;#64; pyladies.com&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/blog/djangocon-sponsorship-program-results/"&gt;We did something similar this past year for
+DjangoCon&lt;/a&gt;, and plan to
+continue this program for as long as we can sustain it. If you can help
+us, you will helping to change the community, and maybe even a couple of
+lives!&lt;/p&gt;
+&lt;div class="section" id="how-grant-recipients-will-be-chosen"&gt;
+&lt;h2&gt;How grant recipients will be chosen&lt;/h2&gt;
+&lt;p&gt;Priority will be based on the following factors:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Monday is another PyLadies hack night -- an informal event where&lt;/li&gt;
+&lt;li&gt;Genuine financial need&lt;/li&gt;
+&lt;li&gt;Talk proposal acceptance (those invited to speak at PyCon will have
+higher priority)&lt;/li&gt;
+&lt;li&gt;Level of experience in programming&lt;/li&gt;
+&lt;li&gt;Contributions to open-source&lt;/li&gt;
+&lt;li&gt;Contributions to Python diversity advocacy efforts&lt;/li&gt;
+&lt;li&gt;Desire to attend&lt;/li&gt;
+&lt;li&gt;Impact that attendance will have on her life, especially for
+first-time attendees&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 54)&lt;/p&gt;
-Bullet list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;people can get together to work on code or just &lt;a class="reference external" href="/chat"&gt;hang out on
-IRC&lt;/a&gt; to do the same. Actually, we're always around on IRC, so
-if you're busy Monday, you can still hang out with us virtually on any
-other day you want!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;Saturday, August 27th is the official &lt;a href="#id11"&gt;&lt;span class="problematic" id="id12"&gt;`&lt;/span&gt;&lt;/a&gt;August PyLadies&lt;/p&gt;
-&lt;div class="system-message" id="id11"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 59); &lt;em&gt;&lt;a href="#id12"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Inline interpreted text or phrase reference start-string without end-string.&lt;/p&gt;
+&lt;p&gt;Sponsors will receive:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;an email report from us about the person you're sponsoring, and why
+you made the right decision&lt;/li&gt;
+&lt;li&gt;your link listed on a page that we'll be putting up for sponsors&lt;/li&gt;
+&lt;li&gt;your logo displayed on that page, if you donate substantially more
+than others (amount TBD) and/or better placement&lt;/li&gt;
+&lt;li&gt;a personal guarantee from me that the PyLadies and I will mentor the
+person you sponsored. &amp;nbsp;We will help them through their Python career
+and put friendly pressure on them to contribute to open-source =)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/11_mid-august-news-bites.rst&lt;/tt&gt;, line 60)&lt;/p&gt;
-Bullet list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;mini-conference/hackathon at
-Cars.com &amp;lt;&lt;a class="reference external" href="http://pyladies-cars-august.eventbrite.com/"&gt;http://pyladies-cars-august.eventbrite.com/&lt;/a&gt;&amp;gt;`_. This all-day
-event will begin with a morning session of talks about Django and other
-cool Python tools, followed by a hackathon.&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>PyLadies at PyCon 2012!</title><link href="http://www.pyladies.com/pyladies-at-pycon-2012.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pyladies-at-pycon-2012.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/xtine/"&gt;Christine Cheung&lt;/a&gt; posted Dec. 12, 2011, 7:12
-a.m.&lt;/p&gt;
-&lt;p&gt;We're happy to announce that with the help of the Python Software
+</summary><category term="Archive"></category></entry><entry><title>PyLadies at PyCon 2012!</title><link href="http://www.pyladies.com/pyladies-at-pycon-2012.html" rel="alternate"></link><updated>2011-12-12T07:12:00Z</updated><author><name>C Cheung</name></author><id>http://www.pyladies.com/pyladies-at-pycon-2012.html</id><summary type="html">&lt;p&gt;We're happy to announce that with the help of the Python Software
 Foundation, PyLadies will be making an appearance at
 &lt;a class="reference external" href="http://us.pycon.org/2012"&gt;PyCon&lt;/a&gt; 2012! We will be exhibiting during
 the main portion of conference and will be on hand to help any other
 interested PyLadies in joining or starting up their own chapter. We will
 soon have details about grants to attend this upcoming PyCon, so stay
 tuned!&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>PyLadies in the News</title><link href="http://www.pyladies.com/pyladies-in-the-news.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pyladies-in-the-news.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted Feb. 24, 2012, 6:43 a.m.&lt;/p&gt;
-&lt;p&gt;The LA Weekly blog featured a few of the LA PyLadies in a &lt;a class="reference external" href="http://blogs.laweekly.com/arts/2012/02/pyladies_django_python.php"&gt;recent
-post.&lt;/a&gt;
-The Open Hatchery highlights a nice example of the &lt;a class="reference external" href="https://openhatch.org/blog/2012/diversifying-pycon-the-power-of-cooperative-outreach/"&gt;power of community
-collaboration&lt;/a&gt;
-and outreach (we can't wait to meet Pam at PyCon!)&lt;/p&gt;
-&lt;p&gt;We've even stirred a bit of discussion on
-&lt;a class="reference external" href="http://www.reddit.com/r/programming/comments/psnr6/geek_chicks_pyladies_a_gang_of_female_computer/"&gt;Reddit&lt;/a&gt;
--- care to join the fray? =)&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>PyLadies Meetup at DjangoCon</title><link href="http://www.pyladies.com/pyladies-meetup-at-djangocon.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pyladies-meetup-at-djangocon.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/audreyr/"&gt;Audrey Roy&lt;/a&gt; posted Sept. 5, 2011, 10:22
-p.m.&lt;/p&gt;
-&lt;p&gt;All women at DjangoCon are invited to the PyLadies meetup, Wed night at
-DjangoCon US! &amp;nbsp;Thanks to Michelle Rowley and Eric Holscher (both of PDX
-Python) for organizing and planning the party.&lt;/p&gt;
-&lt;p&gt;Gents who participate in IRC channel #pyladies and guests of women are
-invited too.&lt;/p&gt;
-&lt;dl class="docutils"&gt;
-&lt;dt&gt;Wednesday, September 7, 2011&lt;/dt&gt;
-&lt;dd&gt;8pm onward&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/12_pyladies-meetup-at-djangocon.rst&lt;/tt&gt;, line 19)&lt;/p&gt;
-Definition list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;Location: Ringlers Annex of McMenamins
-(Note: this is the Annex a block east of Ringlers, not Ringlers itself)&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/12_pyladies-meetup-at-djangocon.rst&lt;/tt&gt;, line 21)&lt;/p&gt;
-Unexpected indentation.&lt;/div&gt;
-&lt;blockquote&gt;
-1223 S.W. Stark
-Portland, OR 97205
-(503) 384-2700&lt;/blockquote&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.mcmenamins.com/250-ringlers-annex-home"&gt;http://www.mcmenamins.com/250-ringlers-annex-home&lt;/a&gt;&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>&amp;quot;Djangsta&amp;quot; shirts on sale at DjangoCon!</title><link href="http://www.pyladies.com/quotdjangstaquot-shirts-on-sale-at-djangocon.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/quotdjangstaquot-shirts-on-sale-at-djangocon.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/xtine/"&gt;Christine Cheung&lt;/a&gt; posted Sept. 6, 2011, 12:26
-a.m.&lt;/p&gt;
-&lt;p&gt;These &amp;quot;Djangsta&amp;quot; shirts premiered at DjangoCon to a rousing success and
-are selling out quickly! If you are coming to DjangoCon this year, find
-a PyLady and get one! Proceeds help PyLadies outreach efforts. Shirt
-logo was designed by xtine.&lt;/p&gt;
-&lt;p&gt;Available: Womens L, Mens S/L&lt;/p&gt;
-&lt;p&gt;A pre-order form will be available for a reprint run!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image0" src="http://i.imgur.com/7epc8.png" /&gt; Model: &lt;a class="reference external" href="http://twitter.com/#!/jeffschenck"&gt;Jeff Schenck&lt;/a&gt;&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Recap: PyLadies at DjangoCon 2011</title><link href="http://www.pyladies.com/recap-pyladies-at-djangocon-2011.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recap-pyladies-at-djangocon-2011.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted Sept. 14, 2011, 6 a.m.&lt;/p&gt;
-&lt;p&gt;Last week the PyLadies took Portland, Oregon by storm: after months of
+</summary><category term="Archive"></category></entry><entry><title>Recaps: October Hackathon at Idealab, November Beginner's Workshop at USC</title><link href="http://www.pyladies.com/recaps-october-hackathon-at-idealab-november-beginners-workshop-at-usc.html" rel="alternate"></link><updated>2011-11-29T22:33:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recaps-october-hackathon-at-idealab-november-beginners-workshop-at-usc.html</id><summary type="html">&lt;div class="section" id="hackety-hack"&gt;
+&lt;h2&gt;Hackety Hack!&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://idealab.com"&gt;Idealab&lt;/a&gt; in Pasadena played host to a PyLadies
+hackathon this past October. Our very own Sophia has posted some great
+photos of the event over at her own site,
+&lt;a class="reference external" href="http://backcode.com/pyladies-hackathon-the-idea-lab/"&gt;backCODE&lt;/a&gt; --
+check them out!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image0" src="http://backcode.com/wp-content/uploads/2011/11/idea_lab1.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Lightning talks&amp;nbsp; at that hackathon were given by:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ray T&lt;/strong&gt;. on &lt;a class="reference external" href="https://docs.google.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoNTQzY2FmZjEtOWUzYy00MWI5LTgyNmItMjhhNzU5NDVmZjEz&amp;amp;hl=en"&gt;Unit
+Testing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Randall D.&lt;/strong&gt; on easy Django deployment with Heroku&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PyDanny&lt;/strong&gt; on Painless Authentication and Registration&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Emma S&lt;/strong&gt;.: Hello world! A beginner's Django App&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leo C.&lt;/strong&gt;: Google App Engine&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ryan&lt;/strong&gt;: Know your Time Complexities&lt;/p&gt;
+&lt;p&gt;Muchas gracias to Idealab, and especially to &lt;strong&gt;Joven Matias&lt;/strong&gt; for their
+excellent hospitality.&amp;nbsp; Extra thanks to our wonderful volunteer corps,
+who came early, helped set up the rooms, and delivered lightning talks!&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="clackety-clack"&gt;
+&lt;h2&gt;Clackety Clack!&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://annenberg.usc.edu"&gt;USC's Annenberg School for Communication &amp;amp;
+Journalism&lt;/a&gt; hosted a beginner's Python
+workshop that was even bigger than the first one we held back in May.
+50-odd geeks, nerds, and similar fought their way through some
+unexpected downtown traffic to attend this tutorial, taught by PyLadies
+kjam, Sandy, and xtine.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image1" src="https://dl.dropbox.com/u/39730/pyladiesblog/usc/1stprogram.png" /&gt;&lt;/p&gt;
+&lt;p&gt;It was a bright crowd, with most people Learning Python the Hard Way at
+a fairly rapid clip. They were impatient to learn about web scraping
+from kjam, and eager to follow along with the code samples presented at
+the end-of-day lightning talks.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image2" src="https://dl.dropbox.com/u/39730/pyladiesblog/usc/amazon.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Photos from this event are up on our &lt;a class="reference external" href="https://secure.flickr.com/photos/pyladies/sets/72157628083649345/"&gt;Flickr
+page&lt;/a&gt;!
+BIG thanks to Geneva Oh of USC Annenberg and Prof. &lt;strong&gt;Robert
+Hernandez&lt;/strong&gt;for proposing, organizing and promoting this workshop for
+USC students and journalists (including one intrepid nerd-to-be who flew
+in from Arizona solely for this event!), as well as sponsoring the venue
+and food.&lt;/p&gt;
+&lt;p&gt;Lightning talks from&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;xtine&lt;/strong&gt;: scraping data from a music website for fun!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;: Why Documentation Matters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Robin&lt;/strong&gt;: &lt;a class="reference external" href="http://dl.dropbox.com/u/39730/pyladiesblog/usc/ListComps.ppt"&gt;Python List
+Comprensions&lt;/a&gt;
+[.ppt]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Emma&lt;/strong&gt;: &amp;quot;&lt;a class="reference external" href="http://djangolookslikefun.wordpress.com/2011/10/22/lightning-talk-hello-world/"&gt;Hello
+world!&lt;/a&gt;&amp;quot;
+(an encore by popular demand)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leo&lt;/strong&gt;: I can't remember at the moment but I'm sure it was fabulous!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://cars.com"&gt;Cars.com&lt;/a&gt; generously hosted a post-workshop PyLadies
+social hour, plying us with beer and delicious appetizers from the
+campus bar. Thanks to Michael and Robin from Cars for giving up their
+Saturday for us!&amp;nbsp; Likewise to our brilliant volunteer corps -- the event
+would not have been as successful without your participation and we are
+grateful! =)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image3" src="https://dl.dropbox.com/u/39730/pyladiesblog/usc/nerdlevel.png" /&gt;&lt;/p&gt;
+&lt;p&gt;We hope to follow up with some Intermediate Python workshops in the
+coming months for those who want to level-up some more, so stay tuned --
+subscribe to our newsletter (use the form at right) and &lt;a class="reference external" href="http://twitter.com/pyladies"&gt;follow us on
+the Twitter&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="Archive"></category></entry><entry><title>Djangsta Shirts - Extra Print Run!</title><link href="http://www.pyladies.com/djangsta-shirts-extra-print-run.html" rel="alternate"></link><updated>2011-09-19T02:11:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/djangsta-shirts-extra-print-run.html</id><summary type="html">&lt;p&gt;If you were at DjangoCon you probably saw people wearing these, standing
+out magnificently amongst the sea of bright green. They were the cool
+people -- the Djangstas, if you will.&lt;/p&gt;
+&lt;p&gt;We were originally going to sell these only at DjangoCon, but demand was
+so high we've decided to do one more print run. If you&amp;nbsp; hesitated the
+first time around (and are now full of regret), or were shortsighted
+enough to give DjangoCon a miss altogether this year (and are now SO
+full of regret), here's your chance to redeem yourself and join the
+ranks of the Djangstas!&lt;/p&gt;
+&lt;p&gt;Shirts will now cost $25, to cover shipping and/or PayPal fees.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please pre-order by October 1,&lt;/strong&gt; by filling out the form below. We'll
+email you to confirm so you can pay us (via check or Paypal)&amp;nbsp; before we
+print and mail you your shirt.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;&lt;strong&gt;ďťż&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[The pre-order period has ended: Thanks to everyone who placed their
+orders! We will be contacting you shortly to collect payments and
+mailing addresses, so dig up that checkbook or dust off your Paypal
+account! :)]&lt;/strong&gt;&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Recap: PyLadies at DjangoCon 2011</title><link href="http://www.pyladies.com/recap-pyladies-at-djangocon-2011.html" rel="alternate"></link><updated>2011-09-14T06:00:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recap-pyladies-at-djangocon-2011.html</id><summary type="html">&lt;p&gt;Last week the PyLadies took Portland, Oregon by storm: after months of
 planning, brainstorming, planning, rehearsing, and even a bit of
 planning, we flew in &lt;em&gt;en masse&lt;/em&gt; to &lt;a class="reference external" href="http://djangocon.us"&gt;DjangoCon
 2011&lt;/a&gt; for six action-packed days of tutorials,
@@ -658,33 +943,8 @@ Keith-Magee&lt;/a&gt;&amp;nbsp; and &lt;a class="reference external" href="http:
 Grant&lt;/a&gt; of
 &lt;a class="reference external" href="https://www.dotcloud.com/"&gt;DotCloud&lt;/a&gt;, to name just two.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="image1" src="https://farm7.static.flickr.com/6157/6146290822_7c1bf5c590.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;The conference began in earnest on Tuesday, with
-&lt;a class="reference external" href="http://twitter.com/limedaring"&gt;Tracy&lt;/a&gt; delivering an inspiring
-&lt;a class="reference external" href="http://www.slideshare.net/limedaring/from-designer-to-djangoer-in-six-weeks-a-story-from-solo-founder"&gt;talk&lt;/a&gt;
-about launching her own &lt;a class="reference external" href="http://www.weddinginvitelove.com/"&gt;startup&lt;/a&gt;
-in six weeks by teaching herself Django. That afternoon,
-&lt;a class="reference external" href="http://twitter.com/sandymahalo"&gt;Sandy&lt;/a&gt; wowed even the most
-experienced developers in the room with her excellent talk on &lt;a class="reference external" href="https://docs.google.com/a/pyladies.com/present/view?id=0AVthC0Z3iw8DZGRrdnFzeGdfN2c5bWJ6d2Y1&amp;amp;hl=en_US"&gt;best
-practices in
-testing&lt;/a&gt;.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;./blog/15_recap-pyladies-at-djangocon-2011.rst&lt;/tt&gt;, line 48)&lt;/p&gt;
-Unexpected indentation.&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;a class="reference external" href="http://twitter.com/audreyr"&gt;Audrey&lt;/a&gt;&amp;nbsp; and&lt;/blockquote&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/15_recap-pyladies-at-djangocon-2011.rst&lt;/tt&gt;, line 49)&lt;/p&gt;
-Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://twitter.com/webdevgirl"&gt;Christine&lt;/a&gt; picked up the PyLadies
-baton the following day, with talks about &lt;a class="reference external" href="http://www.slideshare.net/audreyr/django-package-thunderdome-by-audrey-roy-daniel-greenfeld"&gt;Django
-packages&lt;/a&gt;
-and &lt;a class="reference external" href="http://www.slideshare.net/cosecant/best-practices-for-frontend-django-developers"&gt;Django for the
-Front-End&lt;/a&gt;,
-respectively. &lt;a class="reference external" href="http://twitter.com/kjam"&gt;Katharine&lt;/a&gt; spoke on Wednesday
-afternoon about &lt;a class="reference external" href="http://dl.dropbox.com/u/19508576/djangocon_slides/src/scraper_talk.html"&gt;web-scraping
-methods&lt;/a&gt;.&lt;/p&gt;
-&lt;div class="section" id="image2"&gt;
-&lt;h3&gt;&lt;img alt="image2" src="https://dl.dropbox.com/u/39730/pyladiesblog/djangocon/6146295356_b7fe674122_b.jpg" /&gt;&lt;/h3&gt;
+&lt;p&gt;The conference began in earnest on Tuesday, with &lt;a class="reference external" href="http://twitter.com/limedaring"&gt;Tracy&lt;/a&gt; delivering an inspiring &lt;a class="reference external" href="http://www.slideshare.net/limedaring/from-designer-to-djangoer-in-six-weeks-a-story-from-solo-founder"&gt;talk&lt;/a&gt;&amp;nbsp;about launching her own &lt;a class="reference external" href="http://www.weddinginvitelove.com/"&gt;startup&lt;/a&gt; in six weeks by teaching herself Django. That afternoon, &lt;a class="reference external" href="http://twitter.com/sandymahalo"&gt;Sandy&lt;/a&gt; wowed even the most experienced developers in the room with her excellent talk on &lt;a class="reference external" href="https://docs.google.com/a/pyladies.com/present/view?id=0AVthC0Z3iw8DZGRrdnFzeGdfN2c5bWJ6d2Y1&amp;amp;hl=en_US"&gt;best practices in testing&lt;/a&gt;.  &lt;a class="reference external" href="http://twitter.com/audreyr"&gt;Audrey&lt;/a&gt;&amp;nbsp; and &lt;a class="reference external" href="http://twitter.com/webdevgirl"&gt;Christine&lt;/a&gt; picked up the PyLadies baton the following day, with talks about &lt;a class="reference external" href="http://www.slideshare.net/audreyr/django-package-thunderdome-by-audrey-roy-daniel-greenfeld"&gt;Django packages&lt;/a&gt; and &lt;a class="reference external" href="http://www.slideshare.net/cosecant/best-practices-for-frontend-django-developers"&gt;Django for the Front-End&lt;/a&gt;, respectively. &lt;a class="reference external" href="http://twitter.com/kjam"&gt;Katharine&lt;/a&gt; spoke on Wednesday afternoon about &lt;a class="reference external" href="http://dl.dropbox.com/u/19508576/djangocon_slides/src/scraper_talk.html"&gt;web-scraping methods&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image2" src="https://dl.dropbox.com/u/39730/pyladiesblog/djangocon/6146295356_b7fe674122_b.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;I'm singling out the PyLadies-driven sessions specially here, but of
 course there were numerous other great technical talks on topics ranging
 from
@@ -711,7 +971,6 @@ we hope to continue to plug away at it even though the conference is
 over.&amp;nbsp; Still, while coding remotely has its pros, it was pretty awesome
 to be able to sit in the same room with dozens of talented folks to plug
 away at the same open-source project!&lt;/p&gt;
-&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="image3"&gt;
 &lt;h2&gt;&lt;img alt="image3" src="https://dl.dropbox.com/u/39730/pyladiesblog/djangocon/sprints.png" /&gt;&lt;/h2&gt;
@@ -789,136 +1048,144 @@ to come.&lt;/p&gt;
 intelligence, and big-heartedness of the Django community, and I know
 I'm not the only one.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Archive"></category></entry><entry><title>Recaps: October Hackathon at Idealab, November Beginner's Workshop at USC</title><link href="http://www.pyladies.com/recaps-october-hackathon-at-idealab-november-beginners-workshop-at-usc.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recaps-october-hackathon-at-idealab-november-beginners-workshop-at-usc.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted Nov. 29, 2011, 10:33 p.m.&lt;/p&gt;
-&lt;div class="section" id="hackety-hack"&gt;
-&lt;h2&gt;Hackety Hack!&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://idealab.com"&gt;Idealab&lt;/a&gt; in Pasadena played host to a PyLadies
-hackathon this past October. Our very own Sophia has posted some great
-photos of the event over at her own site,
-&lt;a class="reference external" href="http://backcode.com/pyladies-hackathon-the-idea-lab/"&gt;backCODE&lt;/a&gt; --
-check them out!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image0" src="http://backcode.com/wp-content/uploads/2011/11/idea_lab1.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Lightning talks&amp;nbsp; at that hackathon were given by:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ray T&lt;/strong&gt;. on &lt;a class="reference external" href="https://docs.google.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoNTQzY2FmZjEtOWUzYy00MWI5LTgyNmItMjhhNzU5NDVmZjEz&amp;amp;hl=en"&gt;Unit
-Testing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Randall D.&lt;/strong&gt; on easy Django deployment with Heroku&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PyDanny&lt;/strong&gt; on Painless Authentication and Registration&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Emma S&lt;/strong&gt;.: Hello world! A beginner's Django App&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leo C.&lt;/strong&gt;: Google App Engine&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ryan&lt;/strong&gt;: Know your Time Complexities&lt;/p&gt;
-&lt;p&gt;Muchas gracias to Idealab, and especially to &lt;strong&gt;Joven Matias&lt;/strong&gt; for their
-excellent hospitality.&amp;nbsp; Extra thanks to our wonderful volunteer corps,
-who came early, helped set up the rooms, and delivered lightning talks!&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>&amp;quot;Djangsta&amp;quot; shirts on sale at DjangoCon!</title><link href="http://www.pyladies.com/quotdjangstaquot-shirts-on-sale-at-djangocon.html" rel="alternate"></link><updated>2011-09-06T12:26:00Z</updated><author><name>C Cheung</name></author><id>http://www.pyladies.com/quotdjangstaquot-shirts-on-sale-at-djangocon.html</id><summary type="html">&lt;p&gt;These &amp;quot;Djangsta&amp;quot; shirts premiered at DjangoCon to a rousing success and
+are selling out quickly! If you are coming to DjangoCon this year, find
+a PyLady and get one! Proceeds help PyLadies outreach efforts. Shirt
+logo was designed by xtine.&lt;/p&gt;
+&lt;p&gt;Available: Womens L, Mens S/L&lt;/p&gt;
+&lt;p&gt;A pre-order form will be available for a reprint run!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image0" src="http://i.imgur.com/7epc8.png" /&gt; Model: &lt;a class="reference external" href="http://twitter.com/#!/jeffschenck"&gt;Jeff Schenck&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>PyLadies Meetup at DjangoCon</title><link href="http://www.pyladies.com/pyladies-meetup-at-djangocon.html" rel="alternate"></link><updated>2011-09-05T22:22:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/pyladies-meetup-at-djangocon.html</id><summary type="html">&lt;p&gt;All women at DjangoCon are invited to the PyLadies meetup, Wed night at
+DjangoCon US! &amp;nbsp;Thanks to Michelle Rowley and Eric Holscher (both of PDX
+Python) for organizing and planning the party.&lt;/p&gt;
+&lt;p&gt;Gents who participate in IRC channel #pyladies and guests of women are
+invited too.&lt;/p&gt;
+&lt;p&gt;Wednesday, September 7, 2011
+8pm onward
+Location: Ringlers Annex of McMenamins&lt;/p&gt;
+&lt;p&gt;(Note: this is the Annex a block east of Ringlers, not Ringlers itself)
+1223 S.W. Stark
+Portland, OR 97205
+(503) 384-2700&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.mcmenamins.com/250-ringlers-annex-home"&gt;http://www.mcmenamins.com/250-ringlers-annex-home&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>DjangoCon Sponsorship Program: Results</title><link href="http://www.pyladies.com/djangocon-sponsorship-program-results.html" rel="alternate"></link><updated>2011-09-05T22:11:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/djangocon-sponsorship-program-results.html</id><summary type="html">&lt;p&gt;Announcing the results of the PyLadies' DjangoCon Sponsorship Program.&lt;/p&gt;
+&lt;p&gt;$4250 was raised, with 100% of it going to making it possible for female Django developers to attend DjangoCon. &amp;nbsp;Specifically, excited and passionate developers who would not otherwise have attended (who happen to be women).&lt;/p&gt;
+&lt;p&gt;Here is a breakdown of how the money was used. &amp;nbsp;For more details about
+this, see our PyLadies / DjangoCon US 2011 Sponsorship Program financial
+report (&lt;a class="reference external" href="http://dl.dropbox.com/u/768016/pyladies/financial-reports/PyLadies-DjangoConUS2011-Financial-Report.pdf"&gt;PDF
+download&lt;/a&gt;).&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;img alt="" src="https://docs.google.com/a/pyladies.com/spreadsheet/oimg?key=0AmeI6choQL4JdGpkaGJseGVaNWFBUmNWSUNLM3RRS1E&amp;amp;oid=4&amp;amp;zx=a3qc48tfkn72" /&gt;
 &lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="clackety-clack"&gt;
-&lt;h2&gt;Clackety Clack!&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://annenberg.usc.edu"&gt;USC's Annenberg School for Communication &amp;amp;
-Journalism&lt;/a&gt; hosted a beginner's Python
-workshop that was even bigger than the first one we held back in May.
-50-odd geeks, nerds, and similar fought their way through some
-unexpected downtown traffic to attend this tutorial, taught by PyLadies
-kjam, Sandy, and xtine.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image1" src="https://dl.dropbox.com/u/39730/pyladiesblog/usc/1stprogram.png" /&gt;&lt;/p&gt;
-&lt;p&gt;It was a bright crowd, with most people Learning Python the Hard Way at
-a fairly rapid clip. They were impatient to learn about web scraping
-from kjam, and eager to follow along with the code samples presented at
-the end-of-day lightning talks.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image2" src="https://dl.dropbox.com/u/39730/pyladiesblog/usc/amazon.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Photos from this event are up on our &lt;a class="reference external" href="https://secure.flickr.com/photos/pyladies/sets/72157628083649345/"&gt;Flickr
-page&lt;/a&gt;!
-BIG thanks to Geneva Oh of USC Annenberg and Prof. &lt;strong&gt;Robert
-Hernandez&lt;/strong&gt;for proposing, organizing and promoting this workshop for
-USC students and journalists (including one intrepid nerd-to-be who flew
-in from Arizona solely for this event!), as well as sponsoring the venue
-and food.&lt;/p&gt;
-&lt;p&gt;Lightning talks from&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;xtine&lt;/strong&gt;: scraping data from a music website for fun!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;: Why Documentation Matters&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Robin&lt;/strong&gt;: &lt;a class="reference external" href="http://dl.dropbox.com/u/39730/pyladiesblog/usc/ListComps.ppt"&gt;Python List
-Comprensions&lt;/a&gt;
-[.ppt]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Emma&lt;/strong&gt;: &amp;quot;&lt;a class="reference external" href="http://djangolookslikefun.wordpress.com/2011/10/22/lightning-talk-hello-world/"&gt;Hello
-world!&lt;/a&gt;&amp;quot;
-(an encore by popular demand)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leo&lt;/strong&gt;: I can't remember at the moment but I'm sure it was fabulous!&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://cars.com"&gt;Cars.com&lt;/a&gt; generously hosted a post-workshop PyLadies
-social hour, plying us with beer and delicious appetizers from the
-campus bar. Thanks to Michael and Robin from Cars for giving up their
-Saturday for us!&amp;nbsp; Likewise to our brilliant volunteer corps -- the event
-would not have been as successful without your participation and we are
-grateful! =)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image3" src="https://dl.dropbox.com/u/39730/pyladiesblog/usc/nerdlevel.png" /&gt;&lt;/p&gt;
-&lt;p&gt;We hope to follow up with some Intermediate Python workshops in the
-coming months for those who want to level-up some more, so stay tuned --
-subscribe to our newsletter (use the form at right) and &lt;a class="reference external" href="http://twitter.com/pyladies"&gt;follow us on
-the Twitter&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Thank you to the individuals and companies who sponsored the program:&lt;/p&gt;
+&lt;div class="section" id="gold-3000"&gt;
+&lt;h2&gt;Gold ($3000+)&lt;/h2&gt;
+&lt;p&gt;Mozilla&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image0" src="http://dl.dropbox.com/u/768016/pyladies/sponsors/mozilla/logo-wordmark-mozilla-300x105.png" /&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Archive"></category></entry><entry><title>SF PyLadies First Workshop: Build your own Blog</title><link href="http://www.pyladies.com/sf-pyladies-first-workshop-build-your-own-blog.html" rel="alternate"></link><updated>2012-05-26T23:36:14Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/sf-pyladies-first-workshop-build-your-own-blog.html</id><summary type="html">&lt;p&gt;By &lt;a class="reference external" href="/blog/author/esther/"&gt;Esther Nam&lt;/a&gt; posted May 21, 2012, 6 a.m.&lt;/p&gt;
-&lt;p&gt;:note:[This post about the first San Francisco PyLadies chapter's workshop is
-copied straight from &lt;a class="reference external" href="http://www.roguelynn.com/2012/05/16/pyladies-first-workshop-build-your-own-blog/"&gt;Lynn's personal
-blog&lt;/a&gt;
-(with Lynn's generous permission -- thanks!)]&lt;/p&gt;
-&lt;p&gt;What a blast I had on Saturday! It was a great learning experience for
-both the attendees and for us PyLadies org board! Good lessons learned,
-such as virtualenv is a beast to install depending on one’s operating
-system. Next time, we’ll have a pre-workshop session for installation of
-dependencies and such.&lt;/p&gt;
-&lt;p&gt;We went through how to build a blog using Django and its class-based
-views. We also went over Model-View-Controller concepts, and how they
-apply to Django. We wrapped up with a quick overview of how easy it is
-to deploy an application on Heroku (way too easy!).&lt;/p&gt;
-&lt;p&gt;I’ve made a &lt;a class="reference external" href="https://github.com/econchick/PyLadiesBYOBlog"&gt;GitHub
-repo&lt;/a&gt; for people to fork
-&amp;amp; contribute. I didn’t find an easily accessible tutorial for building a
-blog, or for building a simple app using Django’s class views, so
-hopefully this will grow to something useful in the Django community.
-Til next time!&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>May 12, 2012 SF Study Group</title><link href="http://www.pyladies.com/may-12-2012-sf-study-group.html" rel="alternate"></link><updated>2012-05-05T14:07:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/may-12-2012-sf-study-group.html</id><summary type="html">&lt;p&gt;Hey Ladies!&lt;/p&gt;
-&lt;p&gt;Udacity is offering a free online intro to programming course starting Monday April 16th. Each week, videos will be posted online at the start of the week and homework will be due on the Tuesday of the following week.&lt;/p&gt;
-&lt;p&gt;Let's meet every Wednesday evening; exact time &amp;amp; place will be coordinated with soon, but will be in the SF city area.&lt;/p&gt;
-&lt;p&gt;Please watch the videos beforehand so we can work on homework together. There are multiple courses, no need to all do the same. We can help each other!&lt;/p&gt;
-&lt;p&gt;Also - this event is for women, those who identify as women, and their friends (of either gender). Emphatically queer &amp;amp; trans friendly.&lt;/p&gt;
-&lt;p&gt;See &lt;a class="reference external" href="http://www.meetup.com/PyLadiesSF/events/62203752/"&gt;http://www.meetup.com/PyLadiesSF/events/62203752/&lt;/a&gt;&lt;/p&gt;
-</summary><category term="PyladiesSF"></category><category term="StudyGroup"></category></entry><entry><title>pyladies.com site setup</title><link href="http://www.pyladies.com/pyladiescom-site-setup.html" rel="alternate"></link><updated>2012-05-04T20:38:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pyladiescom-site-setup.html</id><summary type="html">&lt;p&gt;The actual pyladies.com website, redone using Github static pages so the entire world can see articles and events in progress. If something isn't listed, then submit a contribution.&lt;/p&gt;
-&lt;p&gt;How to get it running:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;pip install pelican
-git clone git://github.com/pyladies/pyladies.github.com.git
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;How to push up entries and pages and themes:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;pelican . -o . -s settings.py
-git commit -am &lt;span class="s2"&gt;&amp;quot;Adding content here&amp;quot;&lt;/span&gt;
-git push
-&lt;/pre&gt;&lt;/div&gt;
-&lt;div class="section" id="results"&gt;
-&lt;h2&gt;Results!&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://pyladies.github.com"&gt;http://pyladies.github.com&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="silver-500"&gt;
+&lt;h2&gt;Silver ($500+)&lt;/h2&gt;
+&lt;p&gt;Cars.com&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;img alt="" src="http://dl.dropbox.com/u/768016/pyladies/sponsors/cars.com/cars-dot-com.jpg" /&gt;
 &lt;/div&gt;
-&lt;div class="section" id="how-to-submit-an-article-or-event"&gt;
-&lt;h2&gt;How to submit an article or event&lt;/h2&gt;
+&lt;p&gt;Steve Holden / The Open Bastion&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;img alt="" src="http://dl.dropbox.com/u/768016/pyladies/sponsors/the-open-bastion/tob-226x128.png" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bronze-150"&gt;
+&lt;h2&gt;Bronze ($150+)&lt;/h2&gt;
+&lt;p&gt;Douglas Philips&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="supporter-50"&gt;
+&lt;h2&gt;Supporter ($50+)&lt;/h2&gt;
+&lt;p&gt;Justin and Kristy Fields&lt;/p&gt;
+&lt;p&gt;Shawn Milochik&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="Archive"></category></entry><entry><title>Mid-August News Bites</title><link href="http://www.pyladies.com/mid-august-news-bites.html" rel="alternate"></link><updated>2011-08-16T06:00:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/mid-august-news-bites.html</id><summary type="html">&lt;p&gt;Mid-August -- in France we'd be halfway through our nationally
+recognized four weeks of vacation, but here in Los Angeles we PyLadies
+have been as busy as ever, working hard to plan some big, big things!&lt;/p&gt;
+&lt;p&gt;Also:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Fork the &lt;a class="reference external" href="https://github.com/pyladies/pyladies.com-articles"&gt;https://github.com/pyladies/pyladies.com-articles&lt;/a&gt; or &lt;a class="reference external" href="https://github.com/pyladies/pyladies.com-events"&gt;https://github.com/pyladies/pyladies.com-events&lt;/a&gt; projects on github&lt;/li&gt;
-&lt;li&gt;In your local branch, place your article or event in its respective project directory.&lt;/li&gt;
-&lt;li&gt;The content must be formatted using RestructuredText, MarkDown, or (as a last resort) plain text.&lt;/li&gt;
-&lt;li&gt;Don't submit the rendered HTML.&lt;/li&gt;
-&lt;li&gt;Submit a pull request&lt;/li&gt;
-&lt;li&gt;The maintainers of this site will then review and either publish or reject your article submission.&lt;/li&gt;
+&lt;li&gt;Sophia and I wrote up &lt;a class="reference external" href="http://www.women2.org/pyladies-events-workshops-hackathons-and-startup-kits/"&gt;a short narrative&lt;/a&gt; about our little group for Women 2.0&lt;/li&gt;
+&lt;li&gt;Katharine submitted a &lt;a class="reference external" href="http://panelpicker.sxsw.com/ideas/view/11850"&gt;panel proposal&lt;/a&gt; for SXSW Interactive next March -- please vote it up on the SXSW Panel Picker!&lt;/li&gt;
+&lt;li&gt;Audrey is delivering keynote speeches at &lt;a class="reference external" href="http://pycon-au.org/2011/conference/schedule/"&gt;PyCon Australia&lt;/a&gt; AND &lt;a class="reference external" href="http://nz.pycon.org/2011/talks/talk/142/"&gt;Kiwi PyCon&lt;/a&gt; in Wellington, New Zealand! There will also be a &lt;a class="reference external" href="http://pycon-au.org/2011/conference/schedule/event/47/"&gt;women in Python breakfast&lt;/a&gt; at PyCon Australia before the keynote, so if you're in that other hemisphere and would like to attend, shoot Audrey an email.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="why-articles-and-events-may-get-rejected"&gt;
-&lt;h2&gt;Why articles and events may get rejected&lt;/h2&gt;
-&lt;p&gt;There are a number of reasons why this may have occurred:&lt;/p&gt;
+&lt;p&gt;And we do it all for YOU =)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPCOMING EVENTS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Those who subscribe to the PyLadies newsletter should already know about the following events, but if you've been dilly-dallying about signing up for any, get thee quickly to those registration pages so we can be ready for you!  (If you *don't* subscribe to our newsletter -- why not?? There's a handly little form for you on our sidebar RIGHT THERE --&amp;gt;  - The LA PyLadies have created a &lt;a class="reference external" href="http://www.meetup.com/la-pyladies/"&gt;Meetup Group&lt;/a&gt; where we will post all our events -- join us!  - It's not too late to register for this weekend's &lt;a class="reference external" href="http://meetupla.hackshackers.com/events/28337101/"&gt;Hacks/Hackers hackathon&lt;/a&gt;, held under the auspices of #&lt;a class="reference external" href="http://www.scpr.org/events/2011/08/19/pubcamp/"&gt;PubCampWest&lt;/a&gt; at KPCC in Pasadena. The theme is &amp;quot;Hacking online audio&amp;quot;  - Monday is another PyLadies hack night -- an informal event where people can get together to work on code or just &lt;a class="reference external" href="/chat"&gt;hang out on IRC&lt;/a&gt; to do the same. Actually, we're always around on IRC, so if you're busy Monday, you can still hang out with us virtually on any other day you want!  - Saturday, August 27th is the official &lt;a class="reference external" href="http://pyladies-cars-august.eventbrite.com/"&gt;August PyLadies mini-conference/hackathon at Cars.com&lt;/a&gt;. This all-day event will begin with a morning session of talks about Django and other cool Python tools, followed by a hackathon.&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Introduction to Django at Mahalo - July 23rd PyLadies Workshop</title><link href="http://www.pyladies.com/introduction-to-django-at-mahalo-july-23rd-pyladies-workshop.html" rel="alternate"></link><updated>2011-07-25T20:54:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/introduction-to-django-at-mahalo-july-23rd-pyladies-workshop.html</id><summary type="html">&lt;p&gt;Last Saturday the PyLadies and the LA Django meetup group held an
+introductory Django Workshop, with generous amounts of support by
+&lt;a class="reference external" href="http://mahalo.com"&gt;Mahalo&lt;/a&gt; and &lt;a class="reference external" href="http://cars.com"&gt;Cars.com&lt;/a&gt;
+Guided by Sandy and Katharine, two of the PyLadies' Djangologists
+extraordinaires, the &lt;a class="reference external" href="http://bit.ly/qMcEAT"&gt;morning tutorial&lt;/a&gt; covered
+the basics of setting up a Django web application, from database
+configuration to navigating the built-in admin interface.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image0" src="https://lh5.googleusercontent.com/-jwfDhFCirdw/Tix8O3YN4bI/AAAAAAAAAJc/x-BaLQXdDW0/s400/IMG_1722.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;As you can see, mentors circulated the room throughout the workshop;
+Michael of Cars.com brought party hats for us to wear so that people
+knew who to ask for help as they set up their first Django web app. To
+maintain the party-like atmosphere we also had slides of Python-trivia
+questions, and threw candy at participants who got answered them
+correctly! Do YOU know what BDFL stands for?&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image1" src="https://lh4.googleusercontent.com/-Wl5FHhRp2oQ/Tix8dxlglOI/AAAAAAAAAJc/ZiprFKY2Kl0/s400/IMG_2599.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;For lunch we dined on pizza donated by Cars.com, while soaking in some
+much-needed vitamin D, and spent some time getting to know our fellow
+hackers a bit better.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image2" src="https://lh3.googleusercontent.com/-nLB8fJkkAZs/Tix8e8CfjTI/AAAAAAAAAJc/fEK_Uri-75A/s400/IMG_2600.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;Introducing ourselves, we discovered that we came from a wide range of
+backgrounds, from meditation experts to bioengineers, united by our
+eagerness to learn this awesome Python-based framework, and our
+willingness to spend a whole Saturday doing so!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image3" src="https://lh4.googleusercontent.com/-iwv_8Lg5IpY/Tix8XemK_KI/AAAAAAAAAJc/bD_XsnAWiVk/s400/IMG_2580.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;These folks came all the way from Texas!!!&lt;/p&gt;
+&lt;p&gt;In the afternoon, most attendees chose to push on through the Django
+tutorial with Sandy, where they delved deeper into Django views and
+templating. Others hacked away happily on their own Python projects, and
+later we all learned how to set &amp;nbsp;deploy our apps on
+&lt;a class="reference external" href="http://djangozoom.com"&gt;DjangoZoom&lt;/a&gt;, for which the DjangoZoom folks
+were generous enough to give us trial accounts.
+There was, of course, time for a short outdoor break (PyLadies are all
+about promoting well-rounded, healthy hacking habits!), led by Python
+dev/capoeira enthusiast PyDanny.&lt;/p&gt;
+&lt;p&gt;The hackday finished with another fine set of lightning talks:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Inappropriate content submitted&lt;/li&gt;
-&lt;li&gt;Spelling or grammatical errors&lt;/li&gt;
-&lt;li&gt;Pull request included the rendered HTML&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://twitter.com/kjam"&gt;Katharine&lt;/a&gt; gave an awesome talk on &lt;a class="reference external" href="http://kjamistan.tumblr.com/post/7985900943/how-to-keep-up-with-the-pyladies"&gt;how
+to keep up with the
+PyLadies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://twitter.com/rdegges"&gt;Randall&lt;/a&gt; gave a presentation on &lt;a class="reference external" href="http://www.slideshare.net/rdegges/intro-to-telephony-in-django"&gt;the
+awesome Django-Twilio
+API&lt;/a&gt;,
+for adding telephony features to web apps&lt;/li&gt;
+&lt;li&gt;Michael gave &lt;a class="reference external" href="http://prezi.com/s82pxzuuvpsa/how-to-get-hired-as-a-new-developer/"&gt;tips on applying for programming
+jobs&lt;/a&gt;,
+aimed at n00bs but containing good advice for any job-seeker.&lt;/li&gt;
+&lt;li&gt;Laura showed us how to use the &lt;a class="reference external" href="http://www.slideshare.net/rogueveda/whats-in-a-tweet?from=share_email_login3"&gt;Python wrapper for the Twitter
+API&lt;/a&gt;
+&lt;img alt="image4" src="https://lh6.googleusercontent.com/-n4l5e6yMgk0/Tix8k5zilkI/AAAAAAAAAJk/c7gdwQzkKzc/s400/IMG_2612.JPG" /&gt;&lt;/li&gt;
+&lt;li&gt;The indomitable &lt;a class="reference external" href="http://twitter.com/sandymahalo"&gt;Sandy&lt;/a&gt; found it in
+her to give another talk, this time on &lt;a class="reference external" href="https://docs.google.com/present/edit?id=0AVthC0Z3iw8DZGRrdnFzeGdfMmNxd2d3emd2&amp;amp;hl=en_US"&gt;Django
+testing&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="how-to-submit-a-static-page"&gt;
-&lt;h2&gt;How to submit a static page&lt;/h2&gt;
-&lt;p&gt;Simply create a RST or MD file in the Pages directory. Its title will appear in the navigation in TitleCase.&lt;/p&gt;
-&lt;/div&gt;
-</summary><category term="Website"></category></entry><entry><title>Recap: June 2011 Hollywood Hackathon at Border Stylo</title><link href="http://www.pyladies.com/recap-june-2011-hollywood-hackathon-at-border-stylo.html" rel="alternate"></link><updated>2011-06-24T03:10:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recap-june-2011-hollywood-hackathon-at-border-stylo.html</id><summary type="html">&lt;p&gt;Last Saturday we held our first hackathon of the summer at the offices of &lt;a class="reference external" href="http://borderstylo.com"&gt;Border Stylo&lt;/a&gt; in Hollywood, in partnership with the &lt;a class="reference external" href="http://socal-piggies.org"&gt;SoCal Python Interest Group&lt;/a&gt; (“SoCal Piggies”). We invited not only newcomers to Python programming, like those who attended the &lt;a class="reference external" href="/blog/intro-to-python-workshop-recap/"&gt;May Beginner’s Workshop,&lt;/a&gt; but also seasoned developers who came to hack away on their own projects -- and who happily volunteered themselves to be mentors to those aforementioned n00bs.&lt;/p&gt;
+&lt;p&gt;Since no PyLadies event is complete without a social hour, we walked
+over to Warszawa for a round of drinking and relaxation (i.e., we began
+formulating plans for tattoos, future PyLadies events, continued world
+domination, etc).&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image5" src="https://lh6.googleusercontent.com/-FzxISA0yGeM/Tix8nwLWQ2I/AAAAAAAAAJc/ENfJxdr4Bqk/s400/IMG_2622.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;Thanks again to our wonderful hosts at Mahalo, particularly CTO Jeff;
+and also to the crew of Cars.com, most notably Michael, who helped out
+enormously with every aspect of the event, from tweaking the tutorial to
+handing out candy for trivia. Also, the hats!&lt;/p&gt;
+&lt;p&gt;Finally, and as always, thanks to the &lt;a class="reference external" href="http://python.org/psf"&gt;PSF&lt;/a&gt; for
+their continued support. We were able to fit twice as many people into
+our hack space using the tables and chairs they paid for. We'll also be
+thanking them in the near future when we announce a few other exciting
+new developments...&lt;/p&gt;
+&lt;p&gt;Stay on our mailing list to hear more! Or, if that's not enough PyLadies
+for you, &lt;a class="reference external" href="http://kjamistan.tumblr.com/post/7985900943/how-to-keep-up-with-the-pyladies"&gt;you know where else to find
+us&lt;/a&gt;!&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Recap: June 2011 Hollywood Hackathon at Border Stylo</title><link href="http://www.pyladies.com/recap-june-2011-hollywood-hackathon-at-border-stylo.html" rel="alternate"></link><updated>2011-06-24T03:10:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/recap-june-2011-hollywood-hackathon-at-border-stylo.html</id><summary type="html">&lt;p&gt;Last Saturday we held our first hackathon of the summer at the offices of &lt;a class="reference external" href="http://borderstylo.com"&gt;Border Stylo&lt;/a&gt; in Hollywood, in partnership with the &lt;a class="reference external" href="http://socal-piggies.org"&gt;SoCal Python Interest Group&lt;/a&gt; (“SoCal Piggies”). We invited not only newcomers to Python programming, like those who attended the &lt;a class="reference external" href="/blog/intro-to-python-workshop-recap/"&gt;May Beginner’s Workshop,&lt;/a&gt; but also seasoned developers who came to hack away on their own projects -- and who happily volunteered themselves to be mentors to those aforementioned n00bs.&lt;/p&gt;
 &lt;p&gt;Roughly 60% of the day’s 55 in-person participants and 90% of the 30 remote participants were female, well beyond the PyLadies’ goal of having a 1:1 male-female ratio at Pythonista events.&lt;/p&gt;
 &lt;p&gt;OSS Bounty&lt;/p&gt;
 &lt;p&gt;A few days before the hackathon, Audrey &lt;a class="reference external" href="https://twitter.com/#%21/pyladies/status/81081811853258752"&gt;put out the call&lt;/a&gt; for hackers to contribute to open source projects, offering these freshly printed PyLadies shirts as a reward for anyone who committed code to a FOSS project (Audrey's wearing the new one!):&lt;/p&gt;
@@ -1116,6 +1383,99 @@ let us know.&lt;/p&gt;
 &lt;p&gt;Congratulations to all 25 ladies and 2 men who completed our intro
 workshop, and special thanks to all the men who attended and volunteered
 for braving the crowd of ladies.&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Jessica McKellar to be Keynote speaker at DjangoCon Europe!</title><link href="http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html" rel="alternate"></link><updated>2011-05-17T06:00:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html</id><summary type="html">&lt;p&gt;:emphasis:[Originally posted on the &lt;a class="reference external" href="http://2012.djangocon.eu/blog/announcing-our-second-keynote-speaker-jessica-mcke/"&gt;DjangoCon Europe
+blog&lt;/a&gt;.
+Thanks Jonas for letting us repost here! &lt;a class="reference external" href="http://2012.djangocon.eu/"&gt;DjangoCon Europe
+2012&lt;/a&gt; will go from June 4-June 8 in Zurich,
+Switzerland.]&lt;/p&gt;
+&lt;p&gt;By Jonas Obrist&lt;/p&gt;
+&lt;p&gt;I am really excited to announce our second keynote speaker for DjangoCon
+Europe 2012 - Jessica McKellar.&lt;/p&gt;
+&lt;p&gt;Jessica is a kernel engineer from Cambridge, Massachusetts. She's a
+maintainer of several open source Python projects, most notably Twisted
+and OpenHatch. She's also working on a new edition of Twisted Networking
+Essentials for O'Reilly.&lt;/p&gt;
+&lt;p&gt;On top of her open source contributions, she is also a Python Software
+Foundation board member and a crucial part in the Boston Python User
+Group, the largest Python user group in the world. With that group she
+runs the Boston Python Workshop, an introductory programming pipeline
+that has brought hundreds of women into the local Python community and
+is being replicated in cities across the US.&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Building A Great Work Culture (Inspire, Empower And Collaborate)</title><link href="http://www.pyladies.com/building-a-great-work-culture-inspire-empower-and-collaborate.html" rel="alternate"></link><updated>2011-05-16T06:00:00Z</updated><author><name>Pam Selle</name></author><id>http://www.pyladies.com/building-a-great-work-culture-inspire-empower-and-collaborate.html</id><summary type="html">&lt;p&gt;:emphasis:[Ed. note: Thanks to Pam and Angie for letting us repost this from &lt;a class="reference external" href="http://www.women2.com/building-a-great-work-culture-inspire-empower-and-collaborate/"&gt;the
+Women 2.0
+blog&lt;/a&gt;!]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;There are three key ingredients to a great culture boosting
+activity.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image0" src="http://www.women2.com/wp-content/uploads/pam_selle.jpg" /&gt;One of the things I like most about &lt;a class="reference external" href="http://www.paperlesspost.com/"&gt;**my current
+workplace**&lt;/a&gt; is the culture. In an
+aggressive tech hiring environment, buffing up on how to build a great
+culture is definitely worth the time. At Paperless Post, we recently had
+a Hack Day (or, per the company mascot, &amp;quot;Stampy Day&amp;quot;). Here's what it
+was, why it was fun, and why you should probably bring it to your
+company too - but more than that, how the underlying culture and ethic
+is great for any company.&lt;/p&gt;
+&lt;div class="section" id="planning-for-greatness-encouraging-creativity"&gt;
+&lt;h2&gt;Planning For Greatness: Encouraging Creativity&lt;/h2&gt;
+&lt;p&gt;There are three key ingredients to a great culture boosting activity -
+that the activity inspires employees concerning their work, empowers
+them to take ownership and control of part of the product, and that the
+activity allows company members to collaborate, communicate, and
+otherwise work together toward a goal.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="encourage-and-empower-hack-day"&gt;
+&lt;h2&gt;Encourage And Empower: Hack Day&lt;/h2&gt;
+&lt;p&gt;Hack Day is an example of a culture boosting activity - a day taken off
+from the regular run of the business to focus on other &amp;quot;hacks&amp;quot; or
+projects brought by the team. These can be dreamed up features, new
+design items, brainstorming new approaches... a company Hack Day is
+related to the company, but that can include writing a company chatbot
+or designing costumes for the company mascot. It can be adding a new
+feature that saves 10 people 5 hours a week... each. The project can be
+as big, small, ambitious, or fun as team members want it to be. The very
+nature of Hack Day encourages creativity and ownership of a project,
+both inspiring employees to dream up something for the business and
+empowering them to be in control of the outcome.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="empower-and-collaborate-who-should-participate-in-your-hack-day"&gt;
+&lt;h2&gt;Empower And Collaborate: Who should participate in your Hack Day&lt;/h2&gt;
+&lt;p&gt;Everyone. One of the best, most fun features of our company Hack Day was
+that it included everyone. Now, not all companies are small enough to be
+able to do this. But think about spreading Hack Day beyond the scope of
+your dev team. Can you involve Product? The Designers? Support? More
+ideas makes it more fun. Encourage project members to take ownership of
+their project, give them free reign to do what they like, and see who
+matches up across teams.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="put-it-together-how-does-hack-day-work"&gt;
+&lt;h2&gt;Put It Together: How does Hack Day work?&lt;/h2&gt;
+&lt;p&gt;Show up. Let people find people to work with. Work on things. Repeat.
+This is the fun part, and there's not really a wrong way to do it,
+except by being too uptight about it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="afterburn-what-do-you-do-afterwards"&gt;
+&lt;h2&gt;Afterburn: What do you do afterwards?&lt;/h2&gt;
+&lt;p&gt;Have a celebration the next work day to talk about each other's projects
+over lunch. Another great thing about Hack Day is that it doesn't matter
+if you don't finish. Remember, it's Hack Day! Low stress. It's all about
+fun and creativity. Eeveryone talks about what they worked on, shows off
+what they did do, talks about the hurdles and what they learned. And
+everyone listening gets to see the smart, talented people they work with
+show off their stuff.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="roi-how-does-it-help"&gt;
+&lt;h2&gt;ROI: How does it help?&lt;/h2&gt;
+&lt;p&gt;The three key components of Hack Day, or any company culture booster,
+are that it is inspiring, empowering, and encourages collaboration. When
+these three ingredients come together, it results in something that at
+the end of the day will make your employees say “I’m glad I work here.”&lt;/p&gt;
+&lt;p&gt;** &lt;img alt="image1" src="http://www.women2.com/wp-content/uploads/125x125_Pam_Selle.jpg" /&gt;&lt;em&gt;About the guest blogger: Pam Selle is a developer at
+`Paperless Post &amp;lt;http://www.paperlesspost.com/&amp;gt;`_, bringing beautiful
+online stationery to users. She is involved in the Ruby, Python, and
+open source communities. A teacher at GirlDevelopIt and PyStarPhilly,
+she is passionate about opening web technologies to all and generally
+making the world a more fun place to live and work. Follow her on
+Twitter at `&amp;#64;pamasaur &amp;lt;https://twitter.com/#%21/pamasaur&amp;gt;`_.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
 </summary><category term="Archive"></category></entry><entry><title>Workshop Planning Session / Python Ladies' Night 2 Recap</title><link href="http://www.pyladies.com/workshop-planning-session-python-ladies-night-2-recap.html" rel="alternate"></link><updated>2011-05-10T17:47:00Z</updated><author><name>Audrey Roy</name></author><id>http://www.pyladies.com/workshop-planning-session-python-ladies-night-2-recap.html</id><summary type="html">&lt;p&gt;On May 8, 2011, six of the PyLadies got together at Intelligentsia
 Coffee in Pasadena. &amp;nbsp;It was really great to see everyone! &amp;nbsp;Sadly Jess
 was out of town attending Google I/O, otherwise we would have had seven
@@ -1226,4 +1586,26 @@ hung out and chatted poolside.&lt;/p&gt;
 &lt;p&gt;Our next ladies' night is scheduled for May 6, 2011. &amp;nbsp;If you'd like to
 come and get involved, please contact me at &lt;a class="reference external" href="mailto:audreyr&amp;#64;cartwheelweb.com"&gt;audreyr&amp;#64;cartwheelweb.com&lt;/a&gt; for
 more details.&lt;/p&gt;
+</summary><category term="Archive"></category></entry><entry><title>Bay Area Girl Geek Dinner at Yelp</title><link href="http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html" rel="alternate"></link><updated>2011-03-29T06:00:00Z</updated><author><name>Lynn Root</name></author><id>http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html</id><summary type="html">&lt;p&gt;:emphasis:[Ed. note] The most recent &lt;a class="reference external" href="http://bayareagirlgeekdinners.com"&gt;Bay Area Girl Geek
+Dinner&lt;/a&gt; was Python-themed, and
+hosted by Yelp. Many thanks to &lt;a class="reference external" href="http://twitter.com/roguelynn"&gt;Lynn&lt;/a&gt;
+for letting us repost this article from &lt;a class="reference external" href="http://www.roguelynn.com/2012/03/28/girl-geek-dinner/"&gt;her
+blog&lt;/a&gt;! Lynn is
+starting up the &lt;a class="reference external" href="http://twitter.com/pyladiessf"&gt;SF Chapter of
+PyLadies&lt;/a&gt;, so drop her a line if you're
+interested in joining!&lt;/p&gt;
+&lt;p&gt;I had the pleasure of attending last night’s Girl Geek dinner at Yelp’s
+headquarters. The event was about empowering women by hearing their
+success stories.&lt;/p&gt;
+&lt;p&gt;Three of the speakers were not strangers to me, odd enough! Christine
+from PyLadies in LA spoke about increasing involvement of women in the
+Python community. And of course, spreading the Pyladies ingenuity to San
+Francisco with the help of yours truly!&lt;/p&gt;
+&lt;p&gt;Kaitlyn Trigger of lovestagram.com, a valentine overlay to instagram
+photos, spoke as well. I had the fortunate opportunity to invite her to
+one of my Women Who Code python workshop nights. I loved her message
+that one can not learn how to code by herself; it takes a village!&lt;/p&gt;
+&lt;p&gt;Lastly, Sasha of Women Who Code gave a great talk on how she starting
+the group, and her motivation behind it. Too bad she’s now in NYC :-/&lt;/p&gt;
+&lt;p&gt;I would highly recommend attending a Girl Geek dinner in the future!&lt;/p&gt;
 </summary><category term="Archive"></category></entry></feed>

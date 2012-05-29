@@ -5,4 +5,300 @@
 &lt;p&gt;Please watch the videos beforehand so we can work on homework together. There are multiple courses, no need to all do the same. We can help each other!&lt;/p&gt;
 &lt;p&gt;Also - this event is for women, those who identify as women, and their friends (of either gender). Emphatically queer &amp;amp; trans friendly.&lt;/p&gt;
 &lt;p&gt;See &lt;a class="reference external" href="http://www.meetup.com/PyLadiesSF/events/62203752/"&gt;http://www.meetup.com/PyLadiesSF/events/62203752/&lt;/a&gt;&lt;/p&gt;
-</summary><category term="PyladiesSF"></category><category term="StudyGroup"></category></entry></feed>
+</summary><category term="PyladiesSF"></category><category term="StudyGroup"></category></entry><entry><title>2012 PyLadies PyCon grant program - final results</title><link href="http://www.pyladies.com/2012-pyladies-pycon-grant-program-final-results.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/2012-pyladies-pycon-grant-program-final-results.html</id><summary type="html">&lt;p&gt;PyLadies supported 29 developers, with tickets and funds allocated as
+follows:&lt;/p&gt;
+&lt;p&gt;We would especially like to thank the &lt;a class="reference external" href="http://python.org/psf"&gt;Python Software
+Foundation&lt;/a&gt;, who worked with us to coordinate
+our financial program with theirs to maximize the amount of funding that
+would go toward increasing the diversity of PyCon attendance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Distribution of resources&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+11 tickets (Complimentary registrations)
+$2900.00 Purchased registrations
+$ 900.00 Reimbursement for tutorials
+$2444.40 Travel funding
+--
+$6244.40 Total funds disbursed
+&lt;/pre&gt;
+&lt;p&gt;100% of the monetary amount was offered to the 32 applicants who were
+eligible to receive funding, 97% of which was accepted by 29 of the 32
+applicants.&lt;/p&gt;
+&lt;p&gt;$206.60 remains of out of the money that was offered but not accepted,
+and will be set aside as seed funding to be put toward next yearâ€™s
+financial aid program.&lt;/p&gt;
+&lt;p&gt;Next year we hope to set aside more money to support at least one
+international PyLady.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="91%" /&gt;
+&lt;col width="9%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;STATISTICS&lt;/th&gt;
+&lt;th class="head"&gt;&amp;nbsp;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;In-state attendees&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Out-of-state&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;International&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;PyCon Speakers&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Poster Presenters&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Students&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;First-time attendees: 23&lt;/strong&gt;
+(I totally wanted to apply the &amp;lt;blink&amp;gt; tag on this one)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EVALUATION CRITERIA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Applicants were given priority according to the following weighted
+scale, based on information they provided on their applications,
+submitted bio, email correspondence, and any other material available
+(Github/Bitbucket/other online VCS accounts, blog posts, other
+references).&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="4%" /&gt;
+&lt;col width="96%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;%&lt;/th&gt;
+&lt;th class="head"&gt;Weight/Criterion&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;Speaking at PyCon - Speakers get top priority&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;20%&lt;/td&gt;
+&lt;td&gt;Open source/advocacy - Contributions to open source or diversity-advocacy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;15%&lt;/td&gt;
+&lt;td&gt;Financial need - Evidence of financial need&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;Potential life impact - Impact of attendance on career/academic/life goals&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5%&lt;/td&gt;
+&lt;td&gt;Prior experience/ability - Technical background/skills&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;ONGOING MENTORSHIP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All women who receive a grant also receive a lifetime of peer mentorship
+through the PyLadies community.&lt;/p&gt;
+&lt;p&gt;PyLadies encourages women to grow as leaders in the Python open-source
+community, with mentoring for interested conference speakers and
+opportunities for teaching and active discussion of Python programming
+issues, in addition to contributing to open-source projects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Disclosure&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Last September, a secret Python angel paid my entire way to DjangoCon,
+making it the first tech conference I ever attended. It was an amazing
+experience, one that led me to make a huge career switch, from
+programming hobbyist to full-time web developer. I know firsthand the
+impact that this kind of program can have, which is why it means so much
+to me personally to see it succeed. Best of all, my own trip to PyCon
+this year was fully paid for by my new employer =D&amp;nbsp; Cheers! - Esther N.
+Questions, comments, suggestions? Email: &lt;a class="reference external" href="mailto:sponsors&amp;#64;pyladies.com"&gt;sponsors&amp;#64;pyladies.com&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Pycon"></category></entry><entry><title>Past Events</title><link href="http://www.pyladies.com/past-events.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/past-events.html</id><summary type="html">&lt;div class="section" id="pyladies-djangocon-2011-pycon-2012-talk-proposal-brainstorming-session"&gt;
+&lt;h2&gt;PyLadies' DjangoCon 2011 / PyCon 2012 Talk Proposal Brainstorming Session&lt;/h2&gt;
+&lt;p&gt;Brunch at Corner Bakery (345 S Lake Ave Ste 107, Pasadena, CA 91101)
+followed by collaboration time at the Loud3r office
+June 25, 2011
+11am until...whenever we've got a set of solid talk proposals&lt;/p&gt;
+&lt;p&gt;Prerequisite: enough familiarity with Django to actively participate in
+brainstorming/constructing DjangoCon talk proposals. Absolute beginners
+and non-developers beware!&lt;/p&gt;
+&lt;p&gt;Bring index cards with as many DjangoCon talk ideas as you can think of,
+both for yourself and for others to consider using. At least 3 cards is
+a good start. &amp;nbsp;Bonus points if you come up with 5 or more ideas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-ladies-night-4"&gt;
+&lt;h2&gt;Python Ladies' Night 4&lt;/h2&gt;
+&lt;p&gt;Immediately following the PyLadies Hack Session. &amp;nbsp;You're encouraged to
+attend both events, but if you can't make it during the day, come for
+Python Ladies' Night at least.&lt;/p&gt;
+&lt;p&gt;June 18, 2011 from 8pm onward
+The Hollywood Canteen
+1006 Seward St,&amp;nbsp;Los Angeles,&amp;nbsp;CA&amp;nbsp;90038&lt;/p&gt;
+&lt;p&gt;All ladies of the Python community are invited to hang out with us for a
+night of fun in Hollywood.&amp;nbsp;We'll meet up at&amp;nbsp;&lt;a class="reference external" href="http://www.hollywoodcanteenla.com/"&gt;The Hollywood
+Canteen&lt;/a&gt;&amp;nbsp;at 8pm, then possibly
+visit other nearby bars afterward. &amp;nbsp;Significant others and friends
+(including mentors from the earlier sprint) are welcome.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pyladies-hackathon"&gt;
+&lt;h2&gt;PyLadies Hackathon&lt;/h2&gt;
+&lt;p&gt;Saturday June 18, 2011 from 2-8pm&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pyladies-hackathon.eventbrite.com?ref=ebtn"&gt;|Register for PyLadies Hackathon in Los Angeles, CA on
+Eventbrite|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bring a laptop and code on your own projects. &amp;nbsp;If you need advice on how
+to get started with a project idea, we'll help you get started and then
+let you work independently.&lt;/p&gt;
+&lt;p&gt;You can work on absolutely anything you want, private or open-source, as
+long as it involves some Python code. &amp;nbsp;But thanks to a grant from the
+PSF, we'll be giving you an extra incentive to get into open-source. &amp;nbsp;If
+you contribute to an open-source project or even open-source some code
+that you've written, you'll receive a free PyLadies t-shirt.&lt;/p&gt;
+&lt;p&gt;We're planning to have 1 mentor available for every 1-3 attendees. &amp;nbsp;If
+you need Python help, consider this a session with your personal Python
+trainer who's going to help you get coding!&lt;/p&gt;
+&lt;p&gt;The last hour will be for lightning talks. &amp;nbsp;Sign up to present on
+something Python- or developer-related by emailing &lt;a class="reference external" href="mailto:audreyr&amp;#64;pyladies.com"&gt;audreyr&amp;#64;pyladies.com&lt;/a&gt;
+or any of the other organizers.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pyladies-hackathon.eventbrite.com?ref=ebtn"&gt;|image1|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more info,
+see&amp;nbsp;&lt;a class="reference external" href="http://pyladies-hackathon.eventbrite.com/"&gt;http://pyladies-hackathon.eventbrite.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-ladies-night-3"&gt;
+&lt;h2&gt;Python Ladies' Night 3&lt;/h2&gt;
+&lt;p&gt;June 3, 2011 from 9pm-2am&lt;/p&gt;
+&lt;p&gt;* NOTE: Due to unexpected demand, the details have changed to
+accommodate a larger group. *&lt;/p&gt;
+&lt;p&gt;All Python ladies are invited to hang out with us for a night of fun in
+downtown LA.&amp;nbsp;We'll meet up at&amp;nbsp;&lt;a class="reference external" href="http://www.sevengrand.la/"&gt;Seven
+Grand&lt;/a&gt;&amp;nbsp;at 9pm, then possibly visit other
+nearby bars afterward. &amp;nbsp;Significant others are welcome.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="intro-to-python-workshop"&gt;
+&lt;h2&gt;Intro to Python Workshop&lt;/h2&gt;
+&lt;p&gt;May 15, 2011, 9:30am-4:30pm followed by an optional social hour.&lt;/p&gt;
+&lt;p&gt;Pasadena, CA&lt;/p&gt;
+&lt;div class="section" id="schedule"&gt;
+&lt;h3&gt;SCHEDULE&lt;/h3&gt;
+&lt;p&gt;9:00-9:30am -&amp;nbsp;Check-in and meet other attendees. &amp;nbsp;Coffee and bagels
+provided.&lt;/p&gt;
+&lt;p&gt;9:30am-12:30pm - Intro to Python tutorial, using the popular&amp;nbsp;&lt;a class="reference external" href="http://learnpythonthehardway.org/"&gt;Learn
+Python the Hard Way book by Zed
+Shaw&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;12:30-1:30pm - Lunch break&lt;/p&gt;
+&lt;p&gt;1:30-3:30pm - Workshop breakout sessions, with separate stations for 2-3
+Python programming topics&lt;/p&gt;
+&lt;p&gt;3:30-4:30pm - Lightning talks&lt;/p&gt;
+&lt;p&gt;4:30-5:30pm - Ice cream float social hour&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="registration"&gt;
+&lt;h3&gt;REGISTRATION&lt;/h3&gt;
+&lt;p&gt;Tickets are available on Eventbrite for a $25 fee that covers costs for
+breakfast/lunch. &amp;nbsp;This event is entirely volunteer-run.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="need-based-grants-available"&gt;
+&lt;h3&gt;NEED-BASED GRANTS AVAILABLE&lt;/h3&gt;
+&lt;p&gt;If you are struggling financially and can't afford the ticket price,
+don't let it be a barrier to attending. &amp;nbsp;Email &lt;a class="reference external" href="mailto:audreyr&amp;#64;cartwheelweb.com"&gt;audreyr&amp;#64;cartwheelweb.com&lt;/a&gt;
+with the following info (maximum of 1 page, can be informal) :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;How much can you afford to pay?&lt;/li&gt;
+&lt;li&gt;Why would you like to attend this workshop?&lt;/li&gt;
+&lt;li&gt;How might this workshop affect you in the future?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We're here to help. &amp;nbsp;Don't be afraid to ask.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-ladies-night-2-workshop-planning-session"&gt;
+&lt;h2&gt;Python Ladies' Night 2 + workshop planning session&lt;/h2&gt;
+&lt;p&gt;May 8, 2011 at 4pm in Pasadena, CA. &amp;nbsp;We'll be getting together for
+tea/coffee and to meet each other. &amp;nbsp;Then we'll do some planning for the
+May 15 workshop.
+Prerequisite for this event: Python programming experience and a desire
+to assist during the May 15 women's Python workshop. &amp;nbsp;If you missed the
+first ladies' night but want to get involved, please email
+&lt;a class="reference external" href="mailto:audreyr&amp;#64;cartwheelweb.com"&gt;audreyr&amp;#64;cartwheelweb.com&lt;/a&gt; for details.
+Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Tea/coffee&lt;/li&gt;
+&lt;li&gt;Introductions: What do you do, where do you work/live?&lt;/li&gt;
+&lt;li&gt;Any Python tips/tricks to share? (I just started working with Celery
+and think it's cool)&lt;/li&gt;
+&lt;li&gt;Workshop planning:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Go over Learn Python the Hard Way&lt;/li&gt;
+&lt;li&gt;Go over material for afternoon breakout sessions: How to Think Like a
+Computer Scientist, official Django poll tutorial, possibly 3rd
+station tbd&lt;/li&gt;
+&lt;li&gt;Go over the logistics in the Google doc&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-ladies-night-1"&gt;
+&lt;h2&gt;Python Ladies' Night 1&lt;/h2&gt;
+&lt;p&gt;April 16, 2011 in downtown LA.&lt;/p&gt;
+&lt;p&gt;We had wine, sparkling elderflower and ginger waters,&amp;nbsp;vegetable
+spaghetti, savory meat pies from Porto's bakery, Caesar salad, homemade
+garlic bread, tea, and tiramisu.&lt;/p&gt;
+&lt;p&gt;We talked about:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Python women's advocacy (mostly!)&lt;/li&gt;
+&lt;li&gt;virtualenv&lt;/li&gt;
+&lt;li&gt;the mod_wsgi documentation&lt;/li&gt;
+&lt;li&gt;Django-based content management systems&lt;/li&gt;
+&lt;li&gt;how we each got into Python development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details on the blog
+at&amp;nbsp;&lt;a class="reference external" href="/blog/first-python-ladies-night-recap/"&gt;http://www.pyladies.com/blog/first-python-ladies-night-recap/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>PyCon 2012</title><link href="http://www.pyladies.com/pycon-2012.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pycon-2012.html</id><summary type="html">&lt;div class="section" id="pyladies-pycon-2012"&gt;
+&lt;h2&gt;PyLadies &amp;#64; PyCon 2012&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="image0" src="https://dl.dropbox.com/u/39730/pyladiesblog/pycon/pix.png" /&gt;&lt;/p&gt;
+&lt;p&gt;March 7-15&lt;/p&gt;
+&lt;p&gt;Santa Clara, CA&lt;/p&gt;
+&lt;p&gt;We have big plans for PyCon this March!&lt;/p&gt;
+&lt;p&gt;Join us &lt;strong&gt;Saturday night&lt;/strong&gt; at David's Restaurant, near the conference
+venue, for an awesome party hosted by
+&lt;a class="reference external" href="http://surveymonkey.com"&gt;SurveyMonkey&lt;/a&gt;! There will be food, drinks,
+and socializing with top people in the Python community. The carousing
+begins at 7PM. Follow our &lt;a class="reference external" href="http://twitter.com/pyladies"&gt;Twitter feed&lt;/a&gt;
+for the latest updates.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://us.pycon.org/2012"&gt;|image0|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://surveymonkey.com"&gt;|SurveyMonkey|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://bitbucket.org"&gt;|image2|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://wingware.com"&gt;|Wingware|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://newrelic.com"&gt;|image4|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://python.org/psf"&gt;|Python Software Foundation|&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="grant-program"&gt;
+&lt;h3&gt;Grant Program&lt;/h3&gt;
+&lt;p&gt;The PyLadies have teamed up with the PSF to help increase diversity at
+PyCon US 2012!&amp;nbsp; Read more about &lt;a class="reference external" href="/blog/call-for-applications-and-sponsors-for-pyladies-pycon-us-2012/"&gt;our grant
+program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NEW: `a final report of our grant program is now
+available! &amp;lt;/admin/pages/contentpage/17/events/2012-pyladies-pycon-grant-program-final-results&amp;gt;`_&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attendees&lt;/strong&gt;: If you are a female Python developer who wants to attend
+but needs financial assistance in order to do so, please&amp;nbsp;&lt;a class="reference external" href="https://docs.google.com/spreadsheet/viewform?formkey=dEtUbUZxZWN6V3FGdkVydEtvU2ZwMUE6MQ"&gt;fill out
+this
+form&lt;/a&gt;
+to apply for a PyLadies grant to attend PyCon 2012. &lt;strong&gt;The application
+period has ended&lt;/strong&gt;; if you applied and have not received an update on
+your application status, please email esther &amp;#64; pyladies.com immediately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sponsors&lt;/strong&gt;: please contact esther &amp;#64; pyladies.com to discuss possible
+sponsorship opportunities for the PyLadies &amp;#64; PyCon 2012 Grant Program.
+Here's your chance to join the illustrious group of diversity-loving
+Python shops shown on this page.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Pycon"></category></entry><entry><title>Events</title><link href="http://www.pyladies.com/events.html" rel="alternate"></link><updated>2012-02-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/events.html</id><summary type="html">&lt;div class="section" id="work-on-intermediate-python-skills"&gt;
+&lt;h2&gt;&lt;strong&gt;Work on Intermediate Python Skills&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Saturday, February 25, 2012&lt;/p&gt;
+&lt;p&gt;7257 Beverly BLVD Suite 210&lt;/p&gt;
+&lt;p&gt;Los Angeles,&amp;nbsp;CA&amp;nbsp;90036&lt;/p&gt;
+&lt;p&gt;Join your fellow Python developers for an all day event hosted
+by&amp;nbsp;&lt;a class="reference external" href="http://www.spire.io/"&gt;Spire.io&lt;/a&gt;&amp;nbsp;(formerly known as
+BorderStylo).&amp;nbsp;We'll be going through an introduction of classes,
+iterators, control statements and&amp;nbsp;python data structures (dictionaries
+and lists and tuples). This is a great workshop for folks who have been
+to one of our beginner workshops and is ready to take the next steps!&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry></feed>
