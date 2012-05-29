@@ -3,9 +3,9 @@ Call for Sponsorship
 
 :tags: Archive
 :category: Blog
+:author: Audrey Roy
+:date: 2011-06-30 22:14
 
-By `Audrey Roy </blog/author/audreyr/>`_ posted June 30, 2011, 10:14
-p.m.
 
 PyLadies needs your help getting women to DjangoCon.  There are women
 who could really benefit from the experience.  
@@ -82,5 +82,4 @@ If you're a woman reading this and could use assistance, email audreyr
 {at} pyladies {dot} com.  We'll do our best to help as many women as
 possible.
 
-.. |Why is @estherbester going to
-DjangoCon?| image:: http://farm7.static.flickr.com/6055/5888664375_d84b17a4d9.jpg
+.. |Why is @estherbester going to DjangoCon?| image:: http://farm7.static.flickr.com/6055/5888664375_d84b17a4d9.jpg

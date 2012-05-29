@@ -1,3 +1,4 @@
+----------------------------------------------------
 Recap: June 2011 Hollywood Hackathon at Border Stylo
 ----------------------------------------------------
 
@@ -7,9 +8,9 @@ Recap: June 2011 Hollywood Hackathon at Border Stylo
 :date: 2011-06-24 3:10
 
 
-Last Saturday we held our first hackathon of the summer at the offices of `Border Stylo <http://borderstylo.com>`_ in Hollywood, in partnership with the `SoCal Python Interest Group <http://socal-piggies.org>`_ (“SoCal Piggies”). We invited not only newcomers to Python programming, like those who attended the `May Beginner’s Workshop, </blog/intro-to-python-workshop-recap/>`_ but also seasoned developers who came to hack away on their own projects -- and who happily volunteered themselves to be mentors to those aforementioned n00bs.
+Last Saturday we held our first hackathon of the summer at the offices of `Border Stylo <http://borderstylo.com>`_ in Hollywood, in partnership with the `SoCal Python Interest Group <http://socal-piggies.org>`_ (“SoCal Piggies”). We invited not only newcomers to Python programming, like those who attended the `May Beginner’s Workshop, </blog/3_intro-to-python-workshop-recap.html>`_ but also seasoned developers who came to hack away on their own projects -- and who happily volunteered themselves to be mentors to those aforementioned n00bs.
 
-Roughly 60% of the day’s 55 in-person participants and 90% of the 30 remote participants were female, well beyond the PyLadies’ goal of having a 1:1 male-female ratio at Pythonista events.  
+Roughly 60% of the day’s 55 in-person participants and 90% of the 30 remote participants were female, well beyond the PyLadies’ goal of having a 1:1 male-female ratio at Pythonista events.
 
 OSS Bounty
 
@@ -60,13 +61,13 @@ Though the Hollywood sky was outside was warm and bright, we soon drifted back i
 -  Sandy shared some `amazing <http://www.youtube.com/watch?v=Kg0Rvj-Seto>`_ demos <http://www.youtube.com/watch?v=WDqYWsl39Ro>`_ of `Python <http://openkinect.org/wiki/Python_Wrapper>`_-`Xbox Kinect <http://en.wikipedia.org/wiki/Kinect>`_ `hacking <http://www.youtube.com/watch?v=PYq9gkdpiS8>`_
 -  `Jacob <http://twitter.com/jacobburch>`_ gave a PEP8 talk on best practices
 -  `Jeff <https://twitter.com/#%21/jeffschenck>`_ admonished us to leave no Windows developers behind
--  Katharine and Danny proffered some `words <http://kjamistan.tumblr.com/post/6675268237/on-becoming-a-fabulous-pythonista>`_ of `encouragement <http://www.slideshare.net/pydanny/confessions-of-a-joe-developer>`_ for developers of all skill levels. 
+-  Katharine and Danny proffered some `words <http://kjamistan.tumblr.com/post/6675268237/on-becoming-a-fabulous-pythonista>`_ of `encouragement <http://www.slideshare.net/pydanny/confessions-of-a-joe-developer>`_ for developers of all skill levels.
 
 .. raw: html
 
     TODO `|IMG\_2518a.jpg| <http://www.flickr.com/photos/pyladies/5851386011/>`_
 
-After the lightning talks, it was time to clean up, load out, and head over to the Melgard Public House for some well-earned beer and socializing time!  This part was originally supposed to be Python Ladies’ Night 4, but once we found that the PyDudes weren’t so bad to hang out with,  we gladly invited them along.  Fun was had by all!
+After the lightning talks, it was time to clean up, load out, and head over to the Melgard Public House for some well-earned beer and socializing time!  This part was originally supposed to be Python Ladies’ Night 4, but once we found that the PyDudes weren’t so bad to hang out with, we gladly invited them along.  Fun was had by all!
 
 Big Thank-Yous
 ^^^^^^^^^^^^^^
@@ -86,16 +87,12 @@ We really want to keep the momentum going for opening up the Python community to
 
 .. raw: html
 
-    TODO
-
-    `|image7| <https://twitter.com/#%21/bravoflix/statuses/82447967637872641>`_
+    TODO `|image7| <https://twitter.com/#%21/bravoflix/statuses/82447967637872641>`_
 
 To that end, we’ve got at least `a few more hackathons and other cool outings </events>`_ in the works, so don’t forget to sign up for our mailing list, and `follow us on Twitter <http://twitter.com/pyladies>`_ so you'll be the first to know when and where and what the PyLadies will be doing next! Thanks to all who attended, whether virtually or in-person -- and sorry to those on the waitlist who couldn't: we hope you'll catch us earlier next time, or connect with us online!
 
-.. |Chris and
-Audrey| image:: http://farm3.static.flickr.com/2536/5851930958_1c71ea5c0f_m.jpg
-.. |The Future of
-Python| image:: http://farm6.static.flickr.com/5157/5851379185_1f82df2c51_m.jpg
+.. |Chris and Audrey| image:: http://farm3.static.flickr.com/2536/5851930958_1c71ea5c0f_m.jpg
+.. |The Future of Python| image:: http://farm6.static.flickr.com/5157/5851379185_1f82df2c51_m.jpg
 .. |image2| image:: http://style.esthernam.com/pyladies/images/poland.png
 .. |IMG\_1649.JPG| image:: http://farm3.static.flickr.com/2720/5865614874_48f47f16e8_m.jpg
 .. |IMG\_2468a.jpg| image:: http://farm6.static.flickr.com/5224/5851383215_1b5368d3a5.jpg
