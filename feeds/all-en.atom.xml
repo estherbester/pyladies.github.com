@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-21T06:00:00Z</updated><entry><title>SF PyLadies First Workshop: Build your own Blog</title><link href="http://www.pyladies.com/sf-pyladies-first-workshop-build-your-own-blog.html" rel="alternate"></link><updated>2012-05-21T06:00:00Z</updated><author><name>Lynn Root</name></author><id>http://www.pyladies.com/sf-pyladies-first-workshop-build-your-own-blog.html</id><summary type="html">&lt;p&gt;:emphasis:[Ed. note: This post about the first San Francisco PyLadies chapter's workshop is
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-06-07T21:10:00Z</updated><entry><title>New Web Site</title><link href="http://www.pyladies.com/new-web-site.html" rel="alternate"></link><updated>2012-06-07T21:10:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/new-web-site.html</id><summary type="html">&lt;p&gt;New format! Pelican. Hope you like it! Hope you contribute.&lt;/p&gt;
+</summary><category term="Meta"></category></entry><entry><title>SF PyLadies First Workshop: Build your own Blog</title><link href="http://www.pyladies.com/sf-pyladies-first-workshop-build-your-own-blog.html" rel="alternate"></link><updated>2012-05-21T06:00:00Z</updated><author><name>Lynn Root</name></author><id>http://www.pyladies.com/sf-pyladies-first-workshop-build-your-own-blog.html</id><summary type="html">&lt;p&gt;&lt;em&gt;[Ed. note:&lt;/em&gt; This post about the first San Francisco PyLadies chapter's workshop is
 copied straight from &lt;a class="reference external" href="http://www.roguelynn.com/2012/05/16/pyladies-first-workshop-build-your-own-blog/"&gt;Lynn's personal
 blog&lt;/a&gt;
 (with Lynn's generous permission -- thanks!)]&lt;/p&gt;
@@ -132,34 +133,7 @@ impact that this kind of program can have, which is why it means so much
 to me personally to see it succeed. Best of all, my own trip to PyCon
 this year was fully paid for by my new employer =D&amp;nbsp; Cheers! - Esther N.
 Questions, comments, suggestions? Email: &lt;a class="reference external" href="mailto:sponsors&amp;#64;pyladies.com"&gt;sponsors&amp;#64;pyladies.com&lt;/a&gt;&lt;/p&gt;
-</summary><category term="Pycon"></category></entry><entry><title>Chat</title><link href="http://www.pyladies.com/chat.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/chat.html</id><summary type="html">&lt;div class="section" id="pyladies-on-freenode"&gt;
-&lt;h2&gt;#pyladies on FreeNode&lt;/h2&gt;
-&lt;p&gt;Our IRC channel, #pyladies on FreeNode, is open to all women of the
-Python community of every experience level. &amp;nbsp;Men who are interested in
-helping women get into Python development are also welcome.&lt;/p&gt;
-&lt;p&gt;Whether you have Python-related questions or just want to hang out and
-meet others, drop in and say hi! &amp;nbsp;If no one answers, say the name of
-someone in the channel or try back later.&lt;/p&gt;
-&lt;p&gt;New to IRC? &amp;nbsp;&lt;a class="reference external" href="/chat/irc-instructions/"&gt;Click here for instructions&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="discussion-list-google-group"&gt;
-&lt;h2&gt;Discussion List (Google Group)&lt;/h2&gt;
-&lt;p&gt;We also have a Google Group discussion list, open to all women of any
-experience level with Python. &amp;nbsp;As with IRC channel #pyladies, men are
-welcome too. &amp;nbsp;The only rule is that you try extra-hard to be positive
-and encouraging.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://groups.google.com/group/pyladies/"&gt;https://groups.google.com/group/pyladies/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;You can subscribe here:&lt;/p&gt;
-&lt;div class="figure align-center"&gt;
-&lt;img alt="Google Groups" src="http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif" /&gt;
-&lt;p class="caption"&gt;Google Groups&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://groups.google.com/group/pyladies"&gt;Visit this group&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This is not to be confused with our low-volume PyLadies newsletter (the
-mailing list for announcements). &amp;nbsp;Use the box on the right sidebar to
-subscribe to that one.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>IRC Instructions</title><link href="http://www.pyladies.com/irc-instructions.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/irc-instructions.html</id><summary type="html">&lt;div class="section" id="how-to-connect-to-the-pyladies-irc-channel"&gt;
+</summary><category term="Pycon"></category></entry><entry><title>IRC Instructions</title><link href="http://www.pyladies.com/irc-instructions.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/irc-instructions.html</id><summary type="html">&lt;div class="section" id="how-to-connect-to-the-pyladies-irc-channel"&gt;
 &lt;h2&gt;How to connect to the PyLadies IRC channel:&lt;/h2&gt;
 &lt;div class="section" id="to-join-us-you-will-need-the-following"&gt;
 &lt;h3&gt;To join us, you will need the following:&lt;/h3&gt;
@@ -411,130 +385,7 @@ Here's your chance to join the illustrious group of diversity-loving
 Python shops shown on this page.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="Pycon"></category></entry><entry><title>Resources</title><link href="http://www.pyladies.com/resources.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/resources.html</id><summary type="html">&lt;p&gt;Here's a list of useful resources for learning and using Python. &amp;nbsp;If you
-have further questions, please come to the next PyLadies event and ask
-any of the organizers for advice or help.&lt;/p&gt;
-&lt;p&gt;We also go to all the Python user group meetups in the area (see below).
-&amp;nbsp;You should come too -- it's a fun community! &amp;nbsp;Don't be shy about
-bothering any of us for Python help at user groups.&lt;/p&gt;
-&lt;div class="section" id="learning-python"&gt;
-&lt;h2&gt;Learning Python&lt;/h2&gt;
-&lt;div class="section" id="intro-to-python-tutorials"&gt;
-&lt;h3&gt;Intro to Python tutorials&lt;/h3&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Learn Python The Hard Way
-&lt;a class="reference external" href="http://learnpythonthehardway.org/"&gt;http://learnpythonthehardway.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;How to Think Like a Computer Scientist
-&lt;a class="reference external" href="http://greenteapress.com/thinkpython/html/"&gt;http://greenteapress.com/thinkpython/html/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="user-groups"&gt;
-&lt;h3&gt;User Groups&lt;/h3&gt;
-&lt;p&gt;A great way to continue learning Python is to work on your own, then
-attend presentations and ask questions at local user groups. &amp;nbsp;Attend as
-many as you can!&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;PyLadies &lt;a class="reference external" href="http://pyladies.com/"&gt;http://pyladies.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SoCal Piggies
-&lt;a class="reference external" href="http://socal-piggies.org/scp"&gt;http://socal-piggies.org/scp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;LA Python
-&lt;a class="reference external" href="http://www.meetup.com/lapython/"&gt;http://www.meetup.com/lapython/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;LA Django (see below)
-&lt;a class="reference external" href="http://www.meetup.com/ladjango/"&gt;http://www.meetup.com/ladjango/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="newsletters"&gt;
-&lt;h3&gt;Newsletters&lt;/h3&gt;
-&lt;p&gt;Python Weekly is a free weekly newsletter all about Python (articles,
-news, jobs, etc)
-&lt;a class="reference external" href="http://www.pythonweekly.com"&gt;http://www.pythonweekly.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="tools"&gt;
-&lt;h2&gt;Tools&lt;/h2&gt;
-&lt;div class="section" id="text-editors"&gt;
-&lt;h3&gt;Text editors&lt;/h3&gt;
-&lt;p&gt;gEdit, Notepad++, Sublime.
-More “advanced” editors are emacs, vim (although &amp;#64;audreyr knows how to
-use both of those pretty well and still swears by gEdit for everything)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="ides"&gt;
-&lt;h3&gt;IDEs&lt;/h3&gt;
-&lt;p&gt;PyCharm, Eclipse with PyDev plugin, Wingware&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="highly-recommended-python-package-tools"&gt;
-&lt;h3&gt;Highly recommended Python package tools&lt;/h3&gt;
-&lt;p&gt;pip: better installation of packages
-&lt;a class="reference external" href="http://www.pip-installer.org/"&gt;http://www.pip-installer.org/&lt;/a&gt;
-virtualenv: create isolated Python environments
-&lt;a class="reference external" href="http://www.virtualenv.org/"&gt;http://www.virtualenv.org&lt;/a&gt;
-virtualenvwrapper: make virtualenv easier to use
-&lt;a class="reference external" href="http://www.doughellmann.com/projects/virtualenvwrapper/"&gt;http://www.doughellmann.com/projects/virtualenvwrapper/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="using-python-to-build-web-apps"&gt;
-&lt;h2&gt;Using Python to build web apps&lt;/h2&gt;
-&lt;div class="section" id="django"&gt;
-&lt;h3&gt;Django&lt;/h3&gt;
-&lt;p&gt;One of the most popular web frameworks.
-&amp;nbsp;&lt;a class="reference external" href="http://www.djangoproject.com/"&gt;http://www.djangoproject.com/&lt;/a&gt;
-Official Django poll app tutorial: recommended if you don’t know where
-to start with using Python for web programming.
-&lt;a class="reference external" href="https://docs.djangoproject.com/en/1.3/intro/tutorial01/"&gt;https://docs.djangoproject.com/en/1.3/intro/tutorial01/&lt;/a&gt;
-Develop your web app locally and then deploy it onto a web server. &amp;nbsp;We
-recommend one of the following Django hosting options:
-DjangoZoom &lt;a class="reference external" href="http://djangozoom.com/"&gt;http://djangozoom.com/&lt;/a&gt;
-Webfaction &lt;a class="reference external" href="http://www.webfaction.com/"&gt;http://www.webfaction.com/&lt;/a&gt;
-Gondor.io &lt;a class="reference external" href="https://gondor.io/"&gt;https://gondor.io/&lt;/a&gt;
-ep.io &lt;a class="reference external" href="http://www.ep.io/"&gt;http://www.ep.io/&lt;/a&gt;
-Several of the PyLadies organizers use Django regularly and are members
-of LA Django. Come to this meetup every month to learn more:
-&lt;a class="reference external" href="http://www.meetup.com/ladjango/"&gt;http://www.meetup.com/ladjango/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="other-web-frameworks"&gt;
-&lt;h3&gt;Other web frameworks&lt;/h3&gt;
-&lt;p&gt;These have smaller communities but can also be interesting, depending on
-your needs:
-Pyramid (merger of Pylons and repoze.bfg)
-&lt;a class="reference external" href="http://docs.pylonsproject.org/projects/pyramid/dev/"&gt;http://docs.pylonsproject.org/projects/pyramid/dev/&lt;/a&gt;
-Flask &lt;a class="reference external" href="http://flask.pocoo.org/"&gt;http://flask.pocoo.org/&lt;/a&gt;
-GAE
-&lt;a class="reference external" href="http://code.google.com/appengine/"&gt;http://code.google.com/appengine/&lt;/a&gt;
-Lots more options to choose from. &amp;nbsp;We’ll post a link to Katharine’s web
-frameworks lightning talk here shortly.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="organizing-your-own-women-s-python-workshops"&gt;
-&lt;h2&gt;Organizing your own women's Python workshops&lt;/h2&gt;
-&lt;p&gt;Are you&amp;nbsp;interested in doing a women's Python workshop of your own in
-your city? &amp;nbsp;Email any of the organizers and we'll help you get the word
-out. &amp;nbsp;We'll tweet, post blog entries, and do whatever we can to help.&lt;/p&gt;
-&lt;p&gt;We don't care what you call it, how you structure it, or whether you're
-male or female. &amp;nbsp;Any effort you put into encouraging women to join the
-Python community is something that we support.&lt;/p&gt;
-&lt;div class="section" id="our-own-materials"&gt;
-&lt;h3&gt;Our own materials&lt;/h3&gt;
-&lt;p&gt;The slides from our talks are all available from:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/resources/slides-from-51511-beginners-workshop/"&gt;http://www.pyladies.com/resources/slides-from-51511-beginners-workshop/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="other-workshop-materials"&gt;
-&lt;h3&gt;Other workshop materials&lt;/h3&gt;
-&lt;p&gt;Here are links to other women's Python workshops. &amp;nbsp;If you don't reach
-out to us, reach out to them.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://pystar.org/"&gt;http://pystar.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://wiki.montrealpython.org/wiki/PythonIntroduction-2011-05-03"&gt;http://wiki.montrealpython.org/wiki/PythonIntroduction-2011-05-03&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="community-building"&gt;
-&lt;h2&gt;Community-building&lt;/h2&gt;
-&lt;p&gt;Workshops are just one part of PyLadies' effort to increase the female
-count in the Python world. &amp;nbsp;PyLadies is a community of female developers
-who care about helping other women get into Python.&lt;/p&gt;
-&lt;p&gt;We plan to put together a package of materials to help you build your
-own local women's Python community. &amp;nbsp;We'll be posting a &amp;quot;PyLadies Kit&amp;quot;
-here soon.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Slides from 5/15/11 Beginner's Workshop</title><link href="http://www.pyladies.com/slides-from-51511-beginners-workshop.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/slides-from-51511-beginners-workshop.html</id><summary type="html">&lt;p&gt;Here are links to the slides prepared by the presenters at the first
+</summary><category term="Pycon"></category></entry><entry><title>Slides from 5/15/11 Beginner's Workshop</title><link href="http://www.pyladies.com/slides-from-51511-beginners-workshop.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/slides-from-51511-beginners-workshop.html</id><summary type="html">&lt;p&gt;Here are links to the slides prepared by the presenters at the first
 PyLadies Beginner's Workshop on May 15th, 2011 at KPCC's Crawford Family
 Forum in Pasadena.&lt;/p&gt;
 &lt;div class="section" id="why-python"&gt;
@@ -566,18 +417,6 @@ Forum in Pasadena.&lt;/p&gt;
 &lt;li&gt;Inequality by Jess Stanton&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>T-Shirts</title><link href="http://www.pyladies.com/t-shirts.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/t-shirts.html</id><summary type="html">&lt;p&gt;A lot of the Intro to Python workshop attendees were asking about our
-PyLadies t-shirts. &amp;nbsp;We ordered them from our Spreadshirt shop:
-&lt;a class="reference external" href="http://pyladies.spreadshirt.com/"&gt;http://pyladies.spreadshirt.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Here are some photos of how the shirts look. &amp;nbsp;(We think they look even
-better in person)&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719496119/"&gt;|Black/white on gray PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719496719/"&gt;|Red/black on light gray PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719495787/"&gt;|Teal/white on black PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719496423/"&gt;|Magenta/black on dark gray PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5720059026/"&gt;|Red/black on dark gray PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5719497023/"&gt;|Red/black on magenta PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/pyladies/5720058700/"&gt;|Maroon/white on black PyLadies t-shirt|&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>pyladies.com site setup</title><link href="http://www.pyladies.com/pyladiescom-site-setup.html" rel="alternate"></link><updated>2012-05-04T20:38:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pyladiescom-site-setup.html</id><summary type="html">&lt;p&gt;The actual pyladies.com website, redone using Github static pages so the entire world can see articles and events in progress. If something isn't listed, then submit a contribution.&lt;/p&gt;
 &lt;p&gt;How to get it running:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;pip install pelican
@@ -1184,7 +1023,7 @@ TODO `|IMG\_2518a.jpg| &lt;http://www.flickr.com/photos/pyladies/5851386011/&gt;
 
 TODO `|IMG\_2529.JPG| &lt;http://www.flickr.com/photos/pyladies/5851937660/&gt;`_ --&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./blog/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 3); &lt;em&gt;&lt;a href="#id1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;./archive/7_recap-june-2011-hollywood-hackathon-at-border-stylo.rst&lt;/tt&gt;, line 3); &lt;em&gt;&lt;a href="#id1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Duplicate explicit target name: &amp;quot;border stylo&amp;quot;.&lt;/div&gt;
 &lt;p&gt;Gabriel, who played the part of event host on behalf of &lt;a class="reference external" href="http://www.borderstylo.com"&gt;Border Stylo&lt;/a&gt;, said that of all the events his company has held (which is a lot!), ours was by far the smoothest and most awesome.  Hope this means you’ll have us back, Gabe!&lt;/p&gt;
 &lt;p&gt;We of course have to thank the &lt;a class="reference external" href="http://www.python.org/psf/"&gt;Python Software Foundation&lt;/a&gt; for giving us &lt;a class="reference external" href="/blog/thank-you-python-software-foundation/"&gt;two&lt;/a&gt; &lt;a class="reference external" href="http://pythonsprints.com"&gt;grants&lt;/a&gt; to support this hackathon.  Thanks to them, we were able to purchase enough tables and chairs to keep 55 hackers coding happily away in the same room, which led to much mingling and mentoring.  They also helped foot the bill for drinks, snacks and dinner, so that we could fortify our hardworking brains with glucose-heavy treats and sodas all day long. And let's not forget the wonderful T-shirts for open source contributors!&lt;/p&gt;
@@ -1290,7 +1129,7 @@ let us know.&lt;/p&gt;
 &lt;p&gt;Congratulations to all 25 ladies and 2 men who completed our intro
 workshop, and special thanks to all the men who attended and volunteered
 for braving the crowd of ladies.&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Jessica McKellar to be Keynote speaker at DjangoCon Europe!</title><link href="http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html" rel="alternate"></link><updated>2011-05-17T06:00:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html</id><summary type="html">&lt;p&gt;:emphasis:[Originally posted on the &lt;a class="reference external" href="http://2012.djangocon.eu/blog/announcing-our-second-keynote-speaker-jessica-mcke/"&gt;DjangoCon Europe
+</summary><category term="Archive"></category></entry><entry><title>Jessica McKellar to be Keynote speaker at DjangoCon Europe!</title><link href="http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html" rel="alternate"></link><updated>2011-05-17T06:00:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/jessica-mckellar-to-be-keynote-speaker-at-djangocon-europe.html</id><summary type="html">&lt;p&gt;&lt;em&gt;[Ed. note:&lt;/em&gt; Originally posted on the &lt;a class="reference external" href="http://2012.djangocon.eu/blog/announcing-our-second-keynote-speaker-jessica-mcke/"&gt;DjangoCon Europe
 blog&lt;/a&gt;.
 Thanks Jonas for letting us repost here! &lt;a class="reference external" href="http://2012.djangocon.eu/"&gt;DjangoCon Europe
 2012&lt;/a&gt; will go from June 4-June 8 in Zurich,
@@ -1308,7 +1147,7 @@ Group, the largest Python user group in the world. With that group she
 runs the Boston Python Workshop, an introductory programming pipeline
 that has brought hundreds of women into the local Python community and
 is being replicated in cities across the US.&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Building A Great Work Culture (Inspire, Empower And Collaborate)</title><link href="http://www.pyladies.com/building-a-great-work-culture-inspire-empower-and-collaborate.html" rel="alternate"></link><updated>2011-05-16T06:00:00Z</updated><author><name>Pam Selle</name></author><id>http://www.pyladies.com/building-a-great-work-culture-inspire-empower-and-collaborate.html</id><summary type="html">&lt;p&gt;:emphasis:[Ed. note: Thanks to Pam and Angie for letting us repost this from &lt;a class="reference external" href="http://www.women2.com/building-a-great-work-culture-inspire-empower-and-collaborate/"&gt;the
+</summary><category term="Archive"></category></entry><entry><title>Building A Great Work Culture (Inspire, Empower And Collaborate)</title><link href="http://www.pyladies.com/building-a-great-work-culture-inspire-empower-and-collaborate.html" rel="alternate"></link><updated>2011-05-16T06:00:00Z</updated><author><name>Pam Selle</name></author><id>http://www.pyladies.com/building-a-great-work-culture-inspire-empower-and-collaborate.html</id><summary type="html">&lt;p&gt;&lt;em&gt;[Ed. note:&lt;/em&gt; Thanks to Pam and Angie for letting us repost this from &lt;a class="reference external" href="http://www.women2.com/building-a-great-work-culture-inspire-empower-and-collaborate/"&gt;the
 Women 2.0
 blog&lt;/a&gt;!]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;There are three key ingredients to a great culture boosting
@@ -1493,7 +1332,7 @@ hung out and chatted poolside.&lt;/p&gt;
 &lt;p&gt;Our next ladies' night is scheduled for May 6, 2011. &amp;nbsp;If you'd like to
 come and get involved, please contact me at &lt;a class="reference external" href="mailto:audreyr&amp;#64;cartwheelweb.com"&gt;audreyr&amp;#64;cartwheelweb.com&lt;/a&gt; for
 more details.&lt;/p&gt;
-</summary><category term="Archive"></category></entry><entry><title>Bay Area Girl Geek Dinner at Yelp</title><link href="http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html" rel="alternate"></link><updated>2011-03-29T06:00:00Z</updated><author><name>Lynn Root</name></author><id>http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html</id><summary type="html">&lt;p&gt;:emphasis:[Ed. note] The most recent &lt;a class="reference external" href="http://bayareagirlgeekdinners.com"&gt;Bay Area Girl Geek
+</summary><category term="Archive"></category></entry><entry><title>Bay Area Girl Geek Dinner at Yelp</title><link href="http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html" rel="alternate"></link><updated>2011-03-29T06:00:00Z</updated><author><name>Lynn Root</name></author><id>http://www.pyladies.com/bay-area-girl-geek-dinner-at-yelp.html</id><summary type="html">&lt;p&gt;&lt;em&gt;[Ed. note]&lt;/em&gt; The most recent &lt;a class="reference external" href="http://bayareagirlgeekdinners.com"&gt;Bay Area Girl Geek
 Dinner&lt;/a&gt; was Python-themed, and
 hosted by Yelp. Many thanks to &lt;a class="reference external" href="http://twitter.com/roguelynn"&gt;Lynn&lt;/a&gt;
 for letting us repost this article from &lt;a class="reference external" href="http://www.roguelynn.com/2012/03/28/girl-geek-dinner/"&gt;her

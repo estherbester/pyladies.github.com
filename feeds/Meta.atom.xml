@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/Meta.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-06-07T21:10:00Z</updated><entry><title>New Web Site</title><link href="http://www.pyladies.com/new-web-site.html" rel="alternate"></link><updated>2012-06-07T21:10:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/new-web-site.html</id><summary type="html">&lt;p&gt;New format! Pelican. Hope you like it! Hope you contribute.&lt;/p&gt;
+</summary><category term="Meta"></category></entry></feed>

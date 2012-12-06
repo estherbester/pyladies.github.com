@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/Resources.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-05T13:55:00Z</updated><entry><title>Slides from 5/15/11 Beginner's Workshop</title><link href="http://www.pyladies.com/slides-from-51511-beginners-workshop.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/slides-from-51511-beginners-workshop.html</id><summary type="html">&lt;p&gt;Here are links to the slides prepared by the presenters at the first
+PyLadies Beginner's Workshop on May 15th, 2011 at KPCC's Crawford Family
+Forum in Pasadena.&lt;/p&gt;
+&lt;div class="section" id="why-python"&gt;
+&lt;h2&gt;Why Python?&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.google.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoYWFhOWJiNWItYTdiMi00Yjc2LWJmM2ItNjE0Njk1NWQ4ODlj&amp;amp;hl=en_US&amp;amp;authkey=CIXS2d0L"&gt;Introduction&lt;/a&gt; by Christine Cheung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="intro-to-python-lpthw"&gt;
+&lt;h2&gt;Intro to Python: LPTHW&lt;/h2&gt;
+&lt;p&gt;-&amp;nbsp;&lt;a class="reference external" href="http://learnpythonthehardway.org/"&gt;Learn Python the Hard Way&lt;/a&gt; by Zed Shaw (we went through the PDF tutorial as-is, unmodified)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="breakout-sessions"&gt;
+&lt;h2&gt;Breakout Sessions&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://dl.dropbox.com/u/19508576/signals/pyladies-workshop.html"&gt;Scraping the web with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docs.djangoproject.com"&gt;Introduction to Django&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="lightning-talks"&gt;
+&lt;h2&gt;Lightning Talks&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Equality by Jess Stanton&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://projecteuler.net"&gt;Project Euler&lt;/a&gt; (live demo) by Christine Cheung&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://dl.dropbox.com/u/19508576/signals/web-frameworks.html"&gt;Python Web Frameworks&lt;/a&gt; by Katharine Jarmul&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.google.com/a/pyladies.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoMTI0MGJhNGMtYjgyMi00NGYzLWFiYjEtNDc3OWNkYzkxYzkx&amp;amp;hl=en&amp;amp;authkey=CNm5je4J"&gt;Generators&lt;/a&gt; by Sandy Strong&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.google.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoNmI0MjE5MzgtMjA4MS00MmJkLTkxYzYtNDU4ZDBmZTYwOTI4&amp;amp;hl=en&amp;amp;authkey=CI_BgLQL"&gt;Ergonomics&lt;/a&gt; by Esther Nam&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.google.com/a/pyladies.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B5ImuRfdVTEoYWI1NTg0YjAtMTkxNi00ZTA3LWFmMDUtMmQ0ODczYTBkMGJl&amp;amp;hl=en&amp;amp;authkey=CMf_k9QH"&gt;The code behind Pyladies.com&lt;/a&gt; by Audrey Roy&lt;/li&gt;
+&lt;li&gt;Inequality by Jess Stanton&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry></feed>

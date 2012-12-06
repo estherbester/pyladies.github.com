@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/Connect.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-05T13:55:00Z</updated><entry><title>IRC Instructions</title><link href="http://www.pyladies.com/irc-instructions.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/irc-instructions.html</id><summary type="html">&lt;div class="section" id="how-to-connect-to-the-pyladies-irc-channel"&gt;
+&lt;h2&gt;How to connect to the PyLadies IRC channel:&lt;/h2&gt;
+&lt;div class="section" id="to-join-us-you-will-need-the-following"&gt;
+&lt;h3&gt;To join us, you will need the following:&lt;/h3&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;an IRC client (see Part B below) and;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2. the server/channel/port information for our channel (see Part A
+below)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="part-a-server-settings"&gt;
+&lt;h3&gt;Part A: Server Settings&lt;/h3&gt;
+&lt;p&gt;Server: &lt;a class="reference external" href="http://asimov.freenode.net/"&gt;asimov.freenode.net&lt;/a&gt; (obviously,
+this is on the FreeNode network):&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Channel: #pyladies
+Port: 6667
+&lt;/pre&gt;
+&lt;p&gt;Note: If for some reason you cannot connect to
+&lt;a class="reference external" href="http://asimov.freenode.net/"&gt;asimov.freenode.net&lt;/a&gt;, here is a page
+that lists the other FreeNode servers you can connect to:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://freenode.net/irc_servers.shtml"&gt;http://freenode.net/irc_servers.shtml&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="part-b-setting-up-an-irc-client"&gt;
+&lt;h3&gt;Part B: Setting up an IRC Client:&lt;/h3&gt;
+&lt;div class="section" id="linux-and-windows-xchat-installation"&gt;
+&lt;h4&gt;Linux and Windows - XChat Installation:&lt;/h4&gt;
+&lt;p&gt;sudo apt-get install xchat (Ubuntu and Debian Linux)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;or -&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.silverex.org/download/"&gt;http://www.silverex.org/download/&lt;/a&gt;
+(Windows)&lt;/p&gt;
+&lt;div class="section" id="configure"&gt;
+&lt;h5&gt;Configure:&lt;/h5&gt;
+&lt;p&gt;When you launch XChat, a “Network List” box will appear. Perform the
+following configuration:&lt;/p&gt;
+&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;p class="first"&gt;Choose a nick name (and alternates in case yours is taken)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;From the “Networks” box select “FreeNode” (XChat will select a FreeNode server to place you onto)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Click “Connect”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;A box that says “Connection Complete” will appear. Select the radio button labeled “Join this channel” and change the content of the box to read::&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;#pyladies&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Click “OK”.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You should now be in the #pyladies FreeNode channel&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="mac-os-limechat"&gt;
+&lt;h4&gt;Mac OS - LimeChat&lt;/h4&gt;
+&lt;p&gt;Installation:&lt;/p&gt;
+&lt;p&gt;Download LimeChat here:
+&lt;a class="reference external" href="http://limechat.net/mac/"&gt;http://limechat.net/mac/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Configure:
+1. Right-click on the lower right-hand panel of the LimeChat interface
+2. Select “Add Server”
+3. Enter the following configuration settings:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Server: &lt;a class="reference external" href="http://asimov.freenode.net/"&gt;asimov.freenode.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Port: 6667&lt;/li&gt;
+&lt;li&gt;Password: &amp;lt;leave blank&amp;gt;&lt;/li&gt;
+&lt;li&gt;Nickname: select a nickname for yourself&lt;/li&gt;
+&lt;li&gt;Click “Connect”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You should now be in the #pyladies FreeNode channel.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry></feed>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies</title><link href="http://www.pyladies.com" rel="alternate"></link><link href="http://www.pyladies.com/feeds/Pycon.atom.xml" rel="self"></link><id>http://www.pyladies.com</id><updated>2012-05-05T13:55:00Z</updated><entry><title>2012 PyLadies PyCon grant program - final results</title><link href="http://www.pyladies.com/2012-pyladies-pycon-grant-program-final-results.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/2012-pyladies-pycon-grant-program-final-results.html</id><summary type="html">&lt;p&gt;PyLadies supported 29 developers, with tickets and funds allocated as
+follows:&lt;/p&gt;
+&lt;p&gt;We would especially like to thank the &lt;a class="reference external" href="http://python.org/psf"&gt;Python Software
+Foundation&lt;/a&gt;, who worked with us to coordinate
+our financial program with theirs to maximize the amount of funding that
+would go toward increasing the diversity of PyCon attendance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Distribution of resources&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+11 tickets (Complimentary registrations)
+$2900.00 Purchased registrations
+$ 900.00 Reimbursement for tutorials
+$2444.40 Travel funding
+--
+$6244.40 Total funds disbursed
+&lt;/pre&gt;
+&lt;p&gt;100% of the monetary amount was offered to the 32 applicants who were
+eligible to receive funding, 97% of which was accepted by 29 of the 32
+applicants.&lt;/p&gt;
+&lt;p&gt;$206.60 remains of out of the money that was offered but not accepted,
+and will be set aside as seed funding to be put toward next yearâ€™s
+financial aid program.&lt;/p&gt;
+&lt;p&gt;Next year we hope to set aside more money to support at least one
+international PyLady.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="91%" /&gt;
+&lt;col width="9%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;STATISTICS&lt;/th&gt;
+&lt;th class="head"&gt;&amp;nbsp;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;In-state attendees&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Out-of-state&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;International&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;PyCon Speakers&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Poster Presenters&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Students&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;First-time attendees: 23&lt;/strong&gt;
+(I totally wanted to apply the &amp;lt;blink&amp;gt; tag on this one)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EVALUATION CRITERIA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Applicants were given priority according to the following weighted
+scale, based on information they provided on their applications,
+submitted bio, email correspondence, and any other material available
+(Github/Bitbucket/other online VCS accounts, blog posts, other
+references).&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="4%" /&gt;
+&lt;col width="96%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;%&lt;/th&gt;
+&lt;th class="head"&gt;Weight/Criterion&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;Speaking at PyCon - Speakers get top priority&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;20%&lt;/td&gt;
+&lt;td&gt;Open source/advocacy - Contributions to open source or diversity-advocacy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;15%&lt;/td&gt;
+&lt;td&gt;Financial need - Evidence of financial need&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;Potential life impact - Impact of attendance on career/academic/life goals&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5%&lt;/td&gt;
+&lt;td&gt;Prior experience/ability - Technical background/skills&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;ONGOING MENTORSHIP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All women who receive a grant also receive a lifetime of peer mentorship
+through the PyLadies community.&lt;/p&gt;
+&lt;p&gt;PyLadies encourages women to grow as leaders in the Python open-source
+community, with mentoring for interested conference speakers and
+opportunities for teaching and active discussion of Python programming
+issues, in addition to contributing to open-source projects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Disclosure&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Last September, a secret Python angel paid my entire way to DjangoCon,
+making it the first tech conference I ever attended. It was an amazing
+experience, one that led me to make a huge career switch, from
+programming hobbyist to full-time web developer. I know firsthand the
+impact that this kind of program can have, which is why it means so much
+to me personally to see it succeed. Best of all, my own trip to PyCon
+this year was fully paid for by my new employer =D&amp;nbsp; Cheers! - Esther N.
+Questions, comments, suggestions? Email: &lt;a class="reference external" href="mailto:sponsors&amp;#64;pyladies.com"&gt;sponsors&amp;#64;pyladies.com&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Pycon"></category></entry><entry><title>PyCon 2012</title><link href="http://www.pyladies.com/pycon-2012.html" rel="alternate"></link><updated>2012-05-05T13:55:00Z</updated><author><name>Esther Nam</name></author><id>http://www.pyladies.com/pycon-2012.html</id><summary type="html">&lt;div class="section" id="pyladies-pycon-2012"&gt;
+&lt;h2&gt;PyLadies &amp;#64; PyCon 2012&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="image0" src="https://dl.dropbox.com/u/39730/pyladiesblog/pycon/pix.png" /&gt;&lt;/p&gt;
+&lt;p&gt;March 7-15&lt;/p&gt;
+&lt;p&gt;Santa Clara, CA&lt;/p&gt;
+&lt;p&gt;We have big plans for PyCon this March!&lt;/p&gt;
+&lt;p&gt;Join us &lt;strong&gt;Saturday night&lt;/strong&gt; at David's Restaurant, near the conference
+venue, for an awesome party hosted by
+&lt;a class="reference external" href="http://surveymonkey.com"&gt;SurveyMonkey&lt;/a&gt;! There will be food, drinks,
+and socializing with top people in the Python community. The carousing
+begins at 7PM. Follow our &lt;a class="reference external" href="http://twitter.com/pyladies"&gt;Twitter feed&lt;/a&gt;
+for the latest updates.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://us.pycon.org/2012"&gt;|image0|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://surveymonkey.com"&gt;|SurveyMonkey|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://bitbucket.org"&gt;|image2|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://wingware.com"&gt;|Wingware|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://newrelic.com"&gt;|image4|&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://python.org/psf"&gt;|Python Software Foundation|&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="grant-program"&gt;
+&lt;h3&gt;Grant Program&lt;/h3&gt;
+&lt;p&gt;The PyLadies have teamed up with the PSF to help increase diversity at
+PyCon US 2012!&amp;nbsp; Read more about &lt;a class="reference external" href="/blog/call-for-applications-and-sponsors-for-pyladies-pycon-us-2012/"&gt;our grant
+program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NEW: `a final report of our grant program is now
+available! &amp;lt;/admin/pages/contentpage/17/events/2012-pyladies-pycon-grant-program-final-results&amp;gt;`_&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attendees&lt;/strong&gt;: If you are a female Python developer who wants to attend
+but needs financial assistance in order to do so, please&amp;nbsp;&lt;a class="reference external" href="https://docs.google.com/spreadsheet/viewform?formkey=dEtUbUZxZWN6V3FGdkVydEtvU2ZwMUE6MQ"&gt;fill out
+this
+form&lt;/a&gt;
+to apply for a PyLadies grant to attend PyCon 2012. &lt;strong&gt;The application
+period has ended&lt;/strong&gt;; if you applied and have not received an update on
+your application status, please email esther &amp;#64; pyladies.com immediately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sponsors&lt;/strong&gt;: please contact esther &amp;#64; pyladies.com to discuss possible
+sponsorship opportunities for the PyLadies &amp;#64; PyCon 2012 Grant Program.
+Here's your chance to join the illustrious group of diversity-loving
+Python shops shown on this page.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Pycon"></category></entry></feed>
